@@ -158,6 +158,7 @@ Clarify book structure. Perhaps:
 - Book II: Growing Up (teens, Aurora visit, young adulthood)
 - Book III: Building a Life (constellation formation, Elara, later years, transcendence)
 
+Designer post note: indeed it should have simply gone in that sequenec I, II, III. The loss of count is minor and should be corrected.
 ---
 
 ### 3.2 Theron Relationship Suggestion
@@ -168,6 +169,7 @@ The prototype notes: "Should change Theron to a grandparent or something."
 
 **Decision Needed:** Is Theron to remain an unrelated elder, or should he be retconned as an extended family member (e.g., great-great-grandparent from Aurora)? This would add emotional weight to the transcendence conversation.
 
+Designer note: Elder, however "unrelated" is not true because of the way people are born here. There is a connection between the genetics of the Astraviin in both, so there is a real familial connection even if it is way more complex and alien than what we are used to.
 ---
 
 ## PRIORITY 4: EVENTS INDEX INCONSISTENCIES
