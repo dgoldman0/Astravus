@@ -1,12 +1,12 @@
 # Meeting Aris
 
 ## Overview
-Calista meets [[Aris]] through their shared involvement in the artistic community of Lumina. This encounter marks the beginning of what will become one of the most important relationships of her life—first as creative collaborators and eventually as constellation partners.
+Calista meets [[Aris]] through their shared involvement in the artistic community of Lumen. This encounter marks the beginning of what will become one of the most important relationships of her life—first as creative collaborators and eventually as constellation partners.
 
 ## Setting
 
 ### Location
-- Community Art Center or artistic gathering, Lumina
+- Community Art Center or artistic gathering, Lumen
 
 ### Environment
 - Creative community setting
@@ -29,11 +29,11 @@ Calista meets [[Aris]] through their shared involvement in the artistic communit
 - [[Aris]] - Fellow artist
 
 ### Secondary
-- Other members of Lumina's artistic community
+- Other members of Lumen's artistic community
 
 ## Detailed Account
 
-Calista and Aris first encounter each other through their shared involvement in Lumina's artistic community. Aris, like Calista, is deeply passionate about creative expression, and this common ground forms the foundation of their connection.
+Calista and Aris first encounter each other through their shared involvement in Lumen's artistic community. Aris, like Calista, is deeply passionate about creative expression, and this common ground forms the foundation of their connection.
 
 Their initial interactions revolve around their art. They find themselves drawn into conversation about technique, inspiration, and the role of creativity in Astravian life. There's an immediate resonance between them—a sense that they understand each other on a level that goes beyond words.
 

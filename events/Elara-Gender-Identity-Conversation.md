@@ -6,7 +6,7 @@
 ## Setting
 
 ### Location
-- Private family space, Lumina
+- Private family space, Lumen
 - A comfortable setting for vulnerable conversation
 
 ### Environment
@@ -39,7 +39,7 @@ Elara approaches Calista with the particular nervousness of a child about to sha
 
 Calista receives this information with the warmth and acceptance that defines her parenting. There is no surprise or hesitation—only love and affirmation. She thanks Elara for trusting her with something so important and asks what Elara needs from her.
 
-The conversation that follows is an opportunity for Calista to demonstrate the values she was raised with. Just as Maia and Kael allowed Calista to find her own path, Calista creates space for Elara to be fully herself. She asks questions not to challenge but to understand—what pronouns feel right, what name if any she prefers, how Elara wants to navigate this with others.
+The conversation that follows is an opportunity for Calista to demonstrate the values she was raised with. Just as her five parents allowed Calista to find her own path, Calista creates space for Elara to be fully herself. She asks questions not to challenge but to understand—what pronouns feel right, what name if any she prefers, how Elara wants to navigate this with others.
 
 Calista shares some of her own journey of self-discovery, connecting across generations while respecting that Elara's experience is uniquely hers. She affirms that identity is personal and evolving, that there is no wrong way to be oneself.
 

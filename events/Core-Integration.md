@@ -6,7 +6,7 @@ At age thirty-five, Calista undergoes Core Integration—a profound biological a
 ## Setting
 
 ### Location
-- Integration chamber or ceremonial space, Lumina
+- Integration chamber or ceremonial space, Lumen
 
 ### Environment
 - Purpose-designed space for the integration process
@@ -29,7 +29,8 @@ At age thirty-five, Calista undergoes Core Integration—a profound biological a
 - [[Calista]] - Undergoing integration
 
 ### Secondary
-- [[Maia]] and [[Kael]] - Parents
+- [[Maia]], [[Arin]], [[Selene]], [[Dorian]], and [[Sage]] - Parents
+- [[Kael]] and [[Lyra]] - Siblings
 - [[Aris]] - Partner (if relationship established)
 - [[Cassia]] - Childhood friend
 - Integration facilitators

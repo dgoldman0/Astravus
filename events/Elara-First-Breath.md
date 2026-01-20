@@ -6,7 +6,7 @@
 ## Setting
 
 ### Location
-- Birth space in Lumina
+- Birth space in Lumen
 - Designed for safe and supported delivery
 
 ### Environment
@@ -33,8 +33,9 @@
 - [[Elara]] - Newborn
 
 ### Secondary
-- [[Maia]] - Grandmother
-- [[Kael]] - Grandfather
+- [[Maia]], [[Arin]], [[Selene]], [[Dorian]], [[Sage]] - Grandparents (Calista's five parents)
+- [[Kael]] - Uncle (Calista's older brother)
+- [[Lyra]] - Aunt (Calista's younger sister)
 - Birth attendants
 - Extended family waiting
 
@@ -46,9 +47,9 @@ The birth itself is both universal and utterly unique. Calista experiences the p
 
 When Elara takes her first breath—that small gasp that means a new consciousness has entered the world—Calista feels something shift fundamentally in her being. She is no longer just daughter, partner, artist. She is now mother, with all the fierce love and profound responsibility that entails.
 
-Looking into Elara's eyes for the first time, Calista sees both the stranger her child is and the family she comes from. There are echoes of Aris, of herself, of Maia and Kael. Yet Elara is already entirely herself—a new person beginning her own journey.
+Looking into Elara's eyes for the first time, Calista sees both the stranger her child is and the family she comes from. There are echoes of Aris, of herself, of her five parents. Yet Elara is already entirely herself—a new person beginning her own journey.
 
-The first days are a blur of wonder and exhaustion, of learning this new person and learning herself as a parent. Maia is there with quiet wisdom, sharing knowledge from her own experience raising Calista. The community too enfolds them in support.
+The first days are a blur of wonder and exhaustion, of learning this new person and learning herself as a parent. Her parents are there with quiet wisdom, sharing knowledge from their experience raising Calista. The community too enfolds them in support.
 
 ## Importance
 
@@ -80,11 +81,11 @@ The first days are a blur of wonder and exhaustion, of learning this new person 
 - New generation of family tradition
 
 ## Related Events
-- [[First-Breath]] - Calista's own birth
+- [[Calistas-First-Breath]] - Calista's own birth
 - [[Parenting-Preparation]] - Planning for this moment
 - [[Constellation-Formation]] - Foundation of their family
-- [[Lyra-Arrival]] - Second child
 - [[Elara-Gender-Identity-Conversation]] - Parenting milestone
+- [[Grandparent-Teaching-Moments]] - Elara learning from grandparents
 
 ## Source Material
 - Based on references to Elara as Calista and Aris's child

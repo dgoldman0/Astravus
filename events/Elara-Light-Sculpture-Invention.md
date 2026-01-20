@@ -6,7 +6,7 @@
 ## Setting
 
 ### Location
-- Elara's workshop/laboratory, Lumina
+- Elara's workshop/laboratory, Lumen
 - Public demonstration space
 
 ### Environment

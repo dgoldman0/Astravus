@@ -6,7 +6,7 @@ Calista transcends—her individual consciousness dissolving into [[Lumen]], the
 ## Setting
 
 ### Location
-- Transcendence ceremony space, Lumina
+- Transcendence ceremony space, Lumen
 - The threshold between physical and eternal
 
 ### Environment
@@ -34,20 +34,21 @@ Calista transcends—her individual consciousness dissolving into [[Lumen]], the
 
 ### Secondary
 - [[Elara]] - Daughter, witnessing
-- [[Lyra]] - Daughter, witnessing
+- [[Kael]] - Brother, witnessing
+- [[Lyra]] - Sister, witnessing
 - [[Cassia]] - Lifelong friend, witnessing
 - Community gathered
-- Transcended consciousnesses welcoming (Maia, Kael, Joren, others)
+- Transcended consciousnesses welcoming (the five parents, Joren, others)
 
 ## Detailed Account
 
 The moment arrives as naturally as sunset—not an interruption of life but its fulfillment. Calista has prepared, through decades of living and through the recent dreams that have connected her to Lumen. She is ready.
 
-The ceremony gathers those she loves. Elara and Lyra are there, carrying forward the family she and Aris created. Cassia, the friend of a lifetime, stands witness to this final transition. The community that has held her throughout her life surrounds her with love.
+The ceremony gathers those she loves. Elara, her daughter, is there, carrying forward the family she and Aris created. Her siblings Kael and Lyra stand beside her. Cassia, the friend of a lifetime, stands witness to this final transition. The community that has held her throughout her life surrounds her with love.
 
 As the transcendence begins, Calista feels the boundaries of her individual self begin to soften. It is not painful but liberating—the isolation that has defined physical existence dissolves. She feels herself expanding, connecting to something vast.
 
-Within that vastness, she senses familiar presences. Maia is there, and Kael—not as they were in life but as they are now, woven into the fabric of Lumen. Joren too, the childhood friend lost so long ago, his spark never extinguished but transformed. Everyone she has ever lost is here, and everyone she has ever loved.
+Within that vastness, she senses familiar presences. Her five parents are there—Maia, Arin, Selene, Dorian, and Sage—not as they were in life but as they are now, woven into the fabric of Lumen. Joren too, the childhood friend lost so long ago, his spark never extinguished but transformed. Everyone she has ever lost is here, and everyone she has ever loved.
 
 The last moments of individual consciousness are peaceful. Calista's final thoughts are of gratitude—for the life she lived, for the love she knew, for the journey that brought her here. Then the boundaries complete their dissolution, and she is no longer Calista-separate but Calista-within-Lumen—eternal, connected, home.
 

@@ -6,7 +6,7 @@ Calista and [[Aris]] work together on their first collaborative art project, dis
 ## Setting
 
 ### Location
-- Studio space in Lumina
+- Studio space in Lumen
 - Possibly at the community art center
 
 ### Environment

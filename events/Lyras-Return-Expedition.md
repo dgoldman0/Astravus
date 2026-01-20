@@ -6,7 +6,7 @@
 ## Setting
 
 ### Location
-- Arrival port in Lumina
+- Arrival port in Lumen
 - Later, family gathering space
 
 ### Environment
@@ -28,21 +28,22 @@
 
 ### Primary
 - [[Lyra]] - Returning explorer
-- [[Calista]] - Mother welcoming home
-- [[Aris]] - Parent welcoming home
+- [[Calista]] - Sister welcoming home
+- [[Aris]] - Calista's partner, welcoming home
 
 ### Secondary
-- [[Elara]] - Sister
+- [[Elara]] - Niece
+- [[Kael]] - Brother
 - Extended family
 - Fellow explorers
 
 ## Detailed Account
 
-Lyra's expeditions take her far from home for extended periods—venturing into unknown regions of space, discovering new phenomena, facing challenges that those on Lumina can only imagine. Each departure carries the weight of uncertainty; each return is cause for celebration.
+Lyra's expeditions take her far from home for extended periods—venturing into unknown regions of space, discovering new phenomena, facing challenges that those on Lumen can only imagine. Each departure carries the weight of uncertainty; each return is cause for celebration.
 
 This particular return follows a significant expedition. When Lyra appears—changed by her experiences, carrying new knowledge and new scars—the family's joy is profound. The child who once announced her intention to explore the stars has become a seasoned explorer, tested and proven.
 
-The reunion is emotional. Calista embraces her daughter, feeling how the years and experiences have shaped her. There is so much to share—stories of what Lyra has seen and done, stories of what has happened at home in her absence. The gap of separation must be bridged with words and presence.
+The reunion is emotional. Calista embraces her sister, feeling how the years and experiences have shaped her. There is so much to share—stories of what Lyra has seen and done, stories of what has happened at home in her absence. The gap of separation must be bridged with words and presence.
 
 In the days that follow, Lyra recounts her adventures. She speaks of worlds unlike anything in known Astravian space, of phenomena that challenge understanding, of moments of wonder and moments of danger. Her stories expand her family's understanding of the universe they inhabit.
 

@@ -6,7 +6,7 @@ Calista has a meaningful conversation with [[Cassia]] at a café, reflecting on 
 ## Setting
 
 ### Location
-- A café in Lumina
+- A café in Lumen
 
 ### Environment
 - Warm, comfortable gathering space

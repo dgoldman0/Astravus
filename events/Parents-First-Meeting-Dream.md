@@ -1,17 +1,17 @@
 # Parents' First Meeting Dream
 
 ## Overview
-Through a transcendent dream, Calista experiences a memory that was never her own—the moment when [[Maia]] and [[Kael]] first met and fell in love. This gift from Lumen connects her to her parents' origin story in an impossibly intimate way.
+Through a transcendent dream, Calista experiences a memory that was never her own—the moment when her five parents first came together and their constellation formed. This gift from Lumen connects her to her parents' origin story in an impossibly intimate way.
 
 ## Setting
 
 ### Location
 - Dreamscape memory of her parents' past
-- Young Maia and Kael's first meeting place
+- The place where the five parents first came together as a constellation
 
 ### Environment
-- Historical Lumina, decades before Calista's birth
-- Through young Maia's or Kael's perspective
+- Historical Lumen, decades before Calista's birth
+- Through the perspective of her parents as young people
 - Familiar yet distant in time
 
 ### Time
@@ -29,22 +29,25 @@ Through a transcendent dream, Calista experiences a memory that was never her ow
 ### Primary
 - [[Calista]] - Dreamer, witness
 - [[Maia]] - As a young person, in the memory
-- [[Kael]] - As a young person, in the memory
+- [[Arin]] - As a young person, in the memory
+- [[Selene]] - As a young person, in the memory
+- [[Dorian]] - As a young person, in the memory
+- [[Sage]] - As a young person, in the memory
 
 ### Secondary
 - Other figures from that time period
 
 ## Detailed Account
 
-This dream is different from the others. Rather than meeting transcended consciousness in a symbolic space, Calista finds herself inside a memory—experiencing what seems to be the actual moment her parents first met.
+This dream is different from the others. Rather than meeting transcended consciousness in a symbolic space, Calista finds herself inside a memory—experiencing what seems to be the actual moment her five parents first came together.
 
-She sees Maia young, younger than Calista has ever known her—full of the same quiet grace but unmarked by the years of experience that defined the mother Calista knew. She sees Kael in his youth, recognizing his essence despite the unfamiliar face of his younger self.
+She sees Maia young, younger than Calista has ever known her—full of the same quiet grace but unmarked by the years of experience that defined the mother Calista knew. She sees Arin, Selene, Dorian, and Sage in their youth, recognizing their essences despite the unfamiliar faces of their younger selves.
 
-And she witnesses the moment something sparked between them. The look, the word, the connection that would eventually lead to a partnership that would span lifetimes, produce children, and create the family that shaped Calista's entire existence.
+And she witnesses the moment their constellation formed—the connection that would eventually span lifetimes, produce three children (Kael, Calista, and Lyra), and create the family that shaped Calista's entire existence.
 
 Experiencing this moment is profoundly moving. Calista understands that this gift comes from within Lumen—from her parents who, having transcended, can share their memories more directly than was ever possible in life. They are giving her access to their beginning, to the origin of everything she came from.
 
-The dream offers perspective. Her parents were once young, unknown to each other, with their entire story ahead of them. Everything that followed—Calista's birth, her childhood, her adult life—was seeded in this moment she now witnesses.
+The dream offers perspective. Her five parents were once young, unknown to each other, with their entire story ahead of them. Everything that followed—the birth of Kael, then Calista, then Lyra, their childhoods, their adult lives—was seeded in this moment she now witnesses.
 
 ## Importance
 

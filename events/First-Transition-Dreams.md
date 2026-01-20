@@ -6,7 +6,7 @@ As Calista approaches her own transcendence, she begins experiencing dreams that
 ## Setting
 
 ### Location
-- Calista's sleeping space, Lumina
+- Calista's sleeping space, Lumen
 - Dreamscape within Lumen
 
 ### Environment
@@ -32,7 +32,7 @@ As Calista approaches her own transcendence, she begins experiencing dreams that
 ### Secondary
 - Voices and presences from Lumen
 - [[Maia]] - Mother, already transcended
-- [[Kael]] - Father, already transcended
+- [[Kael]] - Brother, may or may not be transcended
 - Other transcended souls
 
 ## Detailed Account

@@ -6,7 +6,7 @@ Calista and [[Aris]] create a collaborative storybook for their children, workin
 ## Setting
 
 ### Location
-- Family home and studio, Lumina
+- Family home and studio, Lumen
 
 ### Environment
 - Creative workspace
@@ -31,17 +31,17 @@ Calista and [[Aris]] create a collaborative storybook for their children, workin
 
 ### Secondary
 - [[Elara]] - Child, audience, eventual contributor
-- [[Lyra]] - Child, audience, eventual contributor
+- [[Lyra]] - Calista's sister, occasional contributor
 
 ## Detailed Account
 
-Inspired by the stories Calista heard from her own parents—tales of the Three Siblings, of Sol's beauty and Shadow's mystery, of Lumen's radiance—Calista and Aris decide to create their own illustrated storybook for Elara and Lyra.
+Inspired by the stories Calista heard from her own parents—tales of the Three Siblings, of Sol's beauty and Shadow's mystery, of Lumen's radiance—Calista and Aris decide to create their own illustrated storybook for Elara.
 
 The project becomes a labor of love that stretches over months. Calista and Aris work together on the illustrations, their collaborative approach now refined by years of partnership. Each page is crafted with care, designed to capture young imaginations while conveying deeper truths.
 
-The stories they choose to tell are drawn from family history and Astravian tradition. Tales of Calista's childhood adventures with Cassia and Joren. Stories of how Maia and Kael met and fell in love. Myths about Lumen and the Astravian way. Lessons about kindness, creativity, and community woven through narrative.
+The stories they choose to tell are drawn from family history and Astravian tradition. Tales of Calista's childhood adventures with Cassia and Joren. Stories of how her five parents came together and formed their constellation. Myths about Lumen and the Astravian way. Lessons about kindness, creativity, and community woven through narrative.
 
-As Elara and Lyra grow old enough, they become involved in the project too—suggesting stories they want to see, adding their own drawings to certain pages, helping choose colors. The book becomes not just something created for them but something they help create.
+As Elara grows old enough, she becomes involved in the project too—suggesting stories she wants to see, adding her own drawings to certain pages, helping choose colors. Lyra, as Elara's aunt, occasionally contributes stories from her explorations to add to the collection. The book becomes not just something created for Elara but something the family helps create together.
 
 The finished storybook becomes a treasured possession, read countless times until the pages grow soft with love.
 

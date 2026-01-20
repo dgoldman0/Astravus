@@ -6,7 +6,7 @@ Calista and [[Aris]] formalize their partnership through a constellation formati
 ## Setting
 
 ### Location
-- Ceremonial space in Lumina
+- Ceremonial space in Lumen
 - Possibly in nature or a significant community location
 
 ### Environment
@@ -32,9 +32,11 @@ Calista and [[Aris]] formalize their partnership through a constellation formati
 - [[Aris]] - Partner
 
 ### Secondary
-- [[Maia]] and [[Kael]] - Calista's parents
+- [[Maia]], [[Arin]], [[Selene]], [[Dorian]], [[Sage]] - Calista's five parents
+- [[Kael]] - Calista's older brother
+- [[Lyra]] - Calista's younger sister
 - [[Cassia]] - Lifelong friend
-- [[Sage]] and [[Sol]] - Kael's constellation partners
+- [[Sol]] - Kael's constellation partner
 - Extended family
 - Community witnesses
 
@@ -84,7 +86,7 @@ When the ceremony concludes, Calista and Aris are recognized as a constellationâ
 - [[First-Mind-Connection-Aris]] - Deepening of bond
 - [[Art-Exhibition-Success]] - Their creative partnership
 - [[Elara-First-Breath]] - First child
-- [[Kael-Constellation]] - Father's expanded constellation
+- [[Kael-Constellation]] - Brother's expanded constellation
 
 ## Source Material
 - Based on references to Calista and Aris as constellation partners

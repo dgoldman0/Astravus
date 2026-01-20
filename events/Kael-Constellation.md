@@ -1,12 +1,12 @@
 # Kael's Constellation Formation
 
 ## Overview
-[[Kael]], Calista's father, forms a constellation with [[Sage]] and [[Sol]] later in life, expanding the family structure. This event demonstrates the evolving nature of Astravian relationships and adds new dynamics to Calista's family.
+[[Kael]], Calista's older brother, forms a constellation with [[Sage]] and [[Sol]] later in life, expanding the family structure. This event demonstrates the evolving nature of Astravian relationships and adds new dynamics to Calista's family.
 
 ## Setting
 
 ### Location
-- Sacred gathering space, Lumina
+- Sacred gathering space, Lumen
 - Constellation formation ceremony venue
 
 ### Environment
@@ -17,7 +17,7 @@
 
 ### Time
 - Calista in adulthood
-- After Maia and Kael have been partnered for many years
+- After the siblings have grown
 
 ### Atmosphere
 - Joyful and ceremonial
@@ -28,35 +28,35 @@
 ## Participants
 
 ### Primary
-- [[Kael]] - Forming expanded constellation
-- [[Sage]] - New constellation partner
-- [[Sol]] - New constellation partner
-- [[Maia]] - Existing partner, welcoming expansion
+- [[Kael]] - Forming constellation (Calista's older brother)
+- [[Sage]] - Constellation partner (one of the original five parents)
+- [[Sol]] - Constellation partner
 
 ### Secondary
-- [[Calista]] - Daughter, witness
+- [[Calista]] - Sister, witness
 - [[Aris]] - Calista's partner
-- [[Elara]] and [[Lyra]] - Grandchildren (if born by this time)
+- [[Maia]], [[Arin]], [[Selene]], [[Dorian]] - Original parents
+- [[Elara]] - Niece
 - Extended family and community
 
 ## Detailed Account
 
-Astravian constellations are not static structures but living relationships that can grow and change over time. When Kael forms a constellation with Sage and Sol—while maintaining his bond with Maia—it represents an expansion of love rather than a replacement.
+Astravian constellations are not static structures but living relationships that can grow and change over time. When Kael forms a constellation with Sage and Sol, it represents an evolution of family bonds in an unexpected direction—Sage, who was one of Kael's own parents, now becomes his romantic partner.
 
-For Calista, witnessing her father's constellation expansion brings complex emotions. There is joy in seeing her parents' capacity for love grow, wonder at the depth of Astravian relationships, and perhaps some adjustment as family dynamics shift.
+This transition, while perhaps unusual by other standards, reflects the Astravian understanding that relationships can transform as people grow. Sage and Kael's bond, built over decades of family connection, deepened into something romantic. Sol, joining them, brings new perspectives and energy.
 
-Sage and Sol bring new personalities, new perspectives, and new forms of love into the family. They become not just Kael's partners but part of the broader family structure—additional grandparents to Elara and Lyra, additional sources of wisdom and connection for Calista herself.
+For Calista, witnessing her brother's constellation formation brings complex emotions. There is joy in seeing Kael find love and partnership. There is a shift in understanding as Sage, who helped raise her, now becomes her sister-in-law of sorts. The family dynamics evolve, but the love remains.
 
-The ceremony itself reflects Astravian values of community and transparency. The constellation formation is witnessed by the community, blessed by their collective presence, and celebrated as an expansion of the bonds that hold Lumina together.
+Sage and Sol bring new personalities and perspectives into the extended family. They become additional aunt and uncle figures to Elara, additional sources of wisdom and connection for Calista herself.
 
-Maia's grace in welcoming Sage and Sol demonstrates the Astravian understanding that love is not diminished by being shared. Her relationship with Kael remains central even as it makes room for new connections.
+The ceremony itself reflects Astravian values of community and transparency. The constellation formation is witnessed by the community, blessed by their collective presence, and celebrated as an expansion of the bonds that hold Lumen together.
 
 ## Importance
 
 ### Personal Growth
-- Calista gains new family members
+- Calista gains extended family members
 - Expanded understanding of relationship possibilities
-- Witnessing love's capacity to grow
+- Witnessing love's capacity to transform
 
 ### Thematic Significance
 - Astravian relationship structures
@@ -77,7 +77,8 @@ Maia's grace in welcoming Sage and Sol demonstrates the Astravian understanding 
 
 ### Long-term
 - Enriched family structure
-- More grandparents for Elara and Lyra
+- Uncle, aunt figures for Elara
+- Model of successful constellation for Calista and Aris
 - Expanded network of love and support
 
 ## Related Events

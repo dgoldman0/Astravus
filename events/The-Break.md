@@ -16,7 +16,7 @@ Calista and Lysandra's relationship reaches an impasse, and they mutually decide
 ## Description
 
 As time passed, Calista and Lysandra began to face more significant challenges. Their interests started to diverge:
-- Lysandra's dedication to music and technology projects often left Calista feeling neglected
+- Lysandra's dedication to mathematical research and computational projects often left Calista feeling neglected
 - Calista's focus on art sometimes made Lysandra feel unappreciated
 - The spark that had once brought them together started to dim
 - Frequent disagreements and misunderstandings replaced easy connection

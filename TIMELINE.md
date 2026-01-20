@@ -85,83 +85,67 @@ Lumen is a young Astravus during the events of this narrative. Its population is
 
 ---
 
-## Book II: Young Adulthood
+## Book II: Young Adulthood (Continued)
 
 ### Early Adulthood (~Age 20-35)
 
 | Event | Description | Related Events |
 |-------|-------------|----------------|
-| [Art Center Volunteering Begins](events/Art-Center-Volunteering-Begins.md) | Calista starts volunteering at Lumen's art center | — |
-| [Mosaic Project with Children](events/Mosaic-Project-with-Children.md) | Calista guides children in creating a mosaic | Art Center Volunteering Begins |
-| [First Solo Exhibition](events/First-Solo-Exhibition.md) | Calista exhibits her digital paintings of Lumen's landscapes | Art Center Volunteering Begins |
+| [Art Center Volunteering](events/Art-Center-Volunteering.md) | Calista starts volunteering at Lumen's art center | — |
 | [Core Integration](events/Core-Integration.md) | Calista undergoes the rite of passage at age 35 | — |
-| [First Digital Mural](events/First-Digital-Mural.md) | Calista creates her first work using mind-controlled interfaces | Core Integration |
-| [Meeting Aris](events/Meeting-Aris.md) | Calista meets Aris at an art workshop | Art Center Volunteering Begins |
-| [First Collaboration with Aris](events/First-Collaboration-with-Aris.md) | Calista and Aris fuse visual art with music for the first time | Meeting Aris |
-| [Rainy Afternoon Project](events/Rainy-Afternoon-Project.md) | Calista and Aris create a misty forest painting together | First Collaboration with Aris |
-| [First Argument with Aris](events/First-Argument-with-Aris.md) | The couple faces tension over balancing careers | First Collaboration with Aris |
-| [First Mind Link with Aris](events/First-Mind-Link-with-Aris.md) | Calista and Aris share consciousness for the first time | Core Integration, Meeting Aris |
+| [Meeting Aris](events/Meeting-Aris.md) | Calista meets Aris at an art workshop | Art Center Volunteering |
+| [First Collaboration with Aris](events/First-Collaboration-Aris.md) | Calista and Aris fuse visual art with music for the first time | Meeting Aris |
+| [First Mind Connection with Aris](events/First-Mind-Connection-Aris.md) | Calista and Aris share consciousness for the first time | Core Integration, Meeting Aris |
+| [Art Exhibition Success](events/Art-Exhibition-Success.md) | Calista and Aris's collaborative exhibition receives acclaim | First Collaboration with Aris |
+| [Café Conversation with Cassia](events/Cafe-Conversation-Cassia.md) | Calista reflects on lifelong friendship | — |
 
 ### Kael's Family (~Age 30s-40s)
 
 | Event | Description | Related Events |
 |-------|-------------|----------------|
-| [Kael's Constellation Formation](events/Kaels-Constellation-Formation.md) | Kael forms a constellation with Sage and Sol | — |
-| [Kael's Child Adoption](events/Kaels-Child-Adoption.md) | Kael, Sage, and Sol adopt a child from the Sanctuary | Kael's Constellation Formation |
+| [Kael's Constellation Formation](events/Kael-Constellation.md) | Kael (Calista's brother) forms a constellation with Sage and Sol | — |
 
 ---
 
-## Book III: Starting a Family
+## Book III: Family and Maturity
 
 ### Constellation Formation and Parenthood (~Age 40s+)
 
 | Event | Description | Related Events |
 |-------|-------------|----------------|
-| [The Decision](events/The-Decision.md) | Calista and Aris decide to start a family | — |
-| [Constellation Formation Ceremony](events/Constellation-Formation-Ceremony.md) | Calista and Aris formalize their partnership | The Decision |
-| [Parenting Preparation](events/Parenting-Preparation.md) | Counseling, workshops, and home preparation | Constellation Formation Ceremony |
-| [Elara's First Breath](events/Elaras-First-Breath.md) | Calista and Aris welcome their daughter from the Sanctuary | Parenting Preparation |
-| [Family Storybook Project](events/Family-Storybook-Project.md) | Calista, Aris, and Elara create a collaborative storybook | Elara's First Breath |
-| [Storybook Community Gathering](events/Storybook-Community-Gathering.md) | The family shares their storybook at the art center | Family Storybook Project |
-| [Elara's Pronoun Declaration](events/Elaras-Pronoun-Declaration.md) | Elara tells her parents she identifies with she/her pronouns | — |
+| [Constellation Formation](events/Constellation-Formation.md) | Calista and Aris formalize their partnership | — |
+| [Parenting Preparation](events/Parenting-Preparation.md) | Counseling, workshops, and home preparation | Constellation Formation |
+| [Elara's First Breath](events/Elara-First-Breath.md) | Calista and Aris welcome their daughter from the Sanctuary | Parenting Preparation |
+| [Lyra's First Breath](events/Lyras-First-Breath.md) | Calista's younger sister is born | — |
+| [Collaborative Storybook Project](events/Collaborative-Storybook.md) | Calista, Aris, and Elara create a collaborative storybook | Elara's First Breath |
+| [Elara's Gender Identity Conversation](events/Elara-Gender-Identity-Conversation.md) | Elara tells her parents she identifies with she/her pronouns | — |
+| [Grandparent Teaching Moments](events/Grandparent-Teaching-Moments.md) | The five parents share wisdom with grandchild Elara | — |
+| [Lyra's Adventure Announcement](events/Lyras-Adventure-Announcement.md) | Lyra (Calista's sister) declares her intent to explore | — |
 
 ---
-
-## Book III: Later Years
 
 ### Calista's Later Life (~Age 75-125+)
 
 | Event | Description | Related Events |
 |-------|-------------|----------------|
-| [Elara's Engineering Career](events/Elaras-Engineering-Career.md) | Elara becomes a skilled engineer, creating interactive light sculptures | — |
-| [Interactive Light Sculpture Demonstration](events/Interactive-Light-Sculpture-Demonstration.md) | Elara shows her parents her latest invention | Elara's Engineering Career |
-| [Lyra's Return from Expedition](events/Lyras-Return-from-Expedition.md) | Lyra returns after years of exploring other Astravii | — |
-| [Lyra's Expedition Stories](events/Lyras-Expedition-Stories.md) | Lyra shares tales of distant Astravii communities | Lyra's Return from Expedition |
-| [Adaptive Sculpture Gift](events/Adaptive-Sculpture-Gift.md) | Lyra presents an artifact from an ancient Astravus | Lyra's Expedition Stories |
-| [Parents Approaching Transcendence](events/Parents-Approaching-Transcendence.md) | Calista's parents spend more time connecting with Lumen | — |
-| [Garden Conversation with Maia](events/Garden-Conversation-with-Maia.md) | Calista discusses transcendence with her mother | Parents Approaching Transcendence |
-| [Arin and Elara's Final Projects](events/Arin-and-Elaras-Final-Projects.md) | Arin continues mentoring Elara in the workshop | Parents Approaching Transcendence |
-| [Radiant Fields Development](events/Radiant-Fields-Development.md) | New recreational section of Lumen opens | — |
-| [Luxa Sport Introduction](events/Luxa-Sport-Introduction.md) | The sport Lyra discovered becomes popular in Lumen | Lyra's Return from Expedition |
+| [Elara's Light Sculpture Invention](events/Elara-Light-Sculpture-Invention.md) | Elara becomes a skilled engineer, creating interactive light sculptures | — |
+| [Lyra's Return from Expedition](events/Lyras-Return-Expedition.md) | Lyra (Calista's sister) returns after years of exploring other Astravii | — |
+| [Parents' Approaching Transcendence](events/Parents-Approaching-Transcendence.md) | Calista's five parents spend more time connecting with Lumen | — |
+| [Radiant Fields of Luxa](events/Radiant-Fields-Luxa.md) | Pilgrimage to sacred place where Luxa sport is practiced | — |
 
 ---
 
-## Book III: Transcendence
+## Book IV: Transcendence
 
 ### Calista's Transcendence (~Age 125+)
 
 | Event | Description | Related Events |
 |-------|-------------|----------------|
-| [First Transcendence Dreams](events/First-Transcendence-Dreams.md) | Calista begins experiencing shared consciousness dreams | Core Integration |
-| [Dream: Garden with Maia](events/Dream-Garden-with-Maia.md) | Calista dreams of tending a garden with her mother | First Transcendence Dreams |
-| [Dream: Parents' First Meeting](events/Dream-Parents-First-Meeting.md) | Calista witnesses her parents meeting for the first time | First Transcendence Dreams |
-| [Dream: The Playground](events/Dream-The-Playground.md) | Calista encounters Joren's parents in a dream of childhood | First Transcendence Dreams |
-| [Visit to Aurora and Nyx](events/Visit-to-Aurora-and-Nyx.md) | Calista seeks healing through connection with progenitor Astravii | Dream: The Playground |
-| [Meeting Arista](events/Meeting-Arista.md) | An elder from Nyx helps Calista process grief through ancient memories | Visit to Aurora and Nyx |
-| [Dream: Beach at Sunset](events/Dream-Beach-at-Sunset.md) | Calista finds healing with Joren's parents in a shared dream | Meeting Arista |
-| [Dream: Marketplace with Elara](events/Dream-Marketplace-with-Elara.md) | Calista dreams of exploring Lumen's marketplace with her daughter | First Transcendence Dreams |
-| [Dream: Workshop with Arin and Elara](events/Dream-Workshop-with-Arin-and-Elara.md) | Calista dreams of building projects with her parent and daughter | First Transcendence Dreams |
-| [Final Clarity](events/Final-Clarity.md) | Calista experiences a moment of lucidity within the collective consciousness | — |
+| [First Transition Dreams](events/First-Transition-Dreams.md) | Calista begins experiencing shared consciousness dreams | Core Integration |
+| [Maia's Garden Dream](events/Maias-Garden-Dream.md) | Calista dreams of tending a garden with her mother | First Transition Dreams |
+| [Parents' First Meeting Dream](events/Parents-First-Meeting-Dream.md) | Calista witnesses her parents' constellation forming | First Transition Dreams |
+| [Nyx Healing Journey](events/Nyx-Healing-Journey.md) | Calista processes grief through connection with Nyx | First Transition Dreams |
+| [Final Integration into Lumen](events/Final-Integration-Lumen.md) | Calista transcends into Lumen's collective consciousness | — |
 
 ---
 
@@ -169,10 +153,9 @@ Lumen is a young Astravus during the events of this narrative. Its population is
 
 ### Annual/Cyclical Events
 | Event | Description |
-|-------|-------------|
+|-------|--------------|
 | [Festival of Lights](events/Festival-of-Lights.md) | Annual celebration in Lumen's central plaza honoring harmony of nature and technology |
 | [Annual Celebration of Life (Joren)](events/Annual-Celebration-of-Life.md) | Yearly commemoration of Joren's life in the central plaza |
-| [Family Visits to Aurora/Nyx](events/Family-Visits-to-Aurora-Nyx.md) | Periodic journeys to Lumen's progenitor Astravii |
 
 ---
 

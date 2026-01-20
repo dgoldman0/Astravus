@@ -6,7 +6,7 @@ Following her Core Integration, Calista shares her first mind-link with [[Aris]]
 ## Setting
 
 ### Location
-- Private space, likely their shared home or studio, Lumina
+- Private space, likely their shared home or studio, Lumen
 
 ### Environment
 - Intimate and safe

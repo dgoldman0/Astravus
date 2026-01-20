@@ -6,7 +6,7 @@ Following their constellation formation, Calista and [[Aris]] begin the process 
 ## Setting
 
 ### Location
-- Their home in Lumina
+- Their home in Lumen
 - Conversations in various settings
 
 ### Environment
@@ -31,7 +31,8 @@ Following their constellation formation, Calista and [[Aris]] begin the process 
 - [[Aris]] - Preparing for parenthood
 
 ### Secondary
-- [[Maia]] and [[Kael]] - Offering wisdom from their experience
+- [[Maia]], [[Arin]], [[Selene]], [[Dorian]], and [[Sage]] - Offering wisdom from their experience
+- [[Kael]] and [[Lyra]] - Siblings offering perspectives
 - [[Sage]] and [[Sol]] - Additional family perspectives
 - Other parents in the community
 
@@ -39,11 +40,11 @@ Following their constellation formation, Calista and [[Aris]] begin the process 
 
 The decision to bring new life into existence is one of the most significant choices any Astravian can make. For Calista and Aris, it follows naturally from the depth of their partnership, yet they approach it with careful consideration.
 
-They spend time discussing what kind of parents they want to be—drawing from the examples set by their own parents while considering what they might do differently. Calista reflects on the lessons she learned from Maia and Kael: Maia's nurturing patience, Kael's thoughtful guidance, their shared commitment to letting her find her own path.
+They spend time discussing what kind of parents they want to be—drawing from the examples set by their own parents while considering what they might do differently. Calista reflects on the lessons she learned from her five parents: Maia's nurturing patience, Arin's practical wisdom, Selene's creative encouragement, Dorian's protective strength, and Sage's philosophical insight.
 
 Aris and Calista also discuss practical matters: how they will balance parenting with their creative work, how they will create space for their children while maintaining their partnership, what values they most want to instill.
 
-They seek wisdom from their extended family. Maia shares stories of raising Calista—the joys and challenges, the moments that mattered most. Kael speaks of watching his daughter grow and the pride he feels in who she has become. Sage and Sol offer their perspectives as well, enriching the conversation.
+They seek wisdom from their extended family. Maia shares stories of raising Calista—the joys and challenges, the moments that mattered most. All five parents contribute their perspectives on child-rearing. Kael speaks of watching his niece and nephew grow and the pride he feels in his constellation's family. His partners Sage and Sol offer their perspectives as well, enriching the conversation.
 
 The community too plays a role. Astravian children are raised not just by their immediate parents but by the whole community. Understanding this network of support helps Calista and Aris feel ready to take this step.
 

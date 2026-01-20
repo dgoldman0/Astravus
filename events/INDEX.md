@@ -6,12 +6,12 @@ This directory contains detailed documentation of all significant events in [[Ca
 
 ## Earliest Memories
 
-These events cover Calista's first experiences of life, shaped by her parents [[Maia]] and [[Kael]].
+These events cover Calista's first experiences of life, shaped by her five parents [[Maia]], [[Arin]], [[Selene]], [[Dorian]], and [[Sage]], as well as her older brother [[Kael]].
 
 - [[Calistas-First-Breath|Calista's First Breath]] - The moment of birth and first awareness
 - [[Early-Home-Life|Early Home Life]] - Daily rhythms of childhood
 - [[First-Gardening-Lesson|First Gardening Lesson]] - Learning from Maia in the garden
-- [[First-Workshop-Visit|First Workshop Visit]] - Introduction to Kael's craftsmanship
+- [[First-Workshop-Visit|First Workshop Visit]] - Introduction to Arin's craftsmanship
 - [[First-Music-Lesson|First Music Lesson]] - Discovery of musical expression
 - [[The-Soup-Experiment|The Soup Experiment]] - Early creative exploration in cooking
 - [[The-Three-Siblings-Story|The Three Siblings Story]] - Foundational Astravian mythology
@@ -41,7 +41,7 @@ The tragedy that marks the end of childhood innocence.
 
 - [[Jorens-Expedition|Joren's Expedition]] - The fateful journey
 - [[The-Accident|The Accident]] - Joren's death and aftermath
-- [[Community-Mourning|Community Mourning]] - Collective grief in Lumina
+- [[Community-Mourning|Community Mourning]] - Collective grief in Lumen
 - [[Memorial-Mural|Memorial Mural]] - Creating art from grief
 - [[Annual-Celebration-of-Life|Annual Celebration of Life]] - Honoring Joren's memory
 
@@ -81,32 +81,32 @@ Calista establishes herself as an artist, undergoes Core Integration, and meets 
 - [[First-Mind-Connection-Aris|First Mind Connection with Aris]] - Intimate telepathic bond
 - [[Art-Exhibition-Success|Art Exhibition Success]] - Public recognition
 - [[Cafe-Conversation-Cassia|Café Conversation with Cassia]] - Reflecting on lifelong friendship
-- [[Kael-Constellation|Kael's Constellation Formation]] - Father expands his family with Sage and Sol
+- [[Kael-Constellation|Kael's Constellation Formation]] - Brother forms his own family with Sage and Sol
 
 ---
 
 ## Parenthood
 
-Calista and Aris create their family with [[Elara]] and [[Lyra]].
+Calista and Aris create their family with [[Elara]].
 
 - [[Constellation-Formation|Constellation Formation]] - Formal partnership ceremony
 - [[Parenting-Preparation|Parenting Preparation]] - Preparing for children
-- [[Elara-First-Breath|Elara's First Breath]] - First child arrives
-- [[Lyra-Arrival|Lyra's Arrival]] - Second child arrives
+- [[Elara-First-Breath|Elara's First Breath]] - Daughter arrives
+- [[Lyras-First-Breath|Lyra's First Breath]] - Younger sister arrives (Calista's sibling)
 - [[Collaborative-Storybook|Collaborative Storybook Project]] - Art for their children
 - [[Elara-Gender-Identity-Conversation|Elara's Gender Identity Conversation]] - Supporting Elara's identity
-- [[Grandparent-Teaching-Moments|Grandparent Teaching Moments]] - Maia, Kael, Sage, Sol with grandchildren
-- [[Lyras-Adventure-Announcement|Lyra's Adventure Announcement]] - Lyra declares explorer path
+- [[Grandparent-Teaching-Moments|Grandparent Teaching Moments]] - The five parents with grandchildren
+- [[Lyras-Adventure-Announcement|Lyra's Adventure Announcement]] - Sister declares explorer path
 
 ---
 
 ## Later Years
 
-The mature phase of Calista's life as her children grow and parents age.
+The mature phase of Calista's life as her daughter grows and parents age.
 
 - [[Elara-Light-Sculpture-Invention|Elara's Light Sculpture Invention]] - Daughter's breakthrough
-- [[Lyras-Return-Expedition|Lyra's Return from Expedition]] - Explorer daughter returns
-- [[Parents-Approaching-Transcendence|Parents' Approaching Transcendence]] - Maia and Kael prepare to leave
+- [[Lyras-Return-Expedition|Lyra's Return from Expedition]] - Explorer sister returns
+- [[Parents-Approaching-Transcendence|Parents' Approaching Transcendence]] - The five parents prepare to leave
 - [[Radiant-Fields-Luxa|Radiant Fields of Luxa]] - Pilgrimage to sacred place
 
 ---
@@ -138,9 +138,10 @@ Calista's transition from physical existence into [[Lumen]].
 - Radiant Fields of Luxa
 
 ### Central Relationships
-- [[Maia]] and [[Kael]] - Parents
+- [[Maia]], [[Arin]], [[Selene]], [[Dorian]], and [[Sage]] - Parents
+- [[Kael]] and [[Lyra]] - Siblings
 - [[Cassia]] - Lifelong friend
 - [[Joren]] - Lost childhood friend
 - [[Lysandra]] - First love
 - [[Aris]] - Life partner
-- [[Elara]] and [[Lyra]] - Children
+- [[Elara]] - Daughter
