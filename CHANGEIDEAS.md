@@ -482,5 +482,312 @@ Many events reference other events using different naming conventions or broken 
 
 ---
 
+## PRIORITY 9: DIALOGUE ALIGNMENT & ENRICHMENT
+
+This phase focuses on ensuring all extracted dialogue files align with established character communication styles and event contexts, while enriching dialogue for depth and meaning.
+
+---
+
+### 9.1 PARENT DIALOGUE REVISIONS
+
+The following parent dialogue files need revision to match established communication styles:
+
+#### First-Seed-Planting.md (Maia)
+**Current Issues:**
+- Missing: Maia's habit of talking to plants directly
+- Missing: Her quirk of giving seeds as gifts
+- Missing: Physical touch (she touches arm when concerned)
+- Dialogue feels generic, needs more nature metaphors
+
+**Required Changes:**
+- Add Maia addressing the seed or plant directly
+- Include more organic/growth metaphors in her speech
+- Add her warm/soft voice descriptions
+- Enrich with her patient, nurturing cadence
+
+**Status:** [x] COMPLETED
+
+#### Phototropism-Lesson.md (Maia)
+**Current Issues:**
+- Too short and generic
+- Missing plant-talking quirk
+- Missing wonder and patience in delivery
+- Calista's response is flat, needs artistic perspective
+
+**Required Changes:**
+- Expand Maia's explanation with nature metaphors
+- Add physical interaction with plants
+- Include Calista's visual/artistic observation style
+- Add warmth and texture to the exchange
+
+**Status:** [x] COMPLETED
+
+#### Workshop-Mistake.md (Arin)
+**Current Issues:**
+- Missing: Arin's humming while working
+- Missing: Mechanical metaphors
+- Missing: Building while talking (thinks through hands)
+- Dialogue is good but lacks distinctive voice
+
+**Required Changes:**
+- Add Arin humming or working with hands during conversation
+- Include mechanical metaphors ("gears," "systems")
+- Show practical problem-solving approach
+- Add concise, functional speech patterns
+
+**Status:** [x] COMPLETED
+
+#### First-Music-Lesson.md (Selene)
+**Current Issues:**
+- Missing: Selene's humming instead of speaking
+- Missing: Synesthetic descriptions (pitch as color)
+- Missing: Musical rhythm in her speech
+- Should show she composes in sleep/dreams
+
+**Required Changes:**
+- Add humming transitions between speech
+- Include synesthetic language (seeing music as colors)
+- Give her speech a melodic, flowing quality
+- Reference her soft, melodic voice explicitly
+
+**Status:** [x] COMPLETED
+
+#### Sage-Siblings-Story.md (Sage)
+**Current Issues:**
+- Story content is good, but Sage's framing dialogue lacks depth
+- Missing: Sage's soothing voice description
+- Missing: Temperature/comfort zone references
+- Missing: Asking questions rather than giving advice
+
+**Required Changes:**
+- Add soothing voice descriptions to Sage's delivery
+- Include physical comfort actions (stroking hair, gathering children)
+- Frame story with questions rather than statements
+- Add warmth to room/environment descriptions
+
+**Status:** [x] COMPLETED
+
+#### Dorian-Explorer-Tales.md (Dorian)
+**Current Issues:**
+- Too brief and underdeveloped
+- Missing: Deep, resonant voice quality
+- Missing: Narrative structure in his speech
+- Missing: Memory palace references
+- Should show his quirk of narrating in third person
+
+**Required Changes:**
+- Expand with Dorian's rich narrative voice
+- Add resonant voice descriptions
+- Include memory/history references
+- Show him narrating events dramatically
+- Add "Let's learn their stories" philosophy
+
+**Status:** [x] COMPLETED
+
+---
+
+### 9.2 GRANDPARENT DIALOGUE REVISIONS
+
+These dialogues echo parent teaching but with Elara. They must maintain character consistency across generations.
+
+#### Grandparent-Garden-Maia.md
+**Current Issues:**
+- Good structure but missing plant-talking quirk
+- Maia should address plants by name
+- Missing seed-giving tradition
+- Elara's dialogue needs more of her curiosity style
+
+**Required Changes:**
+- Add Maia greeting or talking to plants
+- Include touch/physical warmth
+- Reference Elara's mechanical curiosity (she'd analyze the plant)
+- Add generational continuity notes
+
+**Status:** [x] COMPLETED
+
+#### Grandparent-Workshop-Arin.md
+**Current Issues:**
+- Missing Arin's humming while working
+- Missing mechanical metaphors
+- "Grandpa" incorrect - Arin uses they/them pronouns, should be gender-neutral grandparent term
+- Elara should show her disassembly curiosity
+
+**Required Changes:**
+- Change "Grandpa" to gender-neutral term (Grandparent Arin, or invented term)
+- Add humming/tinkering during conversation
+- Include mechanical metaphors
+- Show Elara's analytical approach (counts steps, studies mechanisms)
+
+**Status:** [x] COMPLETED
+
+#### Grandparent-Music-Selene.md
+**Current Issues:**
+- Missing humming transitions
+- Missing synesthetic language
+- Missing dream/composition references
+- Good heart-centered message but needs musical texture
+
+**Required Changes:**
+- Add humming between instructions
+- Include synesthetic descriptions
+- Add melodic speech rhythm
+- Reference Selene's dreaming/composing nature
+
+**Status:** [x] COMPLETED
+
+#### Grandparent-Stories-Dorian.md
+**Current Issues:**
+- Too brief
+- Missing deep resonant voice quality
+- Missing narrative structure sophistication
+- Should reference his memory palaces
+
+**Required Changes:**
+- Expand storytelling with dramatic voice
+- Add "let's learn their stories" framing
+- Include history/legacy themes
+- Show his inability to read fiction quirk (tells from memory)
+
+**Status:** [x] COMPLETED
+
+#### Grandparent-Comfort-Sage.md
+**Current Issues:**
+- Missing soothing voice description
+- Missing temperature/comfort zone references
+- Missing question-based approach
+- Good baking activity but needs more Sage depth
+
+**Required Changes:**
+- Add soothing voice quality descriptions
+- Include comfort/warmth environmental details
+- Frame responses as questions that guide discovery
+- Add physical comfort touches
+
+**Status:** [x] COMPLETED
+
+---
+
+### 9.3 RELATIONSHIP DIALOGUE REVISIONS
+
+#### First-Collaboration-Aris.md
+**Current Issues:**
+- Needs musical rhythm in Aris's speech
+- Aris should hum/tap while thinking
+- Dialogue should show emotional directness
+- Missing composition references
+
+**Status:** [x] COMPLETED
+
+#### First-Mind-Connection.md
+**Current Issues:**
+- Aris's speech should have rhythmic quality
+- Should reference creating music for specific moments
+- Calista should use visual/artistic metaphors
+
+**Status:** [x] COMPLETED
+
+#### First-Meeting-Cassia.md / Drifting-Apart-Cassia.md
+**Current Issues:**
+- Cassia should have musical, wonder-filled voice
+- Should sparkle with storytelling energy
+- Childhood dialogue needs more playful rhythm
+
+**Status:** [x] First-Meeting-Cassia COMPLETED / [ ] Drifting-Apart-Cassia pending
+
+#### First-Meeting-Joren.md / Community-Mourning-Joren.md
+**Current Issues:**
+- Joren should show infectious enthusiasm
+- Competitive spirit should shine
+- "Come on, let's explore!" energy
+- Mourning dialogue should contrast with his vibrancy
+
+**Status:** [x] First-Meeting-Joren COMPLETED / [ ] Community-Mourning-Joren pending
+
+---
+
+### 9.4 MAJOR SCENE DIALOGUE REVISIONS
+
+#### Theron-Transcendence-Explanation.md
+**Current Issues:**
+- Good content but Theron's warm/melodious voice not emphasized
+- Missing deliberate gestures description
+- Missing metaphor usage (he uses metaphors for abstract concepts)
+- Calista should use more visual metaphors in her questions
+
+**Required Changes:**
+- Add voice quality descriptions
+- Include deliberate, meaningful gestures
+- Enhance metaphor usage for transcendence concepts
+- Show patient explanation style
+
+**Status:** [x] COMPLETED
+
+#### Lyra-Expedition-Fear.md
+**Current Issues:**
+- Lyra should ask questions in threes (her quirk)
+- Missing her adventurous speech energy
+- Calista's protective worry should show in her communication style
+
+**Status:** [x] COMPLETED
+
+#### Parents-Approaching-Transcendence.md
+**Current Issues:**
+- Each parent's voice should be distinct
+- Should reflect their individual communication styles
+- Missing synesthetic/melodic Selene, narrative Dorian, etc.
+
+**Status:** [ ] Not Started
+
+---
+
+### 9.5 GENERAL ENRICHMENT OPPORTUNITIES
+
+For all dialogue files:
+1. **Add non-verbal communication:** Gestures, expressions, environmental details
+2. **Include character quirks:** Each character has documented quirks that should appear
+3. **Deepen emotional resonance:** Add internal reflection where appropriate
+4. **Strengthen thematic connections:** Tie dialogue to overarching themes
+5. **Verify event alignment:** Ensure dialogue matches event file context
+6. **Check timeline consistency:** Dialogue should reflect character ages and development
+
+---
+
+### 9.6 EXECUTION CHECKLIST
+
+#### Phase 6a: Parent Dialogues
+- [x] First-Seed-Planting.md
+- [x] Phototropism-Lesson.md
+- [x] Workshop-Mistake.md
+- [x] First-Music-Lesson.md
+- [x] Sage-Siblings-Story.md
+- [x] Dorian-Explorer-Tales.md
+
+#### Phase 6b: Grandparent Dialogues
+- [x] Grandparent-Garden-Maia.md
+- [x] Grandparent-Workshop-Arin.md
+- [x] Grandparent-Music-Selene.md
+- [x] Grandparent-Stories-Dorian.md
+- [x] Grandparent-Comfort-Sage.md
+
+#### Phase 6c: Relationship Dialogues
+- [x] First-Collaboration-Aris.md
+- [x] First-Mind-Connection.md
+- [x] Deciding-Family-Aris.md
+- [x] First-Meeting-Cassia.md
+- [ ] Drifting-Apart-Cassia.md
+- [x] First-Meeting-Joren.md
+- [ ] Community-Mourning-Joren.md
+
+#### Phase 6d: Major Scene Dialogues
+- [x] Theron-Transcendence-Explanation.md
+- [x] Lyra-Expedition-Fear.md
+- [ ] Parents-Approaching-Transcendence.md
+- [x] Elara-Gender-Identity.md
+- [x] Pond-Incident.md
+- [ ] Soup-Experiment.md
+
+---
+
 *Document created: January 2026*
-*Review before executing changes*
+*Dialogue section added: January 2026*
+*Phase 6 execution in progress: January 2026*
