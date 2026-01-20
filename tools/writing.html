@@ -418,17 +418,45 @@
       const stroke = opts.stroke;
       const style = opts.style; // rounded | angular
 
-      // Slot boxes as normalized fractions of the cell
-      // (tweak these to get the look you want)
-      const pad = Math.round(size * 0.08);
-      const cell = { x:0, y:0, w:size, h:size };
+        // A bigger safe inset keeps everything away from the outer frame.
+        // Include a little stroke in the inset so strokes don't visually collide.
+        const safe = Math.round(size * 0.12) + Math.round(stroke * 0.9);
 
-      const slots = {
-        radical: { x: pad, y: pad, w: Math.round(size*0.28), h: Math.round(size*0.28) },
-        core:    { x: Math.round(size*0.22), y: Math.round(size*0.18), w: Math.round(size*0.56), h: Math.round(size*0.60) },
-        mods:    { x: Math.round(size*0.80), y: Math.round(size*0.18), w: Math.round(size*0.15), h: Math.round(size*0.60) },
-        grammar: { x: Math.round(size*0.18), y: Math.round(size*0.82), w: Math.round(size*0.64), h: Math.round(size*0.14) },
-      };
+        const inner = {
+        x: safe,
+        y: safe,
+        w: size - safe*2,
+        h: size - safe*2
+        };
+
+        // Slot boxes inside the safe area (more breathing room + clearer separation)
+        const slots = {
+        radical: {
+            x: inner.x,
+            y: inner.y,
+            w: Math.round(inner.w * 0.28),
+            h: Math.round(inner.h * 0.28)
+        },
+        // core ends earlier so it never crowds the mods column
+        core: {
+            x: inner.x + Math.round(inner.w * 0.14),
+            y: inner.y + Math.round(inner.h * 0.06),
+            w: Math.round(inner.w * 0.62),
+            h: Math.round(inner.h * 0.72)
+        },
+        mods: {
+            x: inner.x + Math.round(inner.w * 0.82),
+            y: inner.y + Math.round(inner.h * 0.12),
+            w: Math.round(inner.w * 0.16),
+            h: Math.round(inner.h * 0.62)
+        },
+        grammar: {
+            x: inner.x + Math.round(inner.w * 0.18),
+            y: inner.y + Math.round(inner.h * 0.84),
+            w: Math.round(inner.w * 0.64),
+            h: Math.round(inner.h * 0.12)
+        }
+};
 
       // SVG root
       const svgNS = "http://www.w3.org/2000/svg";
@@ -438,11 +466,12 @@
       svg.setAttribute("viewBox", `0 0 ${size} ${size}`);
 
       // Cell border
+      const borderInset = Math.round(size * 0.06) + Math.round(stroke * 0.7);
       const border = document.createElementNS(svgNS, "rect");
-      border.setAttribute("x", pad*0.35);
-      border.setAttribute("y", pad*0.35);
-      border.setAttribute("width", size - pad*0.70);
-      border.setAttribute("height", size - pad*0.70);
+      border.setAttribute("x", borderInset);
+      border.setAttribute("y", borderInset);
+      border.setAttribute("width", size - borderInset*2);
+      border.setAttribute("height", size - borderInset*2);
       border.setAttribute("rx", style === "rounded" ? (size*0.12) : (size*0.04));
       border.setAttribute("class", "ink");
       border.style.strokeWidth = stroke;
@@ -486,7 +515,7 @@
       if (spec.radical && RADICALS[spec.radical]){
         const frag = RADICALS[spec.radical](slots.radical.w, slots.radical.h, style);
         gRad.appendChild(frag);
-        fitGroupToBox(gRad, slots.radical);
+        fitGroupToBox(gRad, slots.radical, stroke);
         svg.appendChild(gRad);
       }
 
@@ -494,7 +523,7 @@
       if (CORE_SHAPES[coreKey]){
         const frag = CORE_SHAPES[coreKey](slots.core.w, slots.core.h, style);
         gCore.appendChild(frag);
-        fitGroupToBox(gCore, slots.core);
+        fitGroupToBox(gCore, slots.core, stroke);
         svg.appendChild(gCore);
       }
 
@@ -517,7 +546,7 @@
           gi.setAttribute("class","ink");
           gi.style.strokeWidth = stroke;
           gi.appendChild(MODS[m](box.w, box.h, style));
-          fitGroupToBox(gi, box);
+          fitGroupToBox(gi, box, stroke);
           svg.appendChild(gi);
         });
       }
@@ -526,7 +555,7 @@
       const gramKey = inferGrammar(grammarKey, mods);
       if (gramKey && GRAMMAR[gramKey]){
         gGram.appendChild(GRAMMAR[gramKey](slots.grammar.w, slots.grammar.h, style));
-        fitGroupToBox(gGram, slots.grammar);
+        fitGroupToBox(gGram, slots.grammar, stroke);
         svg.appendChild(gGram);
       }
 
@@ -572,21 +601,24 @@
         x += opts.size + gap;
       }
 
-      // Connector strokes for compound mode (ligature-ish)
-      if (opts.mode === "compound" && specs.length > 1){
-        for (let i=0;i<specs.length-1;i++){
-          const cx = rendered[i].x + opts.size - Math.round(opts.size*0.03);
-          const cy1 = Math.round(opts.size*0.22);
-          const cy2 = Math.round(opts.size*0.78);
+    // Connector strokes for compound mode (ligature-ish)
+    if (opts.mode === "compound" && specs.length > 1){
+    for (let i=0;i<specs.length-1;i++){
+        const leftEdge  = rendered[i].x + opts.size;
+        const rightEdge = rendered[i+1].x;        // start x of next block
+        const cx = (leftEdge + rightEdge) / 2;    // center of the gap
 
-          const conn = document.createElementNS("http://www.w3.org/2000/svg","path");
-          conn.setAttribute("d", `M ${cx} ${cy1} L ${cx} ${cy2}`);
-          conn.setAttribute("class","ink");
-          conn.style.strokeWidth = opts.stroke;
-          stripSvg.appendChild(conn);
-        }
-      }
+        // keep the connector inside the vertical "safe zone"
+        const cy1 = Math.round(opts.size * 0.18);
+        const cy2 = Math.round(opts.size * 0.82);
 
+        const conn = document.createElementNS("http://www.w3.org/2000/svg","path");
+        conn.setAttribute("d", `M ${cx} ${cy1} L ${cx} ${cy2}`);
+        conn.setAttribute("class","ink");
+        conn.style.strokeWidth = opts.stroke;
+        stripSvg.appendChild(conn);
+    }
+    }
       strip.appendChild(stripSvg);
 
       const label = document.createElement("div");
@@ -628,45 +660,50 @@
       return document.createElementNS(svgNS,"g");
     }
 
-    function fitGroupToBox(g, box){
-      // g already contains geometry in a local coordinate system roughly [0..w, 0..h],
-      // but some shapes draw beyond. We'll compute its bbox after insertion into a temp SVG.
-      // We'll do: translate to box center, scale, translate.
-      const svgNS = "http://www.w3.org/2000/svg";
+    function fitGroupToBox(g, box, strokePx){
+    // Measure bbox (note: bbox excludes stroke)
+    const svgNS = "http://www.w3.org/2000/svg";
+    const temp = document.createElementNS(svgNS,"svg");
+    temp.setAttribute("width", 1);
+    temp.setAttribute("height", 1);
+    temp.style.position = "absolute";
+    temp.style.left = "-9999px";
+    temp.style.top = "-9999px";
+    temp.appendChild(g.cloneNode(true));
+    document.body.appendChild(temp);
 
-      // Temp svg for bbox measurement
-      const temp = document.createElementNS(svgNS,"svg");
-      temp.setAttribute("width", 1);
-      temp.setAttribute("height", 1);
-      temp.style.position = "absolute";
-      temp.style.left = "-9999px";
-      temp.style.top = "-9999px";
-      temp.appendChild(g.cloneNode(true));
-      document.body.appendChild(temp);
+    const cloneG = temp.querySelector("g");
+    let bb;
+    try { bb = cloneG.getBBox(); } catch(e){ bb = {x:0,y:0,width:1,height:1}; }
 
-      const cloneG = temp.querySelector("g");
-      let bb = null;
-      try { bb = cloneG.getBBox(); } catch(e){ bb = {x:0,y:0,width:1,height:1}; }
+    document.body.removeChild(temp);
 
-      document.body.removeChild(temp);
+    // Padding inside the target box:
+    // - percentage pad for aesthetics
+    // - PLUS stroke pad so thick strokes never kiss borders
+    const pctPad = Math.min(box.w, box.h) * 0.14;          // was 0.08
+    const strokePad = (strokePx || 0) * 1.6;               // stroke-aware
+    const pad = Math.max(pctPad, strokePad);
 
-      const pad = Math.min(box.w, box.h) * 0.08;
-      const targetW = Math.max(1, box.w - pad*2);
-      const targetH = Math.max(1, box.h - pad*2);
+    const targetW = Math.max(1, box.w - pad*2);
+    const targetH = Math.max(1, box.h - pad*2);
 
-      const scale = Math.min(targetW / Math.max(1,bb.width), targetH / Math.max(1,bb.height));
+    const scale = Math.min(
+        targetW / Math.max(1, bb.width),
+        targetH / Math.max(1, bb.height)
+    );
 
-      const cx = box.x + box.w/2;
-      const cy = box.y + box.h/2;
+    const cx = box.x + box.w/2;
+    const cy = box.y + box.h/2;
+    const bbCx = bb.x + bb.width/2;
+    const bbCy = bb.y + bb.height/2;
 
-      const bbCx = bb.x + bb.width/2;
-      const bbCy = bb.y + bb.height/2;
+    const tx = cx - (bbCx * scale);
+    const ty = cy - (bbCy * scale);
 
-      const tx = cx - (bbCx * scale);
-      const ty = cy - (bbCy * scale);
-
-      g.setAttribute("transform", `translate(${tx},${ty}) scale(${scale})`);
+    g.setAttribute("transform", `translate(${tx},${ty}) scale(${scale})`);
     }
+
 
     function pickDeterministicCore(label){
       // stable-ish mapping label -> a core key
