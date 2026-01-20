@@ -1,0 +1,186 @@
+# Sage
+
+## Basic Information
+- **Age:** 125+ years (approaching transcendence by later narrative)
+- **Role in Story:** Caregiver, nurturer, Calista's parent, member of family constellation, later Kael's partner
+- **Home:** Lumen (the Astravus)
+- **Constellation:** Initially 5-member family with Maia, Arin, Selene, and Dorian; later forms constellation with Kael and Sol
+- **Children:** Calista (middle child), Kael (older), Lyra (younger) as co-parent; raises Kael's child over 50 years
+
+## Physical Description
+Sage has soft, kind eyes and a gentle smile that puts people at ease. They have short, sandy hair and a freckled complexion. Most distinctive is their soothing voice—capable of easing any troubled heart. Everything about their physical presence suggests warmth, safety, and emotional availability.
+
+## Profession & Passion
+
+### As a Caregiver
+Sage's role encompasses:
+- Emotional support and counseling
+- Creating safe spaces for vulnerability and healing
+- Recognizing needs before they're expressed
+- Providing practical care and comfort
+- Teaching emotional intelligence and resilience
+- Nurturing growth through acceptance and support
+
+### Sage's Room
+Sage's personal space is:
+- A haven of peace filled with soft cushions and warm blankets
+- Gently illuminated by candlelight
+- A place where difficult conversations can happen safely
+- Conducive to rest and reflection
+- A sanctuary where people know they'll be heard and valued
+
+### Philosophy of Care
+Sage believes:
+- Every person deserves to be heard and valued
+- Emotional wounds need time and compassion to heal
+- Disagreements within families need mediation and understanding
+- Quiet strength and presence matter more than words
+- Care is both practical and deeply personal
+
+## Role in Family
+
+### As Caregiver-Parent
+Sage's approach to parenting emphasizes:
+- Ensuring family starts each day feeling loved and cared for
+- Recognizing and responding to emotional needs
+- Creating predictable, safe routines
+- Teaching emotional vocabulary and processing
+- Being present during bedtime stories and quiet moments
+- Providing both practical care and emotional depth
+
+### Key Parenting Moments
+- **Ensuring security:** Making sure children wake up feeling loved and cared for through gentle routines
+- **Mediating conflicts:** When Lyra and Kael argue about dessert, Sage recognizes deeper hurt and addresses it with a story
+- **Bedtime care:** Gathering children in candlelit room, telling stories that teach while comforting
+- **The Siblings' Story:** Telling the tale of three siblings (Aria, Bram, and Cora) who learn cooperation, meeting Lyra's and Kael's immediate need while teaching deeper lesson
+
+### With Individual Children
+- **Calista:** Provides creative support and emotional grounding
+- **Kael:** Becomes romantic partner later in life; they form constellation together
+- **Lyra:** Offers comfort and wisdom during childhood conflicts
+
+## The Siblings' Story (Told by Sage)
+
+This nested narrative demonstrates Sage's teaching philosophy:
+- **Context:** Lyra upset after disagreement with Kael over dessert
+- **Structure:** Tale of three siblings on ancient Astravus facing community crisis
+- **Lesson:** Different approaches have value; cooperation and understanding resolve conflicts
+- **Details:**
+  - Aria represents adventurous spirit
+  - Bram represents thoughtful analysis
+  - Cora represents creative problem-solving
+  - Water system failure creates urgency
+  - Each sibling wants to solve it differently
+  - Initial conflict and frustration
+  - Recognition that combining approaches works best
+  - Resolution that honors each perspective
+  - Final wisdom: "Our different strengths made us stronger together"
+- **Impact:** Lyra's frown becomes smile; lesson reaches all listening
+
+## Relationship with Kael
+
+### Partnership Formation
+- Later in adult life, Kael and Sage form romantic partnership
+- They create constellation with Sol (Kael's other partner)
+- They jointly adopt and raise a child from the Sanctuary
+- Raising child together over 50 years provides model for Calista's later parenthood decisions
+
+### Family Model
+Their family demonstrates:
+- Successful multi-adult constellation
+- Loving approach to parenting adopted children
+- Balancing individual pursuits with family needs
+- Open, honest communication
+- Mutual respect and support
+
+### Kael and Sage's Parenting
+When Calista observes their family:
+- Sees real-life example of successful nurturing environment
+- Witnesses how conflicts are handled with love and understanding
+- Learns that parenting is challenging but deeply rewarding
+- Receives concrete advice: "There's no one-size-fits-all approach to parenting. You'll find your way. Just be patient with yourselves and each other."
+
+## Personal Qualities
+- **Empathetic:** Deeply understands others' emotional states
+- **Patient:** Never rushes important conversations or processes
+- **Perceptive:** Notices emotional needs before they're expressed
+- **Grounded:** Remains calm in midst of turmoil
+- **Warm:** Creates immediate sense of safety and acceptance
+- **Wise:** Offers counsel based on deep understanding of human nature
+
+## Skills & Knowledge
+- Emotional intelligence and counseling
+- Conflict resolution and mediation
+- Storytelling for teaching and comfort
+- Creating safe, nurturing environments
+- Recognizing and responding to diverse needs
+- Teaching emotional resilience
+- Practical caregiving and support
+
+## Professional Contributions
+- Provides emotional support to community members
+- Helps families navigate challenges and transitions
+- Models healthy emotional expression and processing
+- Offers counseling and mediation services
+- Creates spaces where vulnerability is welcomed
+
+## Relationships with Other Family Members
+- **Maia:** Complements with emotional grounding what Maia provides through nature
+- **Arin:** Provides emotional counterbalance to technical approach
+- **Selene:** Music and emotional expression work together
+- **Dorian:** Historical perspective combined with present moment awareness
+
+## Later Life & Transcendence
+
+### With Kael and Sol
+- Continues raising adopted child through adulthood
+- Models commitment to family through decades
+- Provides emotional support through family transitions
+- Becomes mentor to Calista on parenting
+
+### Later Years
+- Spends increasing time in emotional and spiritual connection with Lumen
+- Presence becomes more ethereal as transcendence approaches
+- Emotional wisdom becomes part of collective consciousness
+- Remains accessible through dreams and shared awareness
+
+### During Transcendence
+- Appears in shared consciousness experiences
+- Offers comfort and understanding during others' transitions
+- Emotional wisdom and care become integrated into community memory
+
+## Specific Narrative Moments
+1. **Opening family routine:** Ensuring children wake feeling loved and cared for
+2. **Conflict resolution:** Guiding Lyra through post-disagreement feelings with hug and story
+3. **Bedside storytelling:** Creating atmospheric space with candles and blankets for teaching through story
+4. **Mentoring Calista:** Encouraging her to become parent, sharing from decades of experience
+5. **Family gathering:** Presence at dinners with Kael and Sol, modeling successful family dynamics
+6. **Dinner conversation:** Praising Elara's geological discoveries with genuine pride
+
+## Legacy
+Sage's impact includes:
+- Demonstrating that emotional care is as important as practical provision
+- Teaching that vulnerability is strength
+- Showing that different perspectives can coexist and enrich
+- Modeling lifelong commitment to family and community
+- Proving that love takes many forms
+- Creating safe spaces where people can heal and grow
+- Passing emotional wisdom to next generations
+
+## Themes Associated with Sage
+- **Care and Compassion:** Central to all relationships and community
+- **Emotional Intelligence:** Understanding feelings is crucial skill
+- **Presence:** Being fully present often matters more than words or actions
+- **Safety:** Secure spaces allow healing and growth
+- **Continuity:** Love and care persist through changes and transitions
+- **Integration:** Emotional wisdom serves community and individual equally
+
+## Character Notes for Writers
+- Sage represents emotional and relational dimension of family
+- Their room serves as intimate setting for important conversations and teaching
+- The nested Siblings' Story is excellent tool for demonstrating teaching philosophy
+- Sage's later partnership with Kael shows that relationships evolve and deepen over lifetime
+- Their approach to caregiving could provide model for scenes involving emotional support
+- Sage embodies idea that care is a skilled practice, not just intuition
+- Later appearance in Calista's transcendent dreams could emphasize emotional continuity
+- Sage's story demonstrates that what we thought was one role (caregiver in original constellation) was actually broader identity that evolved into partnership and expanded family
