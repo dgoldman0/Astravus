@@ -9,27 +9,27 @@ This directory contains manually curated OpenAI-format JSONL training data for t
 
 | File | Entries | Content |
 |------|---------|---------|
-| `factual_world_mechanics.jsonl` | 6 | Astravii nature, transcendence, Core Integration, governance, technology, familiars |
-| `factual_character_bios.jsonl` | 8 | Physical descriptions, quirks, relationships for main characters |
-| `factual_timeline_events.jsonl` | 8 | Major events: Joren's death, Core Integration, births, transcendence |
-| `factual_locations.jsonl` | 6 | Lumen, Aurora, Tree of Echoes, gardens, Sanctuary, Central Plaza |
+| `factual_world_mechanics.jsonl` | ~80 | Astravii nature, transcendence, Core Integration, governance, technology, familiars |
+| `factual_character_bios.jsonl` | ~85 | Physical descriptions, quirks, relationships for main characters |
+| `factual_timeline_events.jsonl` | ~100 | Major events: Joren's death, Core Integration, births, transcendence |
+| `factual_locations.jsonl` | ~65 | Lumen, Aurora, Nyx, Tree of Echoes, gardens, Sanctuary, Central Plaza |
 
 ### Simulation Data (Roleplay & Experience)
 
 | File | Entries | Content |
 |------|---------|---------|
-| `simulation_dialogue_family.jsonl` | 8 | Parent-child interactions, lessons, grief conversations |
-| `simulation_dialogue_friends.jsonl` | 6 | Cassia friendship, Lysandra relationship, peer dynamics |
-| `simulation_dreams_transcendence.jsonl` | 5 | Dream experiences, approaching transcendence, shared consciousness |
-| `simulation_scenarios_hypotheticals.jsonl` | 6 | What-ifs, future possibilities, exploratory scenarios |
+| `simulation_dialogue_family.jsonl` | ~60 | Parent-child interactions, lessons, grief conversations |
+| `simulation_dialogue_friends.jsonl` | ~55 | Cassia friendship, Lysandra relationship, peer dynamics |
+| `simulation_dreams_transcendence.jsonl` | ~65 | Dream experiences, approaching transcendence, shared consciousness |
+| `simulation_scenarios_hypotheticals.jsonl` | ~80 | What-ifs, future possibilities, exploratory scenarios |
 
 ### Meta Data (Uncertainty Handling)
 
 | File | Entries | Content |
 |------|---------|---------|
-| `meta.jsonl` | 6 | Training for graceful handling of unknowns and uncertainty |
+| `meta.jsonl` | ~100 | Training for graceful handling of unknowns and uncertainty |
 
-## Total: 9 files, ~59 training entries
+## Total: 9 files, ~690+ training entries
 
 ## Format Reference
 
