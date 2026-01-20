@@ -62,16 +62,16 @@ With longer lives and tighter coordination, the solar system stopped feeling dis
 Expansion followed the bottlenecks:
 
 - **Near-Earth space** became a logistics lattice: manufacturing platforms, depots, shipyards, and debris-control regimes  
-- **The Moon** became a construction yard and a launch economy  
 - **Mars** became a sovereignty experiment: habitat law, closed-loop ecology, and local manufacturing autonomy  
 - **The Belt** became an industrial frontier: metals, volatiles, and the first truly massive fabrication runs  
 - **Jovian and Saturnian systems** became energy and chemistry kingdoms: radiation-hardened tech, deep biosphere research, and high-volume fuel economies
+- **The Moon** started a construction yard and a launch economy, before eventually, after many many centuries of development of the solar system, becoming terraformed itself, transforming it into a vibrant whimsical and alien world full of adventure and beauty.  
 
 Every habitat solved the same problems in different styles: atmosphere, heat, radiation, governance, and supply resilience. Cultures diverged through engineering choices as much as ideology. Dialects formed around machinery and ritual: how to walk a spin habitat, how to schedule air, how to price risk, how to handle disputes when distance made enforcement expensive.
 
 Trade bound the system together. So did standards. Guild networks became interplanetary organs, maintaining protocols and teaching talent across light-minutes. Households became migration engines, sending members to new habitats, keeping others home, rotating care obligations across decades.
 
-Prosperity grew from efficiency and scale: better recycling, better energy capture, better automation, better logistics. Scarcity retreated from basics and gathered around strategic choke resources: compute, energy rights, launch windows, and trusted infrastructure.
+Prosperity grew from efficiency and scale: better recycling, better energy capture, better automation, better logistics. Scarcity retreated from basics and gathered around strategic choke resources: compute, energy rights, launch windows, and trusted infrastructure. And the constant fear of survival was replaced, in large part, by a sense of joy, wonder, satisfaction, and whimsy. 
 
 ### The First Stage of Existence
 
