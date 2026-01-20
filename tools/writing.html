@@ -1,0 +1,1030 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Architecture A – Block Glyph Composer (SVG)</title>
+  <style>
+    :root{
+      --bg:#0b0f14;
+      --panel:#101826;
+      --panel2:#0f1622;
+      --ink:#e8eefc;
+      --muted:#93a4c7;
+      --grid:#1b2a42;
+      --accent:#67e8f9;
+      --warn:#fbbf24;
+      --bad:#fb7185;
+      --good:#86efac;
+      --stroke:6;
+      --radius:18;
+    }
+    *{ box-sizing:border-box; }
+    body{
+      margin:0;
+      background:radial-gradient(1200px 700px at 20% 10%, #0e1a2d 0%, var(--bg) 60%);
+      color:var(--ink);
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", sans-serif;
+      line-height:1.35;
+    }
+    .wrap{
+      max-width:1200px;
+      margin:0 auto;
+      padding:24px;
+      display:grid;
+      gap:18px;
+      grid-template-columns: 420px 1fr;
+    }
+    @media (max-width: 980px){
+      .wrap{ grid-template-columns: 1fr; }
+    }
+    .card{
+      background:linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
+      border:1px solid rgba(255,255,255,0.08);
+      border-radius:18px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+      overflow:hidden;
+    }
+    .card header{
+      padding:16px 16px 10px 16px;
+      border-bottom:1px solid rgba(255,255,255,0.06);
+      background:linear-gradient(180deg, rgba(103,232,249,0.08), rgba(255,255,255,0.00));
+    }
+    h1{
+      font-size:16px;
+      margin:0 0 6px 0;
+      letter-spacing:0.2px;
+    }
+    .sub{
+      margin:0;
+      color:var(--muted);
+      font-size:12.5px;
+    }
+    .card .content{ padding:16px; }
+    label{
+      display:block;
+      font-size:12px;
+      color:var(--muted);
+      margin:10px 0 6px;
+    }
+    input[type="text"], textarea, select{
+      width:100%;
+      background:rgba(5,10,18,0.6);
+      border:1px solid rgba(255,255,255,0.10);
+      color:var(--ink);
+      border-radius:12px;
+      padding:10px 12px;
+      outline:none;
+    }
+    textarea{
+      min-height:84px;
+      resize:vertical;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size:12.5px;
+      line-height:1.35;
+    }
+    .row{
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+      gap:10px;
+    }
+    .btns{ display:flex; gap:10px; margin-top:12px; flex-wrap:wrap; }
+    button{
+      appearance:none;
+      border:none;
+      border-radius:12px;
+      padding:10px 12px;
+      background:rgba(103,232,249,0.14);
+      color:var(--ink);
+      cursor:pointer;
+      border:1px solid rgba(103,232,249,0.35);
+      font-weight:600;
+      letter-spacing:0.2px;
+    }
+    button.secondary{
+      background:rgba(147,164,199,0.10);
+      border-color: rgba(147,164,199,0.25);
+      color:var(--ink);
+    }
+    button:active{ transform: translateY(1px); }
+    .pill{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:7px 10px;
+      border-radius:999px;
+      background:rgba(147,164,199,0.10);
+      border:1px solid rgba(255,255,255,0.08);
+      color:var(--muted);
+      font-size:12px;
+      margin-right:8px;
+      margin-top:8px;
+      white-space:nowrap;
+    }
+    .dot{ width:8px;height:8px;border-radius:50%; background:var(--accent); display:inline-block; }
+    .dot.good{ background:var(--good); }
+    .dot.warn{ background:var(--warn); }
+    .dot.bad{ background:var(--bad); }
+
+    /* Preview area */
+    .previewWrap{
+      padding:18px;
+      display:flex;
+      flex-direction:column;
+      gap:12px;
+    }
+    .stage{
+      background:linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+      border:1px solid rgba(255,255,255,0.08);
+      border-radius:18px;
+      padding:14px;
+      overflow:auto;
+      min-height:320px;
+    }
+    .stageInner{
+      display:flex;
+      gap:14px;
+      flex-wrap:wrap;
+      align-items:flex-start;
+    }
+    .glyphBlock{
+      display:flex;
+      flex-direction:column;
+      gap:8px;
+      align-items:center;
+    }
+    .glyphLabel{
+      font-size:12px;
+      color:var(--muted);
+      max-width:240px;
+      text-align:center;
+      word-break:break-word;
+    }
+
+    .mini{
+      display:grid;
+      grid-template-columns: 1fr;
+      gap:10px;
+    }
+    .kbd{
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size:11px;
+      padding:2px 6px;
+      border-radius:8px;
+      background:rgba(0,0,0,0.25);
+      border:1px solid rgba(255,255,255,0.10);
+      color:var(--ink);
+    }
+    .help{
+      font-size:12.5px;
+      color:var(--muted);
+      margin:0;
+    }
+    .small{
+      font-size:12px;
+      color:var(--muted);
+      margin:0;
+    }
+    .footer{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:space-between;
+      margin-top:6px;
+    }
+    a{ color:var(--accent); text-decoration:none; }
+    a:hover{ text-decoration:underline; }
+
+    /* SVG default styling */
+    svg .ink{
+      stroke: var(--ink);
+      fill: none;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      vector-effect: non-scaling-stroke;
+    }
+    svg .fillInk{
+      fill: var(--ink);
+      stroke: none;
+    }
+    svg .debug{
+      stroke: rgba(103,232,249,0.30);
+      fill:none;
+      stroke-dasharray: 8 8;
+      vector-effect: non-scaling-stroke;
+    }
+    svg .debug2{
+      stroke: rgba(147,164,199,0.25);
+      fill:none;
+      stroke-dasharray: 4 8;
+      vector-effect: non-scaling-stroke;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="card">
+      <header>
+        <h1>Block Glyph Composer (Architecture A)</h1>
+        <p class="sub">
+          Deterministic SVG composition: radical (TL) + core (center) + modifiers (right stack) + grammar (bottom).
+        </p>
+      </header>
+      <div class="content">
+        <div class="pill"><span class="dot"></span>Algorithmic placement</div>
+        <div class="pill"><span class="dot good"></span>Parametric parts</div>
+        <div class="pill"><span class="dot warn"></span>Collision-aware scaling</div>
+
+        <label for="compound">Compound string (blocks separated by spaces)</label>
+        <input id="compound" type="text" spellcheck="false"
+               value="water:liq+N motion:act+V tool:art+AGENT river:geo+N" />
+
+        <div class="row">
+          <div>
+            <label for="size">Cell size</label>
+            <select id="size">
+              <option value="120">120 px</option>
+              <option value="160" selected>160 px</option>
+              <option value="220">220 px</option>
+              <option value="300">300 px</option>
+            </select>
+          </div>
+          <div>
+            <label for="mode">Spacing mode</label>
+            <select id="mode">
+              <option value="compound" selected>Compound (touch/ligature-ish)</option>
+              <option value="phrase">Phrase (gapped)</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row">
+          <div>
+            <label for="style">Stroke style</label>
+            <select id="style">
+              <option value="rounded" selected>Rounded</option>
+              <option value="angular">Angular</option>
+            </select>
+          </div>
+          <div>
+            <label for="debug">Debug overlays</label>
+            <select id="debug">
+              <option value="off" selected>Off</option>
+              <option value="on">On (slot boxes)</option>
+            </select>
+          </div>
+        </div>
+
+        <label for="lexicon">Lexicon (JSON)</label>
+        <textarea id="lexicon" spellcheck="false"></textarea>
+
+        <div class="btns">
+          <button id="renderBtn">Render</button>
+          <button id="randomBtn" class="secondary">Randomize example</button>
+          <button id="copySvgBtn" class="secondary">Copy SVG (first block)</button>
+        </div>
+
+        <p class="help" style="margin-top:12px;">
+          Syntax per block: <span class="kbd">word:radical+MOD+MOD</span>.<br/>
+          Example: <span class="kbd">water:liq+N</span>, <span class="kbd">run:act+V+PAST</span>.
+        </p>
+        <p class="small" style="margin-top:10px;">
+          This demo uses a tiny “toy” inventory for cores/radicals/diacritics; expand the JSON lexicon and component tables to scale.
+        </p>
+      </div>
+    </section>
+
+    <section class="card">
+      <header>
+        <h1>Preview</h1>
+        <p class="sub">Each word becomes a block; compounds are concatenations of blocks.</p>
+      </header>
+      <div class="previewWrap">
+        <div class="stage">
+          <div id="stageInner" class="stageInner"></div>
+        </div>
+        <div class="footer">
+          <p class="small">
+            Tip: keep component vocabulary small and consistent; expand lexicon by morphemes, not whole-word drawings.
+          </p>
+          <p class="small">
+            Export path: click “Copy SVG (first block)” → paste into an SVG file.
+          </p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    // ------------------------------------------------------------
+    // 1) Minimal component inventory (toy set)
+    //    - cores: visually distinct center marks (could be phonetic IDs)
+    //    - radicals: semantic TL marks
+    //    - diacritics: right-stack mods (N,V,AGENT,PAST,PL,NEG,ADJ)
+    //    - grammar: bottom slot (optional, demo includes NOM/VERB)
+    // ------------------------------------------------------------
+
+    const CORE_SHAPES = {
+      // Each shape returns SVG content inside a group already centered in its local box.
+      // We'll place cores in the CENTER slot and scale to fit.
+      K01: (w,h,style)=> pathRoundRect(w,h,style),
+      K02: (w,h,style)=> pathDiamond(w,h,style),
+      K03: (w,h,style)=> pathSpiral(w,h,style),
+      K04: (w,h,style)=> pathTrident(w,h,style),
+      K05: (w,h,style)=> pathOrbit(w,h,style),
+      K06: (w,h,style)=> pathChevron(w,h,style),
+      K07: (w,h,style)=> pathKeyhole(w,h,style),
+      K08: (w,h,style)=> pathBars(w,h,style),
+      K09: (w,h,style)=> pathLeaf(w,h,style),
+      K10: (w,h,style)=> pathBolt(w,h,style),
+      K11: (w,h,style)=> pathWave(w,h,style),
+      K12: (w,h,style)=> pathBridge(w,h,style),
+    };
+
+    const RADICALS = {
+      liq: (w,h,style)=> radicalLiquid(w,h,style),
+      act: (w,h,style)=> radicalMotion(w,h,style),
+      hum: (w,h,style)=> radicalHuman(w,h,style),
+      art: (w,h,style)=> radicalArtifact(w,h,style),
+      geo: (w,h,style)=> radicalGeo(w,h,style),
+      bio: (w,h,style)=> radicalBio(w,h,style),
+      abs: (w,h,style)=> radicalAbstract(w,h,style),
+      com: (w,h,style)=> radicalCommunication(w,h,style),
+    };
+
+    const MODS = {
+      N: (w,h,style)=> diacriticCircle(w,h,style),
+      V: (w,h,style)=> diacriticTriangle(w,h,style),
+      ADJ: (w,h,style)=> diacriticSquare(w,h,style),
+      AGENT: (w,h,style)=> diacriticDotBar(w,h,style),
+      PAST: (w,h,style)=> diacriticTick(w,h,style),
+      PL: (w,h,style)=> diacriticDoubleDot(w,h,style),
+      NEG: (w,h,style)=> diacriticSlash(w,h,style),
+    };
+
+    const GRAMMAR = {
+      NOM: (w,h,style)=> grammarNoun(w,h,style),
+      VERB: (w,h,style)=> grammarVerb(w,h,style),
+    };
+
+    // ------------------------------------------------------------
+    // 2) Default toy lexicon (morpheme -> core + default grammar)
+    //    You can treat "word" here as a morpheme label; compounds are sequences.
+    // ------------------------------------------------------------
+
+    const DEFAULT_LEXICON = {
+      water: { core: "K11", grammar: "NOM" },
+      motion: { core: "K06", grammar: "VERB" },
+      tool: { core: "K08", grammar: "NOM" },
+      river: { core: "K12", grammar: "NOM" },
+      run: { core: "K06", grammar: "VERB" },
+      person: { core: "K04", grammar: "NOM" },
+      speak: { core: "K05", grammar: "VERB" },
+      idea: { core: "K03", grammar: "NOM" },
+      plant: { core: "K09", grammar: "NOM" },
+      make: { core: "K01", grammar: "VERB" },
+    };
+
+    // ------------------------------------------------------------
+    // 3) Parsing: "water:liq+N+PL" -> {label, radical, mods[]}
+    // ------------------------------------------------------------
+    function parseBlockToken(token){
+      // token: label:rad+MOD+MOD
+      const out = { label:"", radical:null, mods:[] };
+      const parts = token.split(":");
+      out.label = (parts[0] || "").trim();
+      if (!out.label) return null;
+
+      if (parts.length === 1) return out;
+
+      const right = parts[1].trim();
+      if (!right) return out;
+
+      const segs = right.split("+").map(s=>s.trim()).filter(Boolean);
+      if (segs.length > 0) out.radical = segs[0] || null;
+      if (segs.length > 1) out.mods = segs.slice(1);
+
+      return out;
+    }
+
+    // ------------------------------------------------------------
+    // 4) Block layout (Architecture A)
+    //    - All placement is deterministic by slot boxes in the cell.
+    //    - We also do fit-to-box scaling on each component.
+    // ------------------------------------------------------------
+    function renderBlockSVG(spec, opts){
+      const size = opts.size;
+      const stroke = opts.stroke;
+      const style = opts.style; // rounded | angular
+
+      // Slot boxes as normalized fractions of the cell
+      // (tweak these to get the look you want)
+      const pad = Math.round(size * 0.08);
+      const cell = { x:0, y:0, w:size, h:size };
+
+      const slots = {
+        radical: { x: pad, y: pad, w: Math.round(size*0.28), h: Math.round(size*0.28) },
+        core:    { x: Math.round(size*0.22), y: Math.round(size*0.18), w: Math.round(size*0.56), h: Math.round(size*0.60) },
+        mods:    { x: Math.round(size*0.80), y: Math.round(size*0.18), w: Math.round(size*0.15), h: Math.round(size*0.60) },
+        grammar: { x: Math.round(size*0.18), y: Math.round(size*0.82), w: Math.round(size*0.64), h: Math.round(size*0.14) },
+      };
+
+      // SVG root
+      const svgNS = "http://www.w3.org/2000/svg";
+      const svg = document.createElementNS(svgNS, "svg");
+      svg.setAttribute("width", size);
+      svg.setAttribute("height", size);
+      svg.setAttribute("viewBox", `0 0 ${size} ${size}`);
+
+      // Cell border
+      const border = document.createElementNS(svgNS, "rect");
+      border.setAttribute("x", pad*0.35);
+      border.setAttribute("y", pad*0.35);
+      border.setAttribute("width", size - pad*0.70);
+      border.setAttribute("height", size - pad*0.70);
+      border.setAttribute("rx", style === "rounded" ? (size*0.12) : (size*0.04));
+      border.setAttribute("class", "ink");
+      border.style.strokeWidth = stroke;
+      svg.appendChild(border);
+
+      // Optional debug slot outlines
+      if (opts.debug){
+        const dbg = (r, cls="debug")=>{
+          const rr = document.createElementNS(svgNS,"rect");
+          rr.setAttribute("x", r.x); rr.setAttribute("y", r.y);
+          rr.setAttribute("width", r.w); rr.setAttribute("height", r.h);
+          rr.setAttribute("rx", Math.min(12, r.w*0.15));
+          rr.setAttribute("class", cls);
+          rr.style.strokeWidth = Math.max(2, stroke*0.35);
+          svg.appendChild(rr);
+        };
+        dbg(slots.radical,"debug");
+        dbg(slots.core,"debug");
+        dbg(slots.mods,"debug2");
+        dbg(slots.grammar,"debug2");
+      }
+
+      // Pull lexicon entry (core + default grammar)
+      const lex = opts.lexicon[spec.label] || null;
+      const coreKey = lex?.core || pickDeterministicCore(spec.label);
+      const grammarKey = lex?.grammar || null;
+
+      // Create groups for each component to allow transforms
+      const gRad = mkGroup(svgNS);
+      const gCore = mkGroup(svgNS);
+      const gMods = mkGroup(svgNS);
+      const gGram = mkGroup(svgNS);
+
+      // Stroke styling
+      [gRad,gCore,gMods,gGram].forEach(g=>{
+        g.setAttribute("class","ink");
+        g.style.strokeWidth = stroke;
+      });
+
+      // 4a) Radical (top-left)
+      if (spec.radical && RADICALS[spec.radical]){
+        const frag = RADICALS[spec.radical](slots.radical.w, slots.radical.h, style);
+        gRad.appendChild(frag);
+        fitGroupToBox(gRad, slots.radical);
+        svg.appendChild(gRad);
+      }
+
+      // 4b) Core (center)
+      if (CORE_SHAPES[coreKey]){
+        const frag = CORE_SHAPES[coreKey](slots.core.w, slots.core.h, style);
+        gCore.appendChild(frag);
+        fitGroupToBox(gCore, slots.core);
+        svg.appendChild(gCore);
+      }
+
+      // 4c) Mods (right stack)
+      const mods = (spec.mods || []).filter(m => MODS[m]);
+      if (mods.length){
+        // Stack in the mods slot with even spacing
+        const gap = Math.round(slots.mods.h * 0.06);
+        const itemH = Math.floor((slots.mods.h - gap*(mods.length-1)) / mods.length);
+        const itemW = slots.mods.w;
+
+        mods.forEach((m, i)=>{
+          const box = {
+            x: slots.mods.x,
+            y: slots.mods.y + i*(itemH+gap),
+            w: itemW,
+            h: itemH
+          };
+          const gi = mkGroup(svgNS);
+          gi.setAttribute("class","ink");
+          gi.style.strokeWidth = stroke;
+          gi.appendChild(MODS[m](box.w, box.h, style));
+          fitGroupToBox(gi, box);
+          svg.appendChild(gi);
+        });
+      }
+
+      // 4d) Grammar (bottom)
+      const gramKey = inferGrammar(grammarKey, mods);
+      if (gramKey && GRAMMAR[gramKey]){
+        gGram.appendChild(GRAMMAR[gramKey](slots.grammar.w, slots.grammar.h, style));
+        fitGroupToBox(gGram, slots.grammar);
+        svg.appendChild(gGram);
+      }
+
+      return svg;
+    }
+
+    // ------------------------------------------------------------
+    // 5) Compound rendering: concatenate blocks with optional touching
+    // ------------------------------------------------------------
+    function renderCompound(compound, opts){
+      const tokens = compound.split(/\s+/).map(t=>t.trim()).filter(Boolean);
+      const specs = tokens.map(parseBlockToken).filter(Boolean);
+
+      const stage = document.getElementById("stageInner");
+      stage.innerHTML = "";
+
+      const gap = opts.mode === "phrase" ? Math.round(opts.size*0.18) : Math.round(opts.size*0.04);
+
+      // A single compound strip SVG (optional): for "touching" effect you can also draw
+      // a join stroke between blocks. We'll do a simple shared-stroke connector.
+      const strip = document.createElement("div");
+      strip.className = "glyphBlock";
+
+      const stripSvg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+      const W = specs.length * opts.size + Math.max(0, specs.length-1)*gap;
+      const H = opts.size;
+      stripSvg.setAttribute("width", W);
+      stripSvg.setAttribute("height", H);
+      stripSvg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+
+      // Render each block and position it
+      let x = 0;
+      const rendered = [];
+      for (let i=0;i<specs.length;i++){
+        const bsvg = renderBlockSVG(specs[i], opts);
+        const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+        g.setAttribute("transform", `translate(${x},0)`);
+        // Move bsvg children into g
+        while (bsvg.firstChild) g.appendChild(bsvg.firstChild);
+        stripSvg.appendChild(g);
+
+        rendered.push({spec:specs[i], x});
+        x += opts.size + gap;
+      }
+
+      // Connector strokes for compound mode (ligature-ish)
+      if (opts.mode === "compound" && specs.length > 1){
+        for (let i=0;i<specs.length-1;i++){
+          const cx = rendered[i].x + opts.size - Math.round(opts.size*0.03);
+          const cy1 = Math.round(opts.size*0.22);
+          const cy2 = Math.round(opts.size*0.78);
+
+          const conn = document.createElementNS("http://www.w3.org/2000/svg","path");
+          conn.setAttribute("d", `M ${cx} ${cy1} L ${cx} ${cy2}`);
+          conn.setAttribute("class","ink");
+          conn.style.strokeWidth = opts.stroke;
+          stripSvg.appendChild(conn);
+        }
+      }
+
+      strip.appendChild(stripSvg);
+
+      const label = document.createElement("div");
+      label.className = "glyphLabel";
+      label.textContent = tokens.join(" ");
+      strip.appendChild(label);
+
+      stage.appendChild(strip);
+
+      // Also show individual blocks beneath (useful while designing)
+      const miniWrap = document.createElement("div");
+      miniWrap.className = "mini";
+      const miniRow = document.createElement("div");
+      miniRow.className = "stageInner";
+
+      specs.forEach(s=>{
+        const b = document.createElement("div");
+        b.className = "glyphBlock";
+        const svg = renderBlockSVG(s, opts);
+        b.appendChild(svg);
+        const t = document.createElement("div");
+        t.className = "glyphLabel";
+        t.textContent = `${s.label}${s.radical? ":"+s.radical:""}${s.mods?.length? " +"+s.mods.join("+"):""}`;
+        b.appendChild(t);
+        miniRow.appendChild(b);
+      });
+
+      miniWrap.appendChild(miniRow);
+      stage.appendChild(miniWrap);
+
+      // store first block SVG for copy
+      window.__firstBlockSVG = specs.length ? renderBlockSVG(specs[0], opts) : null;
+    }
+
+    // ------------------------------------------------------------
+    // 6) Helpers: group creation and fit-to-box scaling
+    // ------------------------------------------------------------
+    function mkGroup(svgNS){
+      return document.createElementNS(svgNS,"g");
+    }
+
+    function fitGroupToBox(g, box){
+      // g already contains geometry in a local coordinate system roughly [0..w, 0..h],
+      // but some shapes draw beyond. We'll compute its bbox after insertion into a temp SVG.
+      // We'll do: translate to box center, scale, translate.
+      const svgNS = "http://www.w3.org/2000/svg";
+
+      // Temp svg for bbox measurement
+      const temp = document.createElementNS(svgNS,"svg");
+      temp.setAttribute("width", 1);
+      temp.setAttribute("height", 1);
+      temp.style.position = "absolute";
+      temp.style.left = "-9999px";
+      temp.style.top = "-9999px";
+      temp.appendChild(g.cloneNode(true));
+      document.body.appendChild(temp);
+
+      const cloneG = temp.querySelector("g");
+      let bb = null;
+      try { bb = cloneG.getBBox(); } catch(e){ bb = {x:0,y:0,width:1,height:1}; }
+
+      document.body.removeChild(temp);
+
+      const pad = Math.min(box.w, box.h) * 0.08;
+      const targetW = Math.max(1, box.w - pad*2);
+      const targetH = Math.max(1, box.h - pad*2);
+
+      const scale = Math.min(targetW / Math.max(1,bb.width), targetH / Math.max(1,bb.height));
+
+      const cx = box.x + box.w/2;
+      const cy = box.y + box.h/2;
+
+      const bbCx = bb.x + bb.width/2;
+      const bbCy = bb.y + bb.height/2;
+
+      const tx = cx - (bbCx * scale);
+      const ty = cy - (bbCy * scale);
+
+      g.setAttribute("transform", `translate(${tx},${ty}) scale(${scale})`);
+    }
+
+    function pickDeterministicCore(label){
+      // stable-ish mapping label -> a core key
+      const keys = Object.keys(CORE_SHAPES);
+      let h = 2166136261;
+      for (let i=0;i<label.length;i++){
+        h ^= label.charCodeAt(i);
+        h = Math.imul(h, 16777619);
+      }
+      const idx = Math.abs(h) % keys.length;
+      return keys[idx];
+    }
+
+    function inferGrammar(defaultGram, mods){
+      if (defaultGram) return defaultGram;
+      if (mods?.includes("V")) return "VERB";
+      if (mods?.includes("N")) return "NOM";
+      return null;
+    }
+
+    // ------------------------------------------------------------
+    // 7) Parametric drawing primitives (cores/radicals/diacritics)
+    // ------------------------------------------------------------
+
+    function mkPath(d){
+      const p = document.createElementNS("http://www.w3.org/2000/svg","path");
+      p.setAttribute("d", d);
+      p.setAttribute("class", "ink");
+      return p;
+    }
+    function mkCircle(cx,cy,r,fill=false){
+      const c = document.createElementNS("http://www.w3.org/2000/svg","circle");
+      c.setAttribute("cx",cx); c.setAttribute("cy",cy); c.setAttribute("r",r);
+      c.setAttribute("class", fill ? "fillInk":"ink");
+      return c;
+    }
+    function mkRect(x,y,w,h,rx=0,fill=false){
+      const r = document.createElementNS("http://www.w3.org/2000/svg","rect");
+      r.setAttribute("x",x); r.setAttribute("y",y);
+      r.setAttribute("width",w); r.setAttribute("height",h);
+      r.setAttribute("rx",rx);
+      r.setAttribute("class", fill ? "fillInk":"ink");
+      return r;
+    }
+    function mkGroupFrag(children){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      children.forEach(ch=>g.appendChild(ch));
+      return g;
+    }
+
+    // Cores (center)
+    function pathRoundRect(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      const pad = Math.min(w,h)*0.10;
+      const rx = style==="rounded" ? Math.min(w,h)*0.18 : Math.min(w,h)*0.05;
+      g.appendChild(mkRect(pad,pad,w-2*pad,h-2*pad,rx,false));
+      g.appendChild(mkPath(`M ${w*0.22} ${h*0.55} L ${w*0.78} ${h*0.55}`));
+      return g;
+    }
+    function pathDiamond(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      const x = w/2, y=h/2;
+      g.appendChild(mkPath(`M ${x} ${h*0.12} L ${w*0.88} ${y} L ${x} ${h*0.88} L ${w*0.12} ${y} Z`));
+      g.appendChild(mkCircle(x,y,Math.min(w,h)*0.10,false));
+      return g;
+    }
+    function pathSpiral(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      const cx=w/2, cy=h/2;
+      const r=Math.min(w,h)*0.38;
+      // a simple "spiral-ish" cubic path
+      g.appendChild(mkPath(`M ${cx-r} ${cy}
+        C ${cx-r} ${cy-r}, ${cx+r} ${cy-r}, ${cx+r} ${cy}
+        C ${cx+r} ${cy+r}, ${cx} ${cy+r}, ${cx} ${cy}
+        C ${cx} ${cy-r*0.35}, ${cx+r*0.35} ${cy-r*0.35}, ${cx+r*0.35} ${cy}
+      `));
+      return g;
+    }
+    function pathTrident(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.16} L ${w*0.50} ${h*0.86}`));
+      g.appendChild(mkPath(`M ${w*0.30} ${h*0.26} L ${w*0.50} ${h*0.16} L ${w*0.70} ${h*0.26}`));
+      g.appendChild(mkPath(`M ${w*0.30} ${h*0.44} L ${w*0.50} ${h*0.34} L ${w*0.70} ${h*0.44}`));
+      return g;
+    }
+    function pathOrbit(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      const cx=w/2, cy=h/2;
+      g.appendChild(mkCircle(cx,cy,Math.min(w,h)*0.26,false));
+      g.appendChild(mkPath(`M ${w*0.18} ${h*0.62} C ${w*0.38} ${h*0.18}, ${w*0.62} ${h*0.92}, ${w*0.82} ${h*0.38}`));
+      g.appendChild(mkCircle(w*0.78,h*0.40,Math.min(w,h)*0.06,true));
+      return g;
+    }
+    function pathChevron(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.20} ${h*0.30} L ${w*0.50} ${h*0.70} L ${w*0.80} ${h*0.30}`));
+      g.appendChild(mkPath(`M ${w*0.20} ${h*0.55} L ${w*0.50} ${h*0.85} L ${w*0.80} ${h*0.55}`));
+      return g;
+    }
+    function pathKeyhole(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      const cx=w/2, cy=h*0.40;
+      g.appendChild(mkCircle(cx,cy,Math.min(w,h)*0.18,false));
+      g.appendChild(mkPath(`M ${cx} ${cy+Math.min(w,h)*0.18} L ${cx} ${h*0.82}`));
+      g.appendChild(mkPath(`M ${w*0.38} ${h*0.82} L ${w*0.62} ${h*0.82}`));
+      return g;
+    }
+    function pathBars(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.22} ${h*0.28} L ${w*0.78} ${h*0.28}`));
+      g.appendChild(mkPath(`M ${w*0.22} ${h*0.50} L ${w*0.78} ${h*0.50}`));
+      g.appendChild(mkPath(`M ${w*0.22} ${h*0.72} L ${w*0.78} ${h*0.72}`));
+      g.appendChild(mkPath(`M ${w*0.32} ${h*0.22} L ${w*0.32} ${h*0.78}`));
+      return g;
+    }
+    function pathLeaf(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.18}
+        C ${w*0.20} ${h*0.25}, ${w*0.20} ${h*0.80}, ${w*0.50} ${h*0.86}
+        C ${w*0.80} ${h*0.80}, ${w*0.80} ${h*0.25}, ${w*0.50} ${h*0.18} Z`));
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.24} L ${w*0.50} ${h*0.82}`));
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.48} L ${w*0.68} ${h*0.40}`));
+      return g;
+    }
+    function pathBolt(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.60} ${h*0.12} L ${w*0.28} ${h*0.58} L ${w*0.54} ${h*0.58} L ${w*0.40} ${h*0.88} L ${w*0.74} ${h*0.42} L ${w*0.48} ${h*0.42} Z`));
+      return g;
+    }
+    function pathWave(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.18} ${h*0.55}
+        C ${w*0.30} ${h*0.35}, ${w*0.46} ${h*0.75}, ${w*0.58} ${h*0.55}
+        C ${w*0.70} ${h*0.35}, ${w*0.82} ${h*0.75}, ${w*0.90} ${h*0.55}`));
+      g.appendChild(mkPath(`M ${w*0.18} ${h*0.72}
+        C ${w*0.30} ${h*0.52}, ${w*0.46} ${h*0.92}, ${w*0.58} ${h*0.72}
+        C ${w*0.70} ${h*0.52}, ${w*0.82} ${h*0.92}, ${w*0.90} ${h*0.72}`));
+      return g;
+    }
+    function pathBridge(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.20} ${h*0.66}
+        C ${w*0.34} ${h*0.30}, ${w*0.66} ${h*0.30}, ${w*0.80} ${h*0.66}`));
+      g.appendChild(mkPath(`M ${w*0.22} ${h*0.66} L ${w*0.22} ${h*0.82}`));
+      g.appendChild(mkPath(`M ${w*0.78} ${h*0.66} L ${w*0.78} ${h*0.82}`));
+      g.appendChild(mkPath(`M ${w*0.18} ${h*0.82} L ${w*0.82} ${h*0.82}`));
+      return g;
+    }
+
+    // Radicals (top-left)
+    function radicalLiquid(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.14}
+        C ${w*0.32} ${h*0.38}, ${w*0.26} ${h*0.52}, ${w*0.26} ${h*0.64}
+        C ${w*0.26} ${h*0.84}, ${w*0.40} ${h*0.90}, ${w*0.50} ${h*0.90}
+        C ${w*0.60} ${h*0.90}, ${w*0.74} ${h*0.84}, ${w*0.74} ${h*0.64}
+        C ${w*0.74} ${h*0.52}, ${w*0.68} ${h*0.38}, ${w*0.50} ${h*0.14} Z`));
+      g.appendChild(mkPath(`M ${w*0.32} ${h*0.70} C ${w*0.40} ${h*0.62}, ${w*0.60} ${h*0.78}, ${w*0.68} ${h*0.68}`));
+      return g;
+    }
+    function radicalMotion(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.18} ${h*0.58} L ${w*0.70} ${h*0.58}`));
+      g.appendChild(mkPath(`M ${w*0.52} ${h*0.30} L ${w*0.82} ${h*0.58} L ${w*0.52} ${h*0.86}`));
+      g.appendChild(mkPath(`M ${w*0.18} ${h*0.32} L ${w*0.44} ${h*0.32}`));
+      return g;
+    }
+    function radicalHuman(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkCircle(w*0.50,h*0.26,Math.min(w,h)*0.12,false));
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.38} L ${w*0.50} ${h*0.78}`));
+      g.appendChild(mkPath(`M ${w*0.28} ${h*0.52} L ${w*0.72} ${h*0.52}`));
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.78} L ${w*0.32} ${h*0.92}`));
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.78} L ${w*0.68} ${h*0.92}`));
+      return g;
+    }
+    function radicalArtifact(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkRect(w*0.18,h*0.20,w*0.64,h*0.58, style==="rounded"? Math.min(w,h)*0.10 : Math.min(w,h)*0.03, false));
+      g.appendChild(mkPath(`M ${w*0.28} ${h*0.38} L ${w*0.72} ${h*0.38}`));
+      g.appendChild(mkPath(`M ${w*0.28} ${h*0.58} L ${w*0.72} ${h*0.58}`));
+      return g;
+    }
+    function radicalGeo(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.18} ${h*0.72} C ${w*0.30} ${h*0.46}, ${w*0.46} ${h*0.36}, ${w*0.62} ${h*0.40}
+        C ${w*0.78} ${h*0.44}, ${w*0.86} ${h*0.60}, ${w*0.82} ${h*0.78}`));
+      g.appendChild(mkPath(`M ${w*0.22} ${h*0.78} L ${w*0.82} ${h*0.78}`));
+      g.appendChild(mkCircle(w*0.62,h*0.40,Math.min(w,h)*0.06,true));
+      return g;
+    }
+    function radicalBio(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.18} L ${w*0.50} ${h*0.86}`));
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.40} C ${w*0.36} ${h*0.34}, ${w*0.30} ${h*0.26}, ${w*0.24} ${h*0.18}`));
+      g.appendChild(mkPath(`M ${w*0.50} ${h*0.56} C ${w*0.64} ${h*0.50}, ${w*0.72} ${h*0.40}, ${w*0.80} ${h*0.30}`));
+      g.appendChild(mkCircle(w*0.50,h*0.18,Math.min(w,h)*0.06,true));
+      return g;
+    }
+    function radicalAbstract(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.22} ${h*0.30} L ${w*0.78} ${h*0.30}`));
+      g.appendChild(mkPath(`M ${w*0.22} ${h*0.52} L ${w*0.78} ${h*0.52}`));
+      g.appendChild(mkPath(`M ${w*0.22} ${h*0.74} L ${w*0.78} ${h*0.74}`));
+      g.appendChild(mkPath(`M ${w*0.30} ${h*0.22} L ${w*0.70} ${h*0.82}`));
+      return g;
+    }
+    function radicalCommunication(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      const rx = style==="rounded"? Math.min(w,h)*0.18 : Math.min(w,h)*0.05;
+      g.appendChild(mkRect(w*0.14,h*0.20,w*0.72,h*0.52,rx,false));
+      g.appendChild(mkPath(`M ${w*0.30} ${h*0.72} L ${w*0.42} ${h*0.88} L ${w*0.48} ${h*0.72}`));
+      g.appendChild(mkPath(`M ${w*0.26} ${h*0.40} L ${w*0.74} ${h*0.40}`));
+      g.appendChild(mkPath(`M ${w*0.26} ${h*0.52} L ${w*0.60} ${h*0.52}`));
+      return g;
+    }
+
+    // Diacritics (right stack items)
+    function diacriticCircle(w,h,style){
+      return mkGroupFrag([mkCircle(w*0.50,h*0.50,Math.min(w,h)*0.28,false)]);
+    }
+    function diacriticTriangle(w,h,style){
+      return mkGroupFrag([mkPath(`M ${w*0.50} ${h*0.16} L ${w*0.84} ${h*0.80} L ${w*0.16} ${h*0.80} Z`)]);
+    }
+    function diacriticSquare(w,h,style){
+      const rx = style==="rounded" ? Math.min(w,h)*0.12 : Math.min(w,h)*0.02;
+      return mkGroupFrag([mkRect(w*0.18,h*0.18,w*0.64,h*0.64,rx,false)]);
+    }
+    function diacriticDotBar(w,h,style){
+      return mkGroupFrag([
+        mkCircle(w*0.50,h*0.35,Math.min(w,h)*0.10,true),
+        mkPath(`M ${w*0.24} ${h*0.66} L ${w*0.76} ${h*0.66}`)
+      ]);
+    }
+    function diacriticTick(w,h,style){
+      return mkGroupFrag([mkPath(`M ${w*0.30} ${h*0.70} L ${w*0.50} ${h*0.40} L ${w*0.74} ${h*0.58}`)]);
+    }
+    function diacriticDoubleDot(w,h,style){
+      return mkGroupFrag([
+        mkCircle(w*0.40,h*0.45,Math.min(w,h)*0.10,true),
+        mkCircle(w*0.60,h*0.60,Math.min(w,h)*0.10,true)
+      ]);
+    }
+    function diacriticSlash(w,h,style){
+      return mkGroupFrag([mkPath(`M ${w*0.22} ${h*0.78} L ${w*0.78} ${h*0.22}`)]);
+    }
+
+    // Grammar (bottom)
+    function grammarNoun(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.16} ${h*0.55} L ${w*0.84} ${h*0.55}`));
+      g.appendChild(mkCircle(w*0.50,h*0.55,Math.min(w,h)*0.10,true));
+      return g;
+    }
+    function grammarVerb(w,h,style){
+      const g = document.createElementNS("http://www.w3.org/2000/svg","g");
+      g.appendChild(mkPath(`M ${w*0.22} ${h*0.30} L ${w*0.78} ${h*0.80}`));
+      g.appendChild(mkPath(`M ${w*0.78} ${h*0.30} L ${w*0.22} ${h*0.80}`));
+      return g;
+    }
+
+    // ------------------------------------------------------------
+    // 8) UI Wiring
+    // ------------------------------------------------------------
+
+    const lexiconEl = document.getElementById("lexicon");
+    lexiconEl.value = JSON.stringify(DEFAULT_LEXICON, null, 2);
+
+    const renderBtn = document.getElementById("renderBtn");
+    const randomBtn = document.getElementById("randomBtn");
+    const copySvgBtn = document.getElementById("copySvgBtn");
+
+    function getOpts(){
+      let lex = {};
+      try{
+        lex = JSON.parse(lexiconEl.value || "{}");
+      }catch(e){
+        // keep old, but show console warning
+        console.warn("Bad lexicon JSON:", e);
+        lex = DEFAULT_LEXICON;
+      }
+      const size = parseInt(document.getElementById("size").value,10);
+      const debug = document.getElementById("debug").value === "on";
+      const style = document.getElementById("style").value;
+      const mode = document.getElementById("mode").value;
+
+      // In angular mode, slightly thicker stroke looks better.
+      const stroke = style === "angular" ? Math.max(6, Math.round(size*0.045)) : Math.max(6, Math.round(size*0.040));
+
+      return { size, debug, style, mode, stroke, lexicon: lex };
+    }
+
+    function doRender(){
+      const compound = document.getElementById("compound").value.trim();
+      const opts = getOpts();
+      renderCompound(compound, opts);
+    }
+
+    renderBtn.addEventListener("click", doRender);
+    document.getElementById("compound").addEventListener("keydown", (e)=>{
+      if (e.key === "Enter"){ doRender(); }
+    });
+    document.getElementById("size").addEventListener("change", doRender);
+    document.getElementById("mode").addEventListener("change", doRender);
+    document.getElementById("style").addEventListener("change", doRender);
+    document.getElementById("debug").addEventListener("change", doRender);
+
+    randomBtn.addEventListener("click", ()=>{
+      // Create a small random compound using existing labels + random radicals/mods.
+      const labels = Object.keys(DEFAULT_LEXICON);
+      const rads = Object.keys(RADICALS);
+      const mods = Object.keys(MODS);
+      const n = 3 + Math.floor(Math.random()*4);
+
+      const tokens = [];
+      for (let i=0;i<n;i++){
+        const label = labels[Math.floor(Math.random()*labels.length)];
+        const rad = rads[Math.floor(Math.random()*rads.length)];
+        const modCount = Math.floor(Math.random()*3);
+        const picked = [];
+        for (let k=0;k<modCount;k++){
+          picked.push(mods[Math.floor(Math.random()*mods.length)]);
+        }
+        // De-dupe mods
+        const uniq = [...new Set(picked)];
+        tokens.push(`${label}:${rad}${uniq.length? "+"+uniq.join("+"):""}`);
+      }
+      document.getElementById("compound").value = tokens.join(" ");
+      doRender();
+    });
+
+    copySvgBtn.addEventListener("click", async ()=>{
+      if (!window.__firstBlockSVG){
+        alert("No block to copy.");
+        return;
+      }
+      // Serialize first block SVG root
+      const svg = window.__firstBlockSVG.cloneNode(true);
+      // ensure CSS variables resolve reasonably when pasted elsewhere (optional)
+      svg.querySelectorAll(".ink,.fillInk").forEach(el=>{
+        // leave as classes; user can style externally
+      });
+
+      const serializer = new XMLSerializer();
+      const str = serializer.serializeToString(svg);
+
+      try{
+        await navigator.clipboard.writeText(str);
+        copySvgBtn.textContent = "Copied!";
+        setTimeout(()=>copySvgBtn.textContent="Copy SVG (first block)", 900);
+      }catch(e){
+        console.warn("Clipboard copy failed:", e);
+        prompt("Copy SVG manually:", str);
+      }
+    });
+
+    // Initial render
+    doRender();
+  </script>
+</body>
+</html>
