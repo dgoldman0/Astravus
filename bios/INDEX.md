@@ -12,11 +12,11 @@
 ### Lumen's Family (The Five-Member Constellation)
 
 **Calista's Parents & Guardians:**
-- **[Maia](./Maia.md)** - Botanist, caregiver, nurturing presence
-- **[Arin](./Arin.md)** - Engineer, innovator, mentor
-- **[Selene](./Selene.md)** - Musician, artist, emotional guide
-- **[Dorian](./Dorian.md)** - Historian, storyteller, keeper of memory
-- **[Sage](./Sage.md)** - Caregiver, nurturer, emotional anchor (later partners with Kael)
+- **[Maia](./Maia.md)** - Ecological Systems Designer, botanist, nurturing presence
+- **[Arin](./Arin.md)** - Biomechanical Interface Designer, innovator, mentor
+- **[Selene](./Selene.md)** - Acoustic Architect, musician, emotional guide
+- **[Dorian](./Dorian.md)** - Oral Historian, personal testimony specialist, keeper of memory
+- **[Sage](./Sage.md)** - Transition Counselor, caregiver, emotional anchor (later partners with Kael)
 
 ### Calista's Siblings
 
@@ -27,7 +27,11 @@
 
 - **[Cassia](./Cassia.md)** - Closest friend, creative collaborator, author
 - **[Joren](./Joren.md)** - Childhood friend, adventurer, tragic loss
-- **[Lysandra](./Lysandra.md)** - First romantic interest, musician, technology innovator
+- **[Lysandra](./Lysandra.md)** - First romantic interest, mathematical theorist, pattern analyst
+
+### Extended Family
+
+- **[Sol](./Sol.md)** - Resource Coordinator, Kael and Sage's partner, synesthete
 
 ### Elders & Mentors
 
@@ -77,11 +81,11 @@
 ```
 Calista (Protagonist)
 ├── Parents (Five-member constellation)
-│   ├── Maia (Botanist)
-│   ├── Arin (Engineer) → teaches Elara
-│   ├── Selene (Musician)
-│   ├── Dorian (Historian) → friends with Lyron
-│   └── Sage (Caregiver) → later partners Kael
+│   ├── Maia (Ecological Systems Designer)
+│   ├── Arin (Biomechanical Interface Designer) → teaches Elara
+│   ├── Selene (Acoustic Architect)
+│   ├── Dorian (Oral Historian) → friends with Lyron
+│   └── Sage (Transition Counselor) → later partners Kael
 ├── Siblings
 │   ├── Kael (older) → forms constellation with Sage & Sol
 │   └── Lyra (younger) → explores other Astravii
@@ -89,12 +93,14 @@ Calista (Protagonist)
 │   ├── Cassia → lifelong creative collaborator
 │   ├── Joren (deceased) → tragic loss
 │   └── Via Cassia's Family
-│       ├── Thalia (Artist)
-│       └── Lyron (Historian)
+│       ├── Thalia (Community Mediator)
+│       └── Lyron (Agricultural Systems Manager)
 ├── Romantic Partners
-│   ├── Lysandra (first love)
+│   ├── Lysandra (first love, mathematician)
 │   └── Aris (lasting partnership) → collaborator
 │       └── Elara (daughter)
+├── Extended Family
+│   └── Sol (Kael's partner, Resource Coordinator)
 ├── Familiars
 │   └── Shadow (cat) → lifelong companion
 ├── Mentors/Elders

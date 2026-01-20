@@ -11,7 +11,7 @@
 Elara was welcomed into her family at her First Breath through the Sanctuary. Calista and Aris had spent considerable time preparing for her arrival through parenting classes, family counseling, and learning from experienced mentors like Kael, Sage, and Sol.
 
 ## Physical Description
-While specific detailed physical description is not provided, Elara is presented as vibrant, enthusiastic, and energetic—reflecting her passionate personality and engagement with the world.
+Elara inherits her father Aris's distinctive heterochromia but reversed—her right eye is dark brown while her left eye is hazel-green. She has Calista's freckle pattern but more pronounced, scattered across her cheeks and nose. Unusually small for her age as a child, she experiences a significant growth spurt in adolescence. Her hair is tightly curled, a blend between Calista's waves and Aris's locs. She tends to stand with weight on one foot, slightly tilted—a posture that becomes her signature stance. Vibrant, enthusiastic, and energetic, she reflects her passionate personality and engagement with the world.
 
 ## Early Childhood
 Elara's childhood was filled with:
@@ -123,6 +123,11 @@ Forms close bonds with:
 - **Curious:** Questions how things work and why; investigative mindset
 - **Collaborative:** Enjoys working with others and learning from different perspectives
 - **Confident Yet Humble:** Willing to present work publicly while remaining open to feedback
+
+## Quirks (Present from Childhood)
+- **Disassembles everything:** Cannot resist taking things apart to see how they work; learned to reassemble after her parents insisted; as an adult, still occasionally disassembles household items "just to check"
+- **Counts steps obsessively:** Knows the exact step count to everywhere she regularly goes; finds comfort in the consistency of numbers
+- **Prefers speaking to machines:** As a child, would rather talk to Lumen's systems than other children; as an adult, still has long conversations with her devices and projects
 
 ## Key Skills
 - Engineering and mechanical design

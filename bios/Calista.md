@@ -7,14 +7,14 @@
 - **Constellation:** Formed with Aris as partners
 
 ## Physical Description
-Calista has rich chestnut brown hair that falls in loose waves around her face. Her eyes are a deep blue, curious and ever-watchful, taking in the wonders of the world around her. She has a light olive complexion with a smattering of freckles across her nose and cheeks—a blend of the many influences in her community's genetics.
+Calista has rich chestnut brown hair that falls in loose waves past her shoulders, often with paint or dust caught in the strands. Her eyes are a striking deep blue—curious and ever-watchful, capable of intense focus when absorbed in creative work. She has a light olive complexion with a distinctive smattering of freckles across her nose and cheeks, and lighter freckles scattered across her shoulders and forearms. Of medium height with a graceful, fluid build developed from years of artistic work, she has long, expressive hands with permanent traces of paint under her fingernails and calluses from holding brushes and sculpting tools. A small, pale scar marks her left temple from a childhood accident—she rarely speaks about its origin. She moves with artistic intention, her posture reflecting her contemplative nature, and has a habit of tilting her head slightly when listening intently.
 
 ## Family Background
 Calista is the middle child of three in her immediate family within a five-member constellation:
-- **Parents/Guardians:** Maia (botanist), Arin (engineer), Selene (musician), Dorian (historian), Sage (caregiver)
-- **Older Brother:** Kael (adventurous, now with his own constellation)
+- **Parents/Guardians:** Maia (ecological systems designer), Arin (biomechanical interface designer), Selene (acoustic architect), Dorian (oral historian), Sage (transition counselor)
+- **Older Brother:** Kael (adventurous, now with his own constellation with Sage and Sol)
 - **Younger Sister:** Lyra (curious explorer)
-- **Companion Familiar:** Shadow (black cat with green eyes)
+- **Companion Familiar:** Shadow (black cat with green eyes, notched ear, crooked tail tip)
 
 ## Character Development Arc
 
@@ -26,11 +26,11 @@ Calista's earliest memories are of stories told by her parents about her First B
 - Three non-human familiars: Shadow (cat), Barkley (dog), Nibble (rat)
 
 Her childhood was filled with:
-- Learning botany from Maia in the garden
-- Tinkering with machines in Arin's workshop
-- Musical instruction from Selene
-- Stories and history from Dorian
-- Emotional guidance from Sage
+- Learning ecological systems from Maia in the garden
+- Tinkering with biomechanical devices in Arin's workshop
+- Understanding soundscapes from Selene
+- Personal stories and oral histories from Dorian
+- Transition guidance from Sage
 
 ### Early Friendships
 In her youth, Calista formed deep bonds with:
@@ -42,7 +42,7 @@ The three friends spent countless hours in an old treehouse nestled in Maia's ga
 ### Growing Up (Late Teens)
 During this period, Calista:
 - Pursued increasingly sophisticated artistic interests, experimenting with different mediums
-- Experienced her first romantic relationship with Lysandra, a talented musician and technology innovator
+- Experienced her first romantic relationship with Lysandra, a talented mathematical theorist and pattern analyst
 - Visited Aurora with her family, meeting her extended family and encountering the elder Theron, who provided crucial insights about transcendence
 - Developed her artistic abilities and began to understand her creative calling
 - Dealt with the challenges of growing relationships and the pain of first heartbreak
@@ -87,6 +87,11 @@ In her later maturity (125+ years), Calista:
 - **Resilient:** Processes trauma and loss through creativity and connection
 - **Curious:** Inherited from her family, though expressed primarily through visual and artistic discovery
 - **Empathetic:** Deeply understands and responds to the emotions of those around her
+
+## Quirks
+- **Talks to her artwork:** Has full conversations with pieces in progress, asking them what they want to become; picked this up from Maia talking to plants
+- **Color-mood sensitivity:** Experiences strong emotional responses to specific color combinations; certain palettes feel "wrong" and she cannot work until she corrects them
+- **Collects unusual textures:** Fabric swatches, bark, stones, pressed leaves—anything with interesting tactile quality; has extensive organized collection for artistic reference
 
 ## Key Skills & Passions
 - **Art:** Proficient in multiple mediums including digital painting, sculpture, traditional drawing, and collaborative artistic projects

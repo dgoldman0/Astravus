@@ -2,22 +2,23 @@
 
 ## Basic Information
 - **Age:** 125+ years (approaching transcendence by later narrative)
-- **Role in Story:** Musician, artist, Calista's parent, member of family constellation
+- **Role in Story:** Acoustic Architect, musician, Calista's parent, member of family constellation
 - **Home:** Lumen (the Astravus)
 - **Constellation:** 5-member family with Maia, Arin, Dorian, and Sage
 - **Children:** Calista (middle child), Kael (older), Lyra (younger)
 
 ## Physical Description
-Selene has a graceful, elegant presence. Her flowing silver hair and piercing violet eyes are distinctive and memorable. She has long, delicate fingers perfectly suited for playing instruments. Everything about her physical presentation suggests the refined artistry of her musical practice.
+Selene has a graceful, elegant presence and is notably petite—the shortest of the five parents. Her deep bronze skin contrasts strikingly with her pure white hair—premature graying that started at 30, genetic in origin—and her piercing violet eyes are distinctive and memorable. She has extraordinarily long fingers—pianist's hands taken to an extreme—with calluses arranged in distinct patterns from specific instruments. High cheekbones and a narrow face give her an almost ethereal quality. She tends to sway slightly even when standing still, as if always hearing rhythm. Everything about her physical presentation suggests the refined artistry of her acoustic practice.
 
 ## Profession & Passion
 
-### As a Musician
-Selene is a composer and performer who creates melodies that soothe any trouble. Her musical mastery includes:
+### As an Acoustic Architect
+Selene is not merely a performer but an acoustic architect—she designs the soundscapes of Lumen's spaces, understanding that how a room sounds shapes how people feel in it. She works with Arin on vibration and resonance, ensuring spaces resonate properly. Her expertise includes:
 - Playing harp with exceptional skill and feeling
 - Piano composition and performance
+- Designing acoustic environments for public and private spaces
 - Understanding of music as emotional language
-- Ability to improvise and create in response to circumstances
+- Working with Arin on vibration and resonance integration
 - Teaching music to the next generation
 
 ### The Music Room
@@ -80,6 +81,11 @@ Selene's approach to parenting emphasizes:
 - **Patient:** Teaches music with encouragement rather than criticism
 - **Present:** Fully engaged in moments of connection and creation
 - **Peaceful:** Carries calm, soothing energy
+
+## Quirks
+- **Perfect pitch "curse":** Hears when anything is slightly off-tune, including door hinges, ventilation systems, water pipes. Sometimes stops mid-conversation to adjust something humming at the wrong frequency.
+- **Composes in sleep:** Keeps instruments by bedside because melodies come during dreams. Has composed entire pieces while half-asleep. Family is accustomed to 3am music.
+- **Synesthetic pitch-to-emotion:** Experiences specific musical notes as distinct emotions. C major feels like "comfortable reunion," B minor like "dignified acceptance." Communicates emotional states by humming notes.
 
 ## Skills & Knowledge
 - Mastery of multiple instruments (harp, piano, flute teaching)

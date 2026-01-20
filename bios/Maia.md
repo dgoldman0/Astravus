@@ -2,22 +2,24 @@
 
 ## Basic Information
 - **Age:** 125+ years (approaching transcendence by later narrative)
-- **Role in Story:** Botanist, caregiver, Calista's mother, member of family constellation
+- **Role in Story:** Ecological Systems Designer, botanist, Calista's mother, member of family constellation
 - **Home:** Lumen (the Astravus)
 - **Constellation:** 5-member family with Arin, Selene, Dorian, and Sage
 - **Children:** Calista (middle child), Kael (older), Lyra (younger)
 
 ## Physical Description
-Maia is tall and slender with warm brown skin and long, curly hair that she often adorns with flowers from her garden. Her hands are always warm and gentle, capable of coaxing life from the soil. She carries herself with the grace and serenity of someone deeply connected to the natural world.
+Maia is tall and slender with warm brown skin and long, curly hair containing small braids woven with seeds and dried flowers—treasures from her decades of botanical work. Her eyes are a rich amber, flecked with green—colors that seem to reflect the garden she tends. Her hands are permanently stained green and brown at the fingertips from decades of soil work, yet remain warm and gentle, capable of coaxing life from the soil. Freckles are concentrated heavily on her forearms and hands from sun exposure during garden work. A thin scar runs along her left palm from an early grafting accident. She carries herself with the grace and serenity of someone deeply connected to the natural world.
 
 ## Profession & Passion
 
-### As a Botanist
-Maia has a profound love for vibrant, living things. Her expertise and passion for botany shape not only her professional life but her entire approach to family and teaching. She:
-- Maintains an extensive and beautiful garden
-- Understands plant biology, growth patterns, and ecological systems
-- Teaches with practical demonstration and gentle guidance
-- Shares knowledge about phototropism, plant care, and the balance of ecosystems
+### As an Ecological Systems Designer
+Maia's work goes far beyond simple gardening. She designs and balances entire ecosystems, managing Lumen's air and water cycles through botanical intervention. Her expertise includes:
+- Creating and maintaining complex ecological systems
+- Understanding how plant species interact and balance each other
+- Managing Lumen's atmospheric quality through strategic planting
+- Designing water filtration systems using living plants
+- Teaching with practical demonstration and gentle guidance
+- Sharing knowledge about phototropism, plant care, and ecological balance
 
 ### The Garden
 Maia's garden is a sanctuary—a living, breathing space filled with:
@@ -68,6 +70,11 @@ Maia's approach to parenting emphasizes:
 - **Philosophical:** Uses nature as metaphor for life's lessons
 - **Gentle:** Firm but kind in guidance
 - **Dedicated:** Commits fully to her passions and people
+
+## Quirks
+- **Talks to plants constantly:** Full conversations, not just murmuring. Asks their opinions, thanks them, apologizes when pruning. Everyone in the family does this now without thinking about it.
+- **Cannot sit still indoors:** Physically uncomfortable in enclosed spaces for long periods. Takes meetings while walking, eats standing by windows, sleeps with windows/vents open.
+- **Collects seeds obsessively:** Pockets always contain seeds from everywhere she goes. Has a vast catalogued collection spanning decades. Gifts seeds for special occasions.
 
 ## Skills & Knowledge
 - Plant biology and horticulture

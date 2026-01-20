@@ -2,22 +2,23 @@
 
 ## Basic Information
 - **Age:** 125+ years (approaching transcendence by later narrative)
-- **Role in Story:** Engineer, innovator, Calista's parent, member of family constellation
+- **Role in Story:** Biomechanical Interface Designer, engineer, Calista's parent, member of family constellation
 - **Home:** Lumen (the Astravus)
 - **Constellation:** 5-member family with Maia, Selene, Dorian, and Sage
 - **Children:** Calista (middle child), Kael (older), Lyra (younger)
 
 ## Physical Description
-Arin has short-cropped dark hair, sharp blue eyes, and a lean, muscular build. They move with the confidence of someone who truly understands how things work—whether machines or the complexities of daily life. This physical confidence reflects their mastery of their craft and their secure sense of self.
+Arin has pale, freckled skin that flushes easily when excited about a project. Their short-cropped auburn hair (not quite brown, not quite red) and sharp blue eyes give them an intense, focused appearance. They have a lean build with notably muscular forearms from decades of physical labor, and are of average height—shorter than Maia and Dorian. They are missing the tip of their left pinky finger—a workshop accident decades ago; they declined regeneration because "it reminds me to be careful." Their eyebrows are perpetually slightly singed from close work with heat, and they always have graphite or grease smudges somewhere visible. A network of small scars covers their hands from decades of precise mechanical work. They move with the confidence of someone who truly understands how things work—whether machines or the complexities of daily life.
 
 ## Profession & Passion
 
-### As an Engineer
-Arin is a skilled engineer capable of fixing almost anything with precision. Their expertise includes:
-- Machine mechanics and design
-- System repair and maintenance
-- Innovative problem-solving
-- Creating solutions for practical problems
+### As a Biomechanical Interface Designer
+Arin specializes in technology that integrates with living systems—plants, Astravus tissue, human enhancement. Not just machines but living-machine hybrids. Their expertise includes:
+- Designing interfaces between organic and technological systems
+- Creating technology that grows and adapts with living tissue
+- Working with Maia on systems that serve botanical needs
+- System repair and maintenance for complex bio-tech systems
+- Innovative problem-solving at the intersection of biology and engineering
 - Designing systems like irrigation technology that serve the broader community
 
 ### The Workshop
@@ -79,6 +80,11 @@ Arin:
 - **Curious:** Always investigating how things work
 - **Confident:** Secure in their knowledge and abilities
 - **Generous:** Willing to share skills and knowledge with others
+
+## Quirks
+- **Thinks by building:** Cannot work through problems verbally or by thinking alone. Must physically construct something (even small models from scraps) to understand concepts. Dinner table often has little mechanical sculptures they've built while talking.
+- **Hums constantly while working:** Not songs, but mechanical rhythms that match whatever they're building. Family can tell what Arin is working on by the humming pattern.
+- **Keeps "retired" machines:** Cannot bear to fully dismantle old machines. Has a room of "sleeping" devices they've promised to wake up someday. Talks to them occasionally.
 
 ## Skills & Knowledge
 - Mechanical engineering and design

@@ -2,19 +2,21 @@
 
 ## Basic Information
 - **Age:** 125+ years (approaching transcendence by later narrative)
-- **Role in Story:** Historian, storyteller, Calista's parent, member of family constellation
+- **Role in Story:** Oral Historian, personal testimony specialist, Calista's parent, member of family constellation
 - **Home:** Lumen (the Astravus)
 - **Constellation:** 5-member family with Maia, Arin, Selene, and Sage
 - **Children:** Calista (middle child), Kael (older), Lyra (younger)
 
 ## Physical Description
-Dorian is tall and broad-shouldered with deep-set brown eyes and a distinctive presence. His hair is a mix of gray and black, always neatly trimmed, and he wears glasses perched on the bridge of his nose—a detail that evokes images of him poring over ancient texts and scrolls. His voice is deep and capable of captivating any audience.
+Dorian is tall and broad-shouldered with rich dark skin and deep-set brown eyes that seem slightly unfocused when he's accessing memory. Glasses perch on the bridge of his wide nose. His hair is a mix of gray and black, always neatly trimmed, and he keeps a closely cropped beard that's gone mostly silver. He is left-handed in a household of right-handed people, with ink stains perpetually on the heel of his left hand from writing. He has a slight hunch from decades bent over texts—he declined correction because "my body tells my story." His voice is deep and resonant, capable of captivating any audience.
 
 ## Profession & Passion
 
-### As a Historian
-Dorian is a historian dedicated to keeping the stories of Lumen's people alive. His work includes:
-- Researching and preserving historical records
+### As an Oral Historian
+Dorian specializes in capturing personal testimony before transcendence—recording and preserving individual voices, not just events. This is emotional, intimate work, not just scholarly. His expertise includes:
+- Interviewing individuals about their life experiences
+- Recording and preserving personal narratives before transcendence
+- Researching and contextualizing historical records
 - Studying ancient texts and scrolls
 - Understanding the lineage and connections between Astravii
 - Teaching history through compelling narrative
@@ -82,6 +84,11 @@ This demonstrates how Dorian uses historical narratives and parables to teach de
 - **Engaging:** Makes history come alive rather than presenting it as dry facts
 - **Dignified:** Carries himself with quiet authority and respect
 - **Passionate:** Deep love for preserving and sharing knowledge
+
+## Quirks
+- **Memory palaces obsession:** Stores memories in elaborate mental architecture. Often "walks through" memories by physically pacing. Can recall exact details from centuries ago but sometimes forgets what he ate for breakfast.
+- **Writes everything twice:** First draft longhand, second draft dictated. Believes the translation between modes reveals hidden meanings. Very particular about his pens.
+- **Cannot read fiction:** Finds invented narratives deeply uncomfortable. Will only read historical accounts, memoirs, documented events. Considers novels a form of "beautiful lying."
 
 ## Skills & Knowledge
 - Historical research and archival work

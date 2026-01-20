@@ -7,9 +7,9 @@
 - **Astravus:** Aurora (approximately 1,000 years old)
 
 ## Physical Description
-Theron's appearance reflects his long life and deep connection with Aurora. His hair is streaked with silver, framing a face that bears the marks of time—lines that speak of countless experiences and a life well-lived. His eyes are a deep, warm brown that seem to hold the knowledge of centuries, their depth inviting and reassuring.
+Theron's appearance reflects his long life and deep connection with Aurora. Tall and lean, he has deep copper-brown skin that, though weathered with time, has an almost youthful resilience hinting at subtle technological enhancements. His hair is streaked with silver, framing a face that bears the marks of time—lines that speak of countless experiences and a life well-lived. His eyes are a deep, warm brown that seem to hold the knowledge of centuries, their depth inviting and reassuring. High, prominent cheekbones and a strong jaw give his face a distinguished structure.
 
-Despite his age, Theron moves with fluid grace that speaks of strength and vitality. His skin, though weathered with time, has an almost youthful resilience hinting at subtle technological enhancements. There is something about the way he carries himself—an aura of calm and collected energy, as if he were in constant communion with Aurora.
+Despite his age, Theron moves with fluid grace that speaks of strength and vitality. There is something about the way he carries himself—an aura of calm and collected energy, as if he were in constant communion with Aurora.
 
 ### Attire
 Theron dresses in simple yet elegant clothing that combines natural fibers with subtle technological enhancements. His robes are woven from material that seems to shift color with the light, shimmering softly as he moves. He carries himself with quiet dignity; every gesture is deliberate and meaningful. He embodies the harmonious coexistence of tradition and innovation.

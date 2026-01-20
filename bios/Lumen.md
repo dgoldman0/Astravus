@@ -16,6 +16,11 @@
 - Bioluminescent plants illuminate pathways, especially during evening hours
 - Soft, glowing light creating dreamlike atmosphere
 
+### Quirks & Behaviors
+- **Hums at specific frequencies** during certain activities—residents learn to read Lumen's moods by sound; a low thrum indicates contentment, higher frequencies suggest attention or concern
+- **Grows unexpected plants** in seemingly random locations—residents treat these as messages or gifts; some believe Lumen is communicating through botanical offerings
+- **Temperature fluctuations** correspond to emotional states of transcended inhabitants; areas may feel warmer or cooler based on which transcended consciousness is most present
+
 ### Environment Details
 - Pathways lined with bioluminescent plants that provide evening illumination
 - Walls adorned with living murals that shift and change

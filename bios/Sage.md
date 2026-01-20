@@ -2,24 +2,26 @@
 
 ## Basic Information
 - **Age:** 125+ years (approaching transcendence by later narrative)
-- **Role in Story:** Caregiver, nurturer, Calista's parent, member of family constellation, later Kael's partner
+- **Role in Story:** Transition Counselor, caregiver, nurturer, Calista's parent, member of family constellation, later Kael's partner
 - **Home:** Lumen (the Astravus)
 - **Constellation:** Initially 5-member family with Maia, Arin, Selene, and Dorian; later forms constellation with Kael and Sol
 - **Children:** Calista (middle child), Kael (older), Lyra (younger) as co-parent; raises Kael's child over 50 years
 
 ## Physical Description
-Sage has soft, kind eyes and a gentle smile that puts people at ease. They have short, sandy hair and a freckled complexion. Most distinctive is their soothing voice—capable of easing any troubled heart. Everything about their physical presence suggests warmth, safety, and emotional availability.
+Sage has round, soft features that make them look younger than their years. Their skin is a warm tan with rosy undertones, and their gray eyes seem to change shade with the light—sometimes pale silver, sometimes deep storm. They have short, sandy hair and a heavily freckled complexion—freckles across their cheeks, nose, shoulders, and arms. Of medium height and build, they appear neither imposing nor diminutive. Most distinctive is their unusually warm body temperature; people comment on how warm their hands are. They are almost always barefoot indoors, a sensory preference that grounds them. Their soothing voice is capable of easing any troubled heart. Everything about their physical presence suggests warmth, safety, and emotional availability.
 
 ## Profession & Passion
 
-### As a Caregiver
-Sage's role encompasses:
+### As a Transition Counselor
+Sage specializes in helping people prepare for major life changes—becoming parents, approaching transcendence, processing loss. Not just emotional support but structured guidance through transformation. Their role encompasses:
+- Preparing individuals and families for significant transitions
+- Counseling those approaching transcendence
+- Supporting new parents through the early stages
+- Helping people process grief and major life changes
 - Emotional support and counseling
 - Creating safe spaces for vulnerability and healing
 - Recognizing needs before they're expressed
-- Providing practical care and comfort
 - Teaching emotional intelligence and resilience
-- Nurturing growth through acceptance and support
 
 ### Sage's Room
 Sage's personal space is:
@@ -107,6 +109,11 @@ When Calista observes their family:
 - **Grounded:** Remains calm in midst of turmoil
 - **Warm:** Creates immediate sense of safety and acceptance
 - **Wise:** Offers counsel based on deep understanding of human nature
+
+## Quirks
+- **Collects worried thoughts:** When someone shares a worry, Sage asks to "hold it for them." Literally takes small objects as physical representations of concerns. Returns them when resolved. Has a collection of small stones, buttons, and trinkets representing resolved worries.
+- **Temperature-emotion connection:** Maintains different temperature zones in their space for different emotional states. Cool corner for processing anger, warm nook for grief, neutral space for difficult conversations.
+- **Excessive blanket accumulation:** Cannot resist soft textiles. Every surface in their space has blankets, throws, cushions. Gifts blankets for every occasion. Family members have learned to expect blankets for all celebrations.
 
 ## Skills & Knowledge
 - Emotional intelligence and counseling

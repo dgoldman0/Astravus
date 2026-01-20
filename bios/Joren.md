@@ -7,7 +7,7 @@
 - **Family Background:** Child of Soren and Kaleb
 
 ## Physical Description
-Joren is a bundle of energy and mischief with tousled blond hair that never seems to stay in place and piercing blue eyes that sparkle with excitement and curiosity. He has a knack for getting into trouble and leading groups on thrilling escapades. His laugh is infectious—a loud, hearty sound capable of lifting anyone's spirits.
+Joren is a bundle of energy and mischief with fair, ruddy skin that flushes easily with excitement, tousled blond hair that never seems to stay in place, and piercing blue eyes that sparkle with excitement and curiosity. He has a gap between his front teeth that adds to his boyish charm, and perpetually scraped knees always healing from his latest adventure. He has a knack for getting into trouble and leading groups on thrilling escapades. His laugh is infectious—a loud, hearty sound capable of lifting anyone's spirits—and he laughs with his whole body, throwing his head back while his shoulders shake.
 
 ## Personality & Characteristics
 
@@ -42,13 +42,16 @@ Joren is a bundle of energy and mischief with tousled blond hair that never seem
 ## Parents & Family Background
 
 ### Soren (Mother)
+- Emergency Response and Safety Systems Designer—designs the safety systems that protect Lumen's inhabitants
 - Dynamic woman with quick mind and nimble fingers
 - Always dressed in practical work clothes smudged with grease and oil
 - Short, cropped hair and sharp blue eyes (like Joren's)
 - Always focused and determined
-- Designer of systems that keep Lumen running smoothly
+- Designed many of Lumen's systems that keep residents safe
 - Workshop filled with blueprints, tools, and half-finished inventions
 - Represents innovation and practical ingenuity
+- After Joren's death, becomes devoted to improving safety protocols; her grief manifests as relentless system improvement
+- The irony that her safety systems couldn't save her son drives her to ensure no other family suffers the same loss
 
 ### Kaleb (Father)
 - Tall, rugged man with weathered face speaking of many adventures

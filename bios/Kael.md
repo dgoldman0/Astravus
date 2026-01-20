@@ -8,7 +8,7 @@
 - **Later Constellation:** Forms family with Sage and Sol; raises adopted child for 50+ years
 
 ## Physical Description
-Kael is adventurous and brave with tousled dark hair and bright hazel eyes that sparkle with mischief. He is tall for his age and possesses a natural readiness for the next adventure. His physical presence conveys energy and excitement about possibility.
+Kael is tall and solidly built with broad shoulders and strong, capable hands—a physique developed through years of athletic pursuits. His skin is a deep warm brown, and he has tousled dark hair that he cuts short on the sides but lets grow longer on top, often falling across his forehead. Bright hazel eyes—more gold than green—sparkle with mischief and convey energy and excitement about possibility. He has a dimple on his left cheek only, visible when he grins, and a small scar through his right eyebrow from a childhood adventure. His nose is slightly crooked from being broken during a game years ago. He moves with natural athletic grace, always seeming ready to spring into the next adventure.
 
 ## Early Childhood
 
@@ -43,7 +43,8 @@ Kael is adventurous and brave with tousled dark hair and bright hazel eyes that 
 ### Partnership Development
 - Later forms romantic partnership with Sage (one of his parents/caregivers)
 - Includes Sol as third member of constellation
-- Together they form a strong, loving family unit
+- Sol brings logistical expertise and grounding presence to balance Kael's spontaneity and Sage's emotional depth
+- Together they form a strong, loving family unit with complementary strengths
 
 ### Adoption & Parenting
 - Kael and Sage and Sol decide to adopt a child from the Sanctuary
@@ -89,6 +90,11 @@ When Calista and Aris consider parenthood, they:
 - **Loving:** Deeply committed to family, both original and created
 - **Patient:** Learns to be present and attentive to others' needs
 - **Communicative:** Open and honest in family interactions
+
+## Quirks
+- **Cannot stay still while talking:** Paces, fidgets, needs to move. Family members have learned to walk alongside him during important conversations.
+- **Collects small stones:** From everywhere he visits—pockets always have pebbles. Has an extensive collection organized by location and memory.
+- **Gives nicknames to everything:** Every room, path, and person has a Kael-assigned nickname. Some have stuck so well that people forget the original names.
 
 ## Skills & Qualities
 - Leadership in childhood adventures

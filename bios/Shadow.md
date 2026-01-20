@@ -7,7 +7,7 @@
 - **Lifespan:** 30-40+ years (extended in Lumen's enhanced environment)
 
 ## Physical Description
-Shadow is a sleek, black cat with striking green eyes. Her form is graceful and fluid, moving with the natural elegance of her species. The contrast between her dark fur and luminous green eyes is particularly memorable.
+Shadow is a sleek, black cat with striking green eyes that have an unusual luminescence—they seem to glow faintly in dim light. One ear has a distinctive notch (unknown origin, possibly before joining the family). Her tail is slightly crooked at the tip. Her purr is unusually loud and has a distinctive "clicking" quality that the family has come to find comforting. Her form is graceful and fluid, moving with the natural elegance of her species. The contrast between her dark fur and luminous green eyes is particularly memorable.
 
 ## Early Childhood Presence
 

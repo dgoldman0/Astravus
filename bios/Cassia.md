@@ -8,7 +8,7 @@
 - **Family Familiar:** Implied connection with pets during childhood adventures
 
 ## Physical Description
-Cassia is a slender girl with long, wavy chestnut hair that seems to have a life of its own, cascading down her back in a cascade of curls. Her eyes are a deep, sparkling green, always filled with a sense of wonder and mischief. She has a light, musical voice perfectly suited for storytelling, drawing listeners in with every word.
+Cassia is a slender girl with rich umber skin and long, wavy chestnut hair that seems to have a life of its own, cascading down her back in a cascade of curls. Her eyes are a deep, sparkling green, always filled with a sense of wonder and mischief. She has a birthmark on her left wrist shaped vaguely like a crescent, and a slightly crooked nose from falling from the treehouse as a child. She has a light, musical voice perfectly suited for storytelling, drawing listeners in with every word.
 
 ## Early Childhood & First Meeting
 
@@ -29,22 +29,22 @@ From that moment forward, they were inseparable. This simple invitation began a 
 ## Parents & Family Background
 
 ### Thalia (Mother)
-- An artist with an artist's soul
+- Community mediator and conflict resolver by profession
+- Art is her hobby, not her career—her murals are meditative practice
 - Elegant woman with aura of serenity and grace
-- Often dressed in flowing clothes splattered with paint
+- Often dressed in flowing clothes, comfortable for her work with families
 - Eyes mirror Cassia's deep green, testament to their bond
-- Known throughout Lumen for beautiful murals
-- Transforms everyday spaces into vibrant scenes of wonder and imagination
-- Creates art environment in which Cassia grows
+- Helps families and individuals navigate disputes
+- Creates a peaceful home environment where creativity flourishes
 
 ### Lyron (Father)
+- Agricultural systems manager—manages Lumen's food production and distribution
+- Practical, logistical work that keeps the community fed
 - Tall man with a gentle demeanor
 - Salt-and-pepper hair and kind, hazel eyes
 - Air of wisdom and warmth
-- Historian with passion for sharing tales of ancestors and cosmos
-- Voice deep and soothing, turning mundane events into captivating stories
-- Close friendship with Dorian (Calista's father)—bond rooted in shared historical interests
-- Creates rich, narrative environment in which Cassia grows
+- Interest in history is his hobby—bonds with Dorian over their shared amateur passion
+- Voice deep and soothing, enjoys sharing stories in his free time
 
 ### Family Home
 - Lively, creative haven filled with art supplies, books, and handmade crafts
@@ -179,6 +179,11 @@ Late-night collaboration session example:
 - **Enthusiastic:** Brings energy and excitement to creative projects
 - **Thoughtful:** Reflects deeply on human nature and existence
 - **Loyal:** Maintains commitment to friendship despite life changes
+
+## Quirks
+- **Narrates her own actions:** When alone, provides running commentary on what she's doing. Has been caught doing this more than once.
+- **Cannot throw anything away:** Keeps ticket stubs, notes, wrappers—all potential story material. Her home is a carefully organized archive of "future inspiration."
+- **Writes on her hands:** Notes, reminders, story ideas always inked on palms and fingers. Has developed a personal shorthand that only she can read.
 
 ## Skills & Abilities
 - Storytelling and narrative construction

@@ -7,7 +7,7 @@
 - **Constellation:** Formed with Calista as partners
 
 ## Physical Description
-Aris is a skilled musician with deep understanding of how to weave emotions into compositions. While specific physical details are not extensively described, Aris is presented as having a graceful, artistic presence befitting their profession as a musician and composer.
+Aris has a compact, muscular build that contrasts with Calista's slender frame. His rich black hair is worn in long locs, often tied back during performances or while working. He has warm brown skin with reddish undertones and distinctive heterochromia—his left eye is dark brown while his right eye is hazel-green, creating a memorable and striking appearance. His wide, expressive mouth curves easily into smiles, and a small scar marks his chin from a childhood accident. His hands show calluses from decades of string instrument practice, a testament to his dedication to his craft.
 
 ## Background & Profession
 Aris is a talented musician who:
@@ -104,6 +104,11 @@ One dream showed them in the music room with Selene, Calista's mother, experienc
 - **Sensitive:** Attuned to emotional nuances in both music and relationships
 - **Curious:** Interested in exploring new frontiers of artistic expression
 - **Devoted:** Committed to Calista, Elara, and their family's wellbeing
+
+## Quirks
+- **Composes for specific people:** Cannot write abstract music; every piece is "for" someone or something specific—has composed pieces for objects, places, even meals
+- **Talks to instruments:** Apologizes to his instruments if he plays badly, thanks them after good sessions; has named each of his primary instruments
+- **Cannot sleep in silence:** Needs ambient sound to rest; in silence, his mind fills with melodies that keep him awake; Calista has learned to provide soft background sounds
 
 ## Key Characteristics
 - Skilled at translating emotion into sound

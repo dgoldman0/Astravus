@@ -2,40 +2,41 @@
 
 ## Basic Information
 - **Age:** Teenager/young adult (similar age range to Calista)
-- **Role in Story:** Calista's first romantic interest; musician and technology innovator
+- **Role in Story:** Calista's first romantic interest; mathematical theorist and pattern analyst
 - **Home:** Lumen (the Astravus)
-- **Profession:** Musician; technology integration specialist
+- **Profession:** Mathematical theorist; pattern analyst; computational systems specialist
 
 ## Physical Description
-While specific physical details are not extensively described, Lysandra is presented as talented and insightful, carrying herself with the confidence of someone skilled in their crafts.
+Lysandra is tall and angular with a willowy build that makes them seem perpetually in motion even when standing still. Their skin is a cool ivory with pinkish undertones, and their long, straight black hair falls past their shoulders—they often push it behind their ears when concentrating. Pale gray eyes with an almost silvery quality often have a distant, unfocused look, as if seeing patterns invisible to everyone else. High cheekbones and a narrow chin give their face an elegant severity. Their long, elegant fingers are constantly in motion—tracing equations in the air or on any available surface—and are perpetually stained with chalk dust or ink from writing on any available surface. They wear practical clothing in muted colors, often slightly rumpled from being put on without attention. A pair of wire-rimmed glasses usually perches on top of their head, forgotten there. They carry themselves with the confidence of someone skilled in abstract thinking.
 
 ## Background & Profession
 
-### Musical Skills
-- Talented musician with deep understanding of emotional composition
-- Works with digital pianos and other electronic instruments
-- Capable of expressing complex emotions through music
-- Brings sensitivity and technical skill to musical expression
+### Mathematical Skills
+- Talented mathematical theorist with deep understanding of abstract patterns
+- Primary passion is mathematics and pattern recognition
+- Sees mathematical patterns everywhere: in crowds, plant growth, architecture
+- Creates visual representations of mathematical concepts—where art connection to Calista comes from
+- Capable of expressing complex mathematical ideas through visual diagrams
 
-### Technology Integration
-- Innovates in combining music with technology
-- Interested in developing new ways for people to experience music
-- Envisions creating unique instruments with novel sounds
-- Explores technological approaches to artistic expression
+### Computational Systems
+- Interested in the mathematics underlying music rather than performing it
+- Technology interest focused on computational systems
+- Envisions creating new mathematical models for understanding complex systems
+- Explores algorithmic approaches to problem-solving
 
 ### Philosophy
-- Values both artistic and technical dimensions of music
-- Sees technology as tool for expanding artistic possibilities
-- Dreams of creating new experiences through innovation
-- Combines passion for music with interest in technological advancement
+- Values both abstract beauty and practical application of mathematics
+- Sees mathematics as a tool for understanding the universe's underlying patterns
+- Dreams of discovering new mathematical frameworks
+- Combines passion for pattern recognition with interest in computational modeling
 
 ## Meeting Calista
 
 ### Initial Connection
-- Classmate who shares Calista's love for art and music
+- Classmate who shares Calista's appreciation for pattern and form
 - Talented and insightful, creating immediate bond
-- Connection sparked by shared interests and complementary skills
-- Both possess deep appreciation for creative expression
+- Connection sparked by Lysandra's visual representations of mathematical concepts, which Calista found beautiful
+- Both possess deep appreciation for finding beauty in structure and pattern
 
 ### Relationship Development
 - Quickly bonded over shared interests
@@ -67,8 +68,8 @@ One particularly revealing evening in their alcove:
 - Lysandra asks about Calista's future ambitions
 - Calista expresses desire to continue creating and help others find passions
 - Talks about teaching and leading workshops
-- Lysandra shares their own vision: combining love of music with technology to create unique instruments and develop new ways for people to experience music
-- Calista finds Lysandra's enthusiasm infectious
+- Lysandra shares their own vision: discovering new mathematical frameworks for understanding how Astravii perceive time and space, creating visual models that could help others see the patterns they see
+- Calista finds Lysandra's enthusiasm infectious, drawn to how Lysandra makes abstract concepts beautiful
 - Both feel inspired by each other's visions
 
 ### Deepening Connection
@@ -81,16 +82,17 @@ One particularly revealing evening in their alcove:
 
 ### Emerging Tensions
 As their relationship continued, more significant challenges surfaced:
-- **Lysandra's dedication:** Long hours devoted to music and technology projects often left Calista feeling neglected
-- **Calista's focus:** Intense engagement with art sometimes made Lysandra feel unappreciated
+- **Lysandra's dedication:** Long hours devoted to mathematical research and computational projects often left Calista feeling neglected
+- **Calista's focus:** Intense engagement with art projects occasionally left Lysandra feeling unappreciated
 - **Spark dimming:** Initial connection that brought them together started to fade
 - **Frequent disagreements:** Miscommunications became more common
 - **Fundamental incompatibility:** Not in personalities but in how they prioritized time and commitments
 
 ### Different Visions
-- Lysandra's ambitious technology goals required extensive time investment
+- Lysandra's ambitious theoretical research required extensive time investment and deep solitary thinking
 - Calista's need for presence and emotional connection wasn't always met
-- Both had demanding creative pursuits
+- Lysandra became increasingly absorbed in abstract theoretical work that Calista couldn't share or fully understand
+- Both had demanding intellectual pursuits
 - Balancing individual ambitions with partnership proved difficult
 - Neither wanted to sacrifice their dreams, but both wanted quality time together
 
@@ -155,28 +157,34 @@ Later relationship with Aris will show:
 - How two artists can support each other's individual growth
 
 ## Personality Traits
-- **Talented:** Skilled in both music and technology
-- **Ambitious:** Driven to innovate and create
-- **Insightful:** Understands complex emotional and technical concepts
-- **Passionate:** Deeply invested in creative pursuits
-- **Dedicated:** Commits fully to projects and interests
+- **Brilliant:** Exceptional capacity for abstract mathematical thinking
+- **Ambitious:** Driven to discover and innovate in their field
+- **Insightful:** Understands complex patterns and relationships
+- **Passionate:** Deeply invested in mathematical pursuits
+- **Dedicated:** Commits fully to research and projects
 - **Young:** Still learning about balancing multiple aspects of life
 
+## Quirks
+- **Sees mathematical patterns everywhere:** In crowds, plant growth, architecture—sometimes loses track of conversations while tracing patterns with their eyes
+- **Writes equations on any available surface:** Has been known to write on walls, tables, even skin when thinking
+- **Cannot estimate time:** Loses hours to calculations; perpetually late because "just one more equation" turns into half a day
+
 ## Specific Characteristics
-- Plays digital piano with skill and feeling
-- Interested in creating new experiences through technology
-- Dreams of developing innovative musical instruments
-- Shares Calista's love of beauty and artistic expression
+- Creates visual representations of mathematical concepts that others find beautiful
+- Interested in the mathematics underlying music, not the music itself
+- Dreams of developing new frameworks for understanding Astravii perception
+- Shares Calista's appreciation for visual beauty, expressed through mathematical diagrams
 - Capable of the vulnerable, authentic connection that first love requires
 
 ## Character Notes for Writers
 - Lysandra represents the first love experience, not the lasting one
-- Relationship shows realistic challenges of two ambitious people
+- Relationship shows realistic challenges of two intellectually ambitious people
 - Neither party is "wrong"—it's about incompatibility in needs and priorities
 - The separation is mature choice, not dramatic breakup
-- Lysandra's technological focus contrasts with Calista's more traditional artistic approach
+- Lysandra's mathematical focus contrasts with Calista's visual artistic approach while still having aesthetic overlap
 - The relationship provides emotional foundation for Calista's later development
 - Lysandra's importance lies not in being endgame but in teaching crucial life lessons
 - The garden alcove becomes symbol of what was beautiful about the relationship
 - The eventual contrast with Aris shows how two people can better navigate similar challenges
 - The relationship demonstrates that love matters but isn't always enough
+- Lysandra provides a different type of intellectual stimulation than Aris's musical collaboration

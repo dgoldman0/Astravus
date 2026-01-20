@@ -8,7 +8,7 @@
 - **Familiar:** Originally companioned by Nibble (the rat); eventually receives owl as familiar in later years
 
 ## Physical Description
-Lyra is curious and full of questions with golden curls and wide green eyes that seem to see everything. She is small and spritely, always moving and always exploring. Her physicality expresses her vibrant curiosity and endless energy.
+Lyra is small and spritely with a dancer's light, nimble build. Her skin is a golden tan with warm olive undertones, and her face is covered in a constellation of golden freckles that intensify in the sun. Her golden-blonde curls are unruly and often escaping whatever style she attempts, frequently adorned with small clips or ribbons. Wide green eyes—a bright, clear emerald—give her a perpetually curious expression and seem to see everything. She has a button nose and a gap between her front teeth that shows when she laughs. Her ears are slightly pointed—a genetic quirk she considers "elfin." Small for her age even as an adult, she makes up for stature with boundless energy and expressiveness, always moving and always exploring.
 
 ## Early Childhood
 
@@ -122,6 +122,11 @@ Lyra learns about:
 - **Determined:** Follows through on important commitments
 - **Independent:** Willing to forge her own path despite risks
 - **Thoughtful:** Wants to learn and understand, not just see
+
+## Quirks
+- **Asks questions in threes:** Every query comes with two follow-ups. Cannot ask a single question without immediately thinking of related ones.
+- **Maps everything:** Compulsively draws maps of every new place. Has volumes of hand-drawn maps from her expeditions, including maps of places most people wouldn't think to map.
+- **Sleeps with eyes slightly open:** Startling but harmless. Family members have gotten used to it; newcomers find it unsettling.
 
 ## Skills & Abilities
 - Navigation and survival during long expeditions
