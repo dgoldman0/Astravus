@@ -219,6 +219,34 @@ Late-night collaboration session example:
 - **Mystery:** Fascination with what is not yet understood
 - **Transcendence:** Exploring ineffable and cosmic dimensions
 
+## Communication Styles
+
+### Verbal Expression
+- Light, musical voice perfectly suited for storytelling, drawing listeners in
+- Narrates her own actions when alone (and sometimes when not)
+- Speaks in vivid imagery; casual conversation becomes scene-setting
+- Processes emotions by turning them into story structures
+
+### Sample Dialogue
+- *Inviting friendship:* "Do you want to join our adventure?"
+- *Childhood storytelling:* "Imagine a world where the trees can talk... What would they say?"
+- *Processing grief:* "I miss him so much... Do you think he knew how much he meant to us?"
+- *On her writing:* "Have you ever wondered what it's like for the Astravii to experience time? How their perception might differ from ours? I'm trying to capture that."
+- *Reconnecting with Calista:* "Cali, I'm sorry if I've made you feel that way. My writing is important to me, but so are you. I promise I'll make more time for us."
+- *Through mental connection:* "Cassia, your latest chapter... it's incredible." / "I'm glad it resonated with you. Your art always brings my words to life in ways I never imagined."
+
+### Non-Verbal Communication
+- Writes notes, ideas, and reminders on her hands in personal shorthand
+- Cannot throw anything away—ticket stubs, wrappers become "future inspiration"
+- Eyes sparkle with wonder and mischief when engaged
+- Collects experiences for stories; everything becomes material
+- Uses storytelling itself as emotional support and connection
+
+### Written Communication
+- Stories serve as emotional processing and philosophical exploration
+- Personal letters are themselves narrative works
+- Collaborates with Calista through art-and-story exchanges that communicate beyond surface content
+
 ## Character Notes for Writers
 - Cassia's childhood voice with musical quality becomes her authorial voice
 - Her stories become window into her growing understanding of reality

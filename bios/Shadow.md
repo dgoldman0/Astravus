@@ -103,6 +103,29 @@ After integration:
 - "Purring softly, as if to reassure her that she was welcome"
 - Senses and responds to younger family members' needs
 
+## Communication Styles
+
+### Non-Verbal Communication (Primary)
+Shadow, as a cat, communicates entirely through non-verbal means:
+- Loud, distinctive purr with "clicking" quality the family finds comforting
+- Positions herself near family members who need comfort, often before they know they need it
+- Jumps between people during conflict, meowing to intervene
+- Leads explorations by darting ahead, communicating direction and invitation
+- Green eyes watch intently, conveying attention and presence
+
+### Physical Expressions
+- Curls up beside Calista during sketching and reading—presence as comfort
+- Nuzzles Lyra's cheek to welcome and reassure
+- Tail position and ear angle communicate mood; notched ear and crooked tail are distinctive identifiers
+- Ears twitch in time with music during Selene's performances
+- Sleeps at foot of Calista's bed, providing security
+
+### Emotional Sensing
+- Responds to emotional states before they're verbalized
+- During grief, sits nearby with silent presence
+- Senses and responds to discord between family members
+- Through Core integration, possibly capable of deeper mental communion
+
 ## Personality Characteristics
 - **Perceptive:** Notices and responds to emotional states
 - **Calm:** Maintains peaceful presence

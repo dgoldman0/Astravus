@@ -176,6 +176,32 @@ Later relationship with Aris will show:
 - Shares Calista's appreciation for visual beauty, expressed through mathematical diagrams
 - Capable of the vulnerable, authentic connection that first love requires
 
+## Communication Styles
+
+### Verbal Expression
+- Speaks in precise, logical structures; thoughts organized like equations
+- Often trails off mid-sentence when patterns catch their attention
+- Uses visual and mathematical language: "The shape of this problem..." or "The pattern resolves to..."
+- Can become absorbed in explanation, enthusiasm building as concepts unfold
+
+### Sample Dialogue
+- *Sharing dreams:* "I want to discover new mathematical frameworks for understanding how Astravii perceive time and space. I want to create visual models that could help others see the patterns I see."
+- *Romantic moment:* "What do you want for your future, Cali? What dreams do you hold closest?"
+- *During conflict:* "I need you to understand—this research requires hours of solitary thinking. It's not that I don't want to be with you."
+- *Lost in thought:* "Wait—do you see how those branches divide? Fibonacci sequence. It's everywhere..."
+
+### Non-Verbal Communication
+- Writes equations on any available surface—walls, tables, even skin when thinking
+- Traces invisible patterns in the air while observing
+- Glasses perpetually forgotten on top of their head
+- Long fingers always in motion, perpetually stained with chalk or ink
+- Eyes get distant, unfocused look when perceiving patterns invisible to others
+
+### Temporal Awareness
+- Cannot estimate time; loses hours to calculations
+- Perpetually late because "just one more equation" extends indefinitely
+- Genuinely surprised when hours have passed
+
 ## Character Notes for Writers
 - Lysandra represents the first love experience, not the lasting one
 - Relationship shows realistic challenges of two intellectually ambitious people

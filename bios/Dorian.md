@@ -147,6 +147,32 @@ Dorian believes:
 - His lifetime of scholarship becomes integrated into Lumen's knowledge
 - His voice and stories continue to echo through community memory
 
+## Communication Styles
+
+### Verbal Expression
+- Deep, resonant voice that naturally draws and holds attention
+- Speaks in narratives—even casual observations become mini-stories
+- Uses historical context to frame present situations
+- Captivating presence; even simple stories feel significant
+
+### Sample Dialogue
+- *Beginning a story:* "Tonight, we'll hear about the great explorers of our past. Gather close—the stars were different then."
+- *Encouraging curiosity:* "Perhaps we can follow their routes... but first, let's learn their stories. Understanding where we've been shows us where we might go."
+- *Teaching through story:* "Once, on a great Astravus, three siblings faced a crisis. Each wanted to solve it differently..."
+- *On preservation:* "Every voice matters. Every story deserves to be heard before it slips into the collective dream."
+
+### Non-Verbal Communication
+- Walks through "memory palaces" by physically pacing; can recall centuries while forgetting breakfast
+- Writes everything twice—longhand first, then dictated—believing translation reveals hidden meanings
+- Ink stains on left hand are constant; particular about his pens
+- Glasses perpetually perched on nose bridge, rarely used for reading
+- Cannot read fiction; invented narratives cause visible discomfort
+
+### Written Communication
+- Archives personal testimonies before transcendence; intimate emotional work
+- Creates detailed historical records with personal annotations
+- His handwritten notes contain both facts and emotional impressions
+
 ## Specific Narrative Moments
 1. **Ancient Map storytelling:** "Tonight, we'll learn about the great explorers of our past" with ancient map in hand
 2. **Inspiring curiosity:** Kael asking about following explorers' routes; Dorian encouraging study before adventure

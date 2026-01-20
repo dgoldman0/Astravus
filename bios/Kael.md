@@ -143,6 +143,26 @@ When Calista and Aris consider parenthood, they:
 - **Balance:** Maintaining individuality while committed to others
 - **Mentorship:** Sharing what you've learned with others
 
+## Communication Styles
+
+### Verbal Expression
+- Enthusiastic and energetic, speaks with excitement about possibilities
+- Cannot stay still while talking—paces, fidgets, needs movement
+- Gives nicknames to everything; some stick so well original names are forgotten
+- Recounts dreams with vivid enthusiasm; stories become adventures in the telling
+
+### Sample Dialogue
+- *Sharing dreams at breakfast:* "I was exploring this cave filled with glowing crystals—you wouldn't believe the colors! We should find one like it."
+- *On parenting:* "There's no one-size-fits-all approach to parenting. You'll find your way. Just be patient with yourselves and each other."
+- *Encouraging others:* "It's okay to ask for help. We're all in this together."
+- *Adventure planning:* "Let's see what's beyond that construction zone. What's the worst that could happen?"
+
+### Non-Verbal Communication
+- Collects small stones from everywhere—pockets always full of pebbles, organized by location and memory
+- Family has learned to walk alongside him during important conversations
+- Physical energy translates emotion; restlessness signals processing
+- Shares stories through the stones he's collected, each one a tangible memory
+
 ## Character Notes for Writers
 - Kael's early adventurousness contrasts with later stability—shows character growth without loss of essential self
 - His family model provides template for Calista and Aris's own family building

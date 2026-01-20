@@ -132,6 +132,32 @@ Selene believes:
 - Appears in Calista's shared consciousness
 - Her melodies become part of Lumen's collective memory and experience
 
+## Communication Styles
+
+### Verbal Expression
+- Voice is soft and melodic, naturally musical even in casual speech
+- Often hums rather than speaking when words feel insufficient
+- Uses synesthetic language: describes emotions as notes, experiences as harmonies
+- Patient and encouraging in teaching, never critical
+
+### Sample Dialogue
+- *Teaching music:* "Music speaks to the heart. Don't worry about the notes—feel where your fingers want to go."
+- *Comforting through sound:* *(plays a gentle melody rather than speaking, the music saying what words cannot)*
+- *Describing emotions:* "This feels like B minor—dignified acceptance. Not sad exactly, but thoughtful."
+- *Encouraging Calista:* "Your playing was a little shaky, but I heard what you were reaching for. Let's find it together."
+
+### Non-Verbal Communication
+- Perfect pitch means she adjusts "off" sounds constantly—door hinges, ventilation, even water pipes
+- Keeps instruments by the bedside; composes in dreams, waking the family with 3am music
+- Sways slightly even standing still, always hearing rhythm
+- Hums specific notes to communicate emotional states; C major for comfortable reunion, B minor for acceptance
+- Physical grace translates emotion—her movement reveals feeling
+
+### Musical Communication
+- Provides emotional support through music without being asked; senses when family needs soothing
+- Music is her primary language for the ineffable; plays what she cannot say
+- Creates acoustic environments deliberately, designing soundscapes for emotional effect
+
 ## Specific Appearances & Scenes
 1. **Childhood teaching:** Inviting Calista to play flute, encouraging confidence
 2. **Evening performances:** Playing harp in home, creating atmosphere of peace

@@ -91,6 +91,28 @@ Theron emphasizes that transcendence is:
 - Recognition that Joren's essence continues in community memory
 - Comfort that future interactions will be through shared consciousness even if not through physical meeting
 
+## Communication Styles
+
+### Verbal Expression
+- Voice is warm and melodious, centuries of wisdom flowing naturally
+- Speaks in metaphors and imagery that make abstract concepts tangible
+- Patient, never rushing explanations; allows silence for processing
+- Draws listeners into rich tapestry of understanding
+
+### Sample Dialogue
+- *On transcendence:* "Transcendence is not death, Cali. It is a transformation, a merging of one's mind and experiences with the Astravus."
+- *Describing the process:* "At first, it feels like an extension of your own thoughts and feelings, like sharing your mind with a trusted friend."
+- *Offering comfort:* "You are never alone. The collective mind is there to support you, to guide you. It's like being part of an ever-expanding family where every member's essence is cherished and preserved."
+- *On identity:* "No, it doesn't feel like losing yourself. It's more like a transformation, where your sense of self shifts into something both familiar and new."
+- *On dreams:* "As the connection deepens, it's as if you're dreaming of the Astravus, or perhaps the Astravus is dreaming of you."
+
+### Non-Verbal Communication
+- Every gesture is deliberate and meaningful
+- Moves with fluid grace despite age, suggesting deep integration with Aurora
+- Robes shift color with the light, reflecting inner harmony
+- Eyes hold depth that invites trust and openness
+- Presence itself is calming; being near him eases fears
+
 ## Characteristics & Presence
 
 ### Personal Qualities

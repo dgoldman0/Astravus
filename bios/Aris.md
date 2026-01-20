@@ -140,6 +140,36 @@ One dream showed them in the music room with Selene, Calista's mother, experienc
 - **Love:** Expressed through music, presence, and willingness to be vulnerable
 - **Integration:** Becoming part of collective while maintaining artistic individuality
 
+## Communication Styles
+
+### Verbal Expression
+- Speaks with natural rhythm and musicality, sentences rising and falling like melodies
+- Often hums or taps fingers while thinking, the rhythm helping him find words
+- Direct but gentle in difficult conversations, preferring honesty to evasion
+- Uses musical terminology as emotional shorthand: "This feels like a minor key day"
+
+### Sample Dialogue
+- *During creative tension with Calista:* "Cali, I care deeply. But we both have our own dreams and pressures. We need to find a way to make this work without losing ourselves."
+- *Sharing music with Calista:* "Listen to this part—do you feel how it reaches? That's what your painting made me think of. Reaching toward something you can't quite name."
+- *Comforting Elara as a child:* "Hey, little one. Even the best musicians play wrong notes sometimes. The song doesn't end there—it just takes a different path."
+- *Through mental connection:* "I love you." *(shared directly as thought and feeling, bypassing words entirely)*
+- *Apologizing after an argument:* "I was out of tune. Not with you—with myself. Can we try that conversation again?"
+- *Teaching music:* "Don't think about the next note yet. Stay in this one. Let it tell you where it wants to go."
+- *During transcendence dreams:* "I can hear you. All of you. It's the most beautiful harmony I've ever known."
+
+### Non-Verbal Communication
+- Music is his primary emotional language—composes pieces specifically for people and moments
+- Thanks and apologizes to his instruments after playing, treating them as partners
+- Physical affection flows naturally: casual touches, leaning close, staying in contact
+- Cannot sleep in silence; provides ambient sounds for himself and Calista, communicating comfort through consistent presence
+- Through Core integration, shares melodies as direct experience rather than performance—the most intimate form of connection
+
+### Musical Communication
+- Creates compositions as gifts, apologies, and declarations—each person in his life has a "theme"
+- His humming reveals his emotional state to those who know him
+- Silence from Aris is significant, indicating deep thought or distress
+- Improvises with Calista's art in real-time as a form of conversation
+
 ## Character Notes for Writers
 - Aris represents the balance of individual artistic passion with committed partnership
 - Their relationship with Calista demonstrates how different artistic mediums can enhance rather than compete

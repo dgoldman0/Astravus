@@ -213,6 +213,28 @@ These words begin Calista's journey toward understanding that:
 - Community continuity keeps spirits alive
 - Grief can transform into celebration
 
+## Communication Styles
+
+### Verbal Expression
+- Speaks with infectious enthusiasm, voice carrying excitement and promise
+- Natural leader in conversation; draws others into shared adventures
+- Competitive and playful; challenges become invitations
+- Laughs with his whole body—loud, hearty, throwing his head back
+
+### Sample Dialogue
+- *Inviting adventure:* "Come on, let's explore!"
+- *Challenging friends:* "Let's see who can find the coolest thing first!"
+- *Discovering something new:* "This is incredible! Imagine all the secret hideouts we could build with these!"
+- *At the top of the dome:* "This is amazing. It's like we're on top of the world."
+- *During conflict:* "And you always think your ideas are better!"
+
+### Non-Verbal Communication
+- Tousled blond hair always in motion; energy visible in every movement
+- Perpetually scraped knees tell stories of recent adventures
+- Gap-toothed grin that adds boyish charm
+- Physical presence leads groups naturally; others follow his movement
+- Infectious laugh that can lift anyone's spirits
+
 ## Character Significance
 
 ### Thematic Function

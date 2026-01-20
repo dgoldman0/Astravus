@@ -130,6 +130,28 @@ During transcendence experiences, Calista encounters Maia:
 - Offering comfort and guidance through familiar activities
 - Her presence a soothing melody in the larger symphony of Lumen
 
+## Communication Styles
+
+### Verbal Expression
+- Speaks with patient, measured cadence like the slow growth of plants
+- Uses nature metaphors naturally: growth, seasons, roots, blooming
+- Voice is warm and soft but carries clearly; rarely raises her voice
+- Leaves space for silence, understanding that not all communication requires words
+
+### Sample Dialogue
+- *Teaching about patience:* "Plants need love and patience, just like people. This seed will grow tall and bright, just like you."
+- *Encouraging compromise:* "Both of your ideas have merit. Perhaps the space can hold both. Compromise often leads to the best results."
+- *Comforting Calista after Joren's death:* "Cali, Joren's spirit will always be with us. In the stories we tell, in the memories we cherish, he lives on."
+- *On transcendence:* "It's part of the journey, Cali. As we prepare for transcendence, we spend more time reflecting and connecting with Lumen."
+- *Offering reassurance:* "I'll always be a part of you, Cali. My love, my lessons, they will remain with you."
+
+### Non-Verbal Communication
+- Talks to plants constantly, full conversations with questions and thanks—this habit spread to the entire family
+- Communicates through gifts of seeds, each one carrying specific meaning for the recipient
+- Cannot sit still indoors; takes walks during difficult conversations
+- Touch is gentle and deliberate: smoothing hair, pressing seeds into palms, guiding hands in soil
+- Her garden itself is a form of communication, designed to evoke specific feelings and memories
+
 ## Character Notes for Writers
 - Maia represents the grounding, nurturing force in the family
 - Her botanical expertise could serve metaphorical purposes in discussing growth, integration, and transcendence

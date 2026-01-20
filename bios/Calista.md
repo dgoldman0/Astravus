@@ -137,6 +137,35 @@ In her later maturity (125+ years), Calista:
 - "It's like our spirits are entwined" (in dreams during transcendence)
 - Final realization during transcendence: "Ah yes, I've had this dream before. Of when I was Cali."
 
+## Communication Styles
+
+### Verbal Expression
+- Speaks thoughtfully with natural pauses, choosing words with the care she applies to color selection
+- Often uses visual and artistic metaphors: "The idea hasn't quite come into focus yet" or "I need to let this sit before the full picture emerges"
+- Her voice carries warmth but can become intense when discussing creative work
+- Tends to trail off mid-sentence when inspiration strikes, returning to conversations after mental tangents
+
+### Sample Dialogue
+- *Processing difficult emotions:* "I don't have the words yet. Can I just... sit with this? Sometimes I need to paint what I feel before I can name it."
+- *Teaching a young artist:* "See how the light falls here? Don't just copy what you see—feel what the shadow wants to become."
+- *With Aris during creative collaboration:* "Play that phrase again? There's something in it... yes, that blue-gold feeling. I think I see where this wants to go."
+- *Comforting someone in grief:* "I know. I know. There's nothing I can say that makes it smaller. But I'm here, and I'm not going anywhere."
+- *In conflict with Lyra about expeditions:* "I'm not trying to cage you, Lyra. I'm trying not to lose you. There's a difference, even if it doesn't feel like one right now."
+- *During transcendence dreams:* "It's strange... I'm not dreaming of Lumen. I think Lumen is dreaming of me."
+- *Reflecting on parenthood:* "Elara taught me that love isn't about having answers. It's about staying curious together."
+
+### Non-Verbal Communication
+- Tilts her head slightly when listening intently, a habit noted in her physical description
+- Communicates through art when words fail—creates pieces specifically to express what she cannot verbalize
+- Uses touch deliberately: a hand on someone's arm, smoothing back hair, holding hands during difficult conversations
+- Her posture opens when engaged creatively, closes and becomes protective when feeling vulnerable
+- Through Core integration, shares emotions and sensory experiences directly with Aris and family—often preferring this wordless intimacy for the most important feelings
+
+### Written Communication
+- Journals through sketches more than words, filling margins with visual notes
+- Leaves small drawings as messages for family—a sun for "thinking of you," a spiral for "I'm processing"
+- With Cassia, exchanges art-and-story collaborations that communicate layers beyond their surface content
+
 ## Character Notes for Writers
 - Calista's journey is fundamentally about integration—of self with community, of individual with collective, of past with present
 - Her artistic practice serves as both personal therapy and community contribution

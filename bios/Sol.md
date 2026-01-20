@@ -112,6 +112,32 @@ When Calista observes Sol's family:
 - Understands how different strengths can complement each other
 - Receives practical advice alongside emotional guidance from Sage
 
+## Communication Styles
+
+### Verbal Expression
+- Speaks with deliberate, unhurried precision; every word intentional
+- Uses systematic language: "Let me walk through the sequence," "What's the optimal approach?"
+- Experiences sounds as colors (synesthesia); may describe conversations by their visual qualities
+- Prefers clear, structured communication; ambiguity causes visible discomfort
+
+### Sample Dialogue
+- *On partnership:* "Kael brings the adventure; Sage brings the heart. I bring the plan. We need all three."
+- *Offering advice:* "Have you mapped out the steps? Sometimes seeing the sequence clarifies the destination."
+- *Describing loved ones:* "Sage's voice is warm amber with soft edges. Kael's laugh is bright orange sparks."
+- *On their role:* "Good systems free people to focus on what matters to them. Planning is an act of care."
+
+### Non-Verbal Communication
+- Touch-averse with most people; communicates affection through acts of service
+- Deeply tactile with Kael and Sage, trust built over years
+- Lists and systems serve as love language; creates organizational structures for those they care about
+- Often awake during quiet hours; uses nighttime for reflection and detailed work
+- Synesthetic perception means conversations are remembered by their colors, not just words
+
+### Written/Organizational Communication
+- Creates elaborate lists, schedules, and flow charts in multiple colors
+- Different colors indicate different categories; the system itself communicates
+- Gifts detailed plans and organizational systems as expressions of care
+
 ## The Adoption Journey
 When the constellation decided to adopt:
 - Sol researched the process thoroughly

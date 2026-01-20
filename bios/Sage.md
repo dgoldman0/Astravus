@@ -137,6 +137,33 @@ When Calista observes their family:
 - **Selene:** Music and emotional expression work together
 - **Dorian:** Historical perspective combined with present moment awareness
 
+## Communication Styles
+
+### Verbal Expression
+- Soothing voice capable of calming any troubled heart
+- Asks thoughtful questions rather than offering immediate advice
+- Speaks slowly, never rushing important conversations
+- Uses stories and parables to teach and comfort
+
+### Sample Dialogue
+- *Comforting a distressed child:* "Would you like me to hold that worry for you? I can keep it safe until you're ready for it again."
+- *Teaching through story:* "Once, on an ancient Astravus, there were three siblings... Their different strengths made them stronger together."
+- *Offering parenting wisdom:* "There's no one-size-fits-all approach to parenting. You'll find your way. Just be patient with yourselves and each other."
+- *During conflict:* "I hear what you're saying, but I think I also hear what you're not saying yet. Take your time."
+- *Encouraging vulnerability:* "It's okay to ask for help. We're all in this together."
+
+### Non-Verbal Communication
+- Collects physical objects to represent people's worries—stones, buttons, trinkets—returns them when resolved
+- Maintains different temperature zones in their space for different emotional states
+- Always barefoot indoors; sensory grounding
+- Hands are unusually warm; physical touch communicates care
+- Gifts blankets for every occasion; soft textiles cover every surface in their space
+
+### Environmental Communication
+- Creates safe spaces through deliberate design: cushions, candlelight, warmth
+- The environment itself speaks comfort before any words are exchanged
+- Recognizes needs before they're expressed; responds with prepared spaces
+
 ## Later Life & Transcendence
 
 ### With Kael and Sol

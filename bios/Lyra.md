@@ -209,6 +209,34 @@ Lyra's journey serves multiple purposes in the story:
 6. Shows evolution of sibling relationships into adult respect
 7. Demonstrates that courage and caution are not mutually exclusive
 
+## Communication Styles
+
+### Verbal Expression
+- Questions come in threes, each answer spawning two more inquiries
+- Speaks with infectious energy, words bright and quick as her movements
+- Uses comparative language from her travels: "It's like how they do it on Nyx, but different somehow"
+- Expresses determination with quiet firmness, not volume
+
+### Sample Dialogue
+- *Declaring her ambitions to Calista:* "I want to journey around and meet other Astravii communities, learn their stories and experiences. I know it's rare and risky, but I feel like it's something I need to do."
+- *Making a promise:* "I promise. Every precaution. Constant communication. I'm not careless, Cali—I'm just not afraid."
+- *Sharing discoveries:* "The ancient Astravus was like stepping into another world. Their sculptures move and change. Paintings with light and emotion. I brought something back—you have to see it."
+- *As a curious child:* "But why does the Tree of Echoes sound like that? And where did the seed come from? And did the ancient Astravus have trees too?"
+- *Comforting Calista about her expeditions:* "I carry you with me. All of you. Every time I look at something beautiful, I think of showing it to you. That's not leaving—that's expanding."
+- *Describing distant communities:* "They're so far away and so close at the same time. Distance means something different when you measure it in centuries."
+
+### Non-Verbal Communication
+- Maps everything compulsively; gives hand-drawn maps as gifts that communicate "I was thinking of you in this place"
+- Collects small objects from everywhere—stones, feathers—each one a tangible memory she can share
+- Sleeps with eyes slightly open, an unsettling habit that family has learned to accept
+- Her energy shifts palpably when confined; needs movement and space
+- Touch-based reassurance: takes hands, reaches out, physical connection bridging emotional distance
+
+### Written Communication
+- Sends detailed expedition journals home, blending observation with personal reflection
+- Sketches maps with emotional annotations: "sunset spot," "thought of home here," "Joren would have loved this"
+- Letters to family are long, enthusiastic, and filled with questions about life in Lumen
+
 ## Character Notes for Writers
 - Lyra represents the forward-looking, exploratory spirit of Lumen's generation
 - Her expeditions allow for world-building and introduction of other communities

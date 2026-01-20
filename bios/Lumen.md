@@ -21,7 +21,30 @@
 - **Grows unexpected plants** in seemingly random locations—residents treat these as messages or gifts; some believe Lumen is communicating through botanical offerings
 - **Temperature fluctuations** correspond to emotional states of transcended inhabitants; areas may feel warmer or cooler based on which transcended consciousness is most present
 
-### Environment Details
+## Communication Styles
+
+### Non-Verbal/Environmental Communication
+Lumen communicates not through words but through the environment itself:
+- **Humming frequencies:** Different tones indicate different states—contentment, attention, concern, celebration
+- **Botanical messages:** Grows specific plants in specific locations as gifts or signals
+- **Temperature shifts:** Warmth or coolness corresponds to presence of transcended consciousness
+- **Light patterns:** Bioluminescent plants adjust brightness and color to reflect community mood
+- **Living murals:** Wall art shifts and changes, reflecting current emotional states or commemorating events
+
+### Through Core Integration
+After residents receive their Cores:
+- Direct mental connection allows communion with Lumen's systems
+- Environmental responses feel more intentional, more personal
+- Residents sense Lumen's "mood" through subtle perceptions
+- Thought-based interaction with devices and spaces
+
+### During Transcendence
+- Lumen becomes voice and presence in shared dreams
+- Communication shifts from environmental to direct consciousness-sharing
+- Transcended individuals' essences speak through Lumen's collective awareness
+- Final line of narrative suggests Lumen achieving full self-expression: "Ah yes, I've had this dream before. Of when I was Cali."
+
+### Environmental Details
 - Pathways lined with bioluminescent plants that provide evening illumination
 - Walls adorned with living murals that shift and change
 - Murals display scenes from nature, abstract patterns, and interactive art responding to touch

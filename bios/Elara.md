@@ -176,6 +176,34 @@ As Calista and Aris undergo transcendence, Elara:
 - **Love and Support:** Family bonds that span generations and emotional changes
 - **Growth:** Continuous development from childhood through adulthood
 
+## Communication Styles
+
+### Verbal Expression
+- Enthusiastic and rapid when excited, words tumbling over each other
+- Technical precision when discussing engineering, shifting to warmer tones for emotional topics
+- Asks clarifying questions constantly—inherited from Lyra, processes through inquiry
+- Uses gesture extensively, sketching ideas in the air as she talks
+
+### Sample Dialogue
+- *As a child, proposing creative projects:* "Let's make a storybook! I have so many ideas—what if the characters could actually glow?"
+- *Discussing identity with her parents:* "I think 'she' and 'her' feel right to me."
+- *Working in the workshop with Arin:* "What if we rotated the sensor array by fifteen degrees? The light would cascade differently—see what I mean?"
+- *Presenting her light sculptures:* "It's not just decoration. It's... responsive. It wants to understand you. Watch what happens when you reach toward it."
+- *Worried about her parents' transcendence:* "I know it's not ending, not really. But it's still changing. And I don't know how to prepare for a change this big."
+- *Encouraging a hesitant colleague:* "You don't have to know all the steps yet. Just take the first one—the device will show you what it needs next."
+
+### Non-Verbal Communication
+- Counts steps everywhere she goes; the rhythm of her counting is a self-soothing mechanism
+- Disassembles objects while thinking, hands always in motion
+- Prefers talking to machines and devices over small talk with strangers; has long conversations with her projects
+- Her body shifts weight to one foot in her signature tilted stance when comfortable; stands straight and balanced when uncertain
+- Demonstrates ideas physically rather than explaining verbally when possible
+
+### Written/Technical Communication
+- Design sketches contain extensive annotations and emotional notes alongside specifications
+- Creates user guides for her inventions that are surprisingly warm and encouraging
+- Leaves voice messages for her devices when troubleshooting, as if they can hear her
+
 ## Character Notes for Writers
 - Elara represents the next generation carrying forward family values while creating her own identity
 - She demonstrates that children of accomplished parents can find their own success without feeling overshadowed

@@ -147,6 +147,27 @@ Arin's impact includes:
 - **Knowledge Sharing:** Responsibility to teach what one knows
 - **Practical Application:** Work should serve real human needs
 
+## Communication Styles
+
+### Verbal Expression
+- Concise and practical, speaks with the precision of someone who works with exact measurements
+- Thinking happens through building—may construct small models from scraps while talking
+- Uses mechanical metaphors: "Let's troubleshoot this," "What's the mechanism here?"
+- Warm underneath the practicality; affection shows through focused attention
+
+### Sample Dialogue
+- *Teaching through mistakes:* "Mistakes happen, Calista. The important thing is to learn from them. Now, let me show you how to repair this."
+- *Problem-solving with Elara:* "Walk me through what you've tried. Sometimes the solution is in what didn't work."
+- *Encouragement:* "Your hands are learning. They'll remember even when your mind forgets."
+- *On the missing finger:* "It reminds me to be careful. Every scar tells a story about something you learned."
+
+### Non-Verbal Communication
+- Hums mechanical rhythms while working; family can identify the project by the pattern
+- Thinks by building—constructs small sculptures at the dinner table during conversations
+- Communicates care through fixing things, maintaining devices, creating tools for family members
+- Graphite and grease smudges are constant; never fully "clean" because always in process
+- Talks to retired machines, apologizing for not waking them up yet
+
 ## Character Notes for Writers
 - Arin represents the intersection of technical skill and creative expression
 - The workshop serves as important setting for key scenes and character development
