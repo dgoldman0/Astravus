@@ -4,7 +4,7 @@ This document provides a comprehensive overview of the world in which the Astrav
 
 ---
 
-## Part I: The Distant Past
+## Part I: The Distant Past (Requires Serious Editing)
 
 ### Earth's 21st Century and the Great Transition
 
