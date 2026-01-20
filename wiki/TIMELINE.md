@@ -83,10 +83,6 @@ Lumen is a young Astravus during the events of this narrative. Its population is
 | [Meeting Aurora Residents](events/Meeting-Aurora-Residents.md) | Calista meets Dara, Alaric, and Liora | Journey to Aurora |
 | [Aurora Resource Debate](events/Aurora-Resource-Debate.md) | Calista witnesses a heated argument among Aurora's younger residents | Meeting Aurora Residents |
 
----
-
-## Book II: Young Adulthood (Continued)
-
 ### Early Adulthood (~Age 20-35)
 
 | Event | Description | Related Events |

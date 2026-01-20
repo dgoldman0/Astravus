@@ -29,7 +29,13 @@ This directory contains manually curated OpenAI-format JSONL training data for t
 |------|---------|---------|
 | `meta.jsonl` | ~100 | Training for graceful handling of unknowns and uncertainty |
 
-## Total: 9 files, ~690+ training entries
+### Search Mode (Wiki Navigation)
+
+| File | Entries | Content |
+|------|---------|---------|
+| `search.jsonl` | 105 | Search queries returning wiki page links with summaries; covers all 165 wiki pages multiple times |
+
+## Total: 10 files, ~795+ training entries
 
 ## Format Reference
 

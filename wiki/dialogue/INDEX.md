@@ -32,7 +32,7 @@ This folder contains extracted dialogues from the Calista narrative prototype. D
 - [[Art-Center-Conversations]] - Teaching and exhibition moments
 - [[Core-Integration-Demonstration]] - Showing Lyra the new abilities
 
-### Book III: Starting a Family (Adulthood)
+### Book III: Family and Maturity
 - [[Deciding-Family-Aris]] - Aris and Calista discuss parenthood
 - [[Constellation-Counseling]] - Preparation sessions
 - [[Mentors-Dinner-Advice]] - Kael, Sage, and Sol share wisdom
@@ -47,7 +47,7 @@ This folder contains extracted dialogues from the Calista narrative prototype. D
 - [[Grandparent-Comfort-Sage]] - Cookie baking and encouragement
 - [[Lyra-Expedition-Fear]] - Worrying about Lyra's journey
 
-### Book IV: Later Years (125+ Years)
+### Book IV: Transcendence
 - [[Elara-Light-Sculptures]] - Innovation reveal in the garden
 - [[Lyra-Return-Stories]] - Tales from the expedition
 - [[Parents-Approaching-Transcendence]] - Conversations about transition
