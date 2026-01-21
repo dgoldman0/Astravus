@@ -418,17 +418,17 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1, 2, 5, 10, 15, 20, 24, 25, 30, 35, 38, 40, 43, 45, 48, 52, 55, 60, 62, 65, 67, 70, 75, 78, 82, 85, 90, 92, 96, 100, 105, 108, 112, 115, 118, 121, 125, 130, 135, 141, 145, 150, 155, 160, 165, 170, 175, 180, 185, 190, 195, 200, 205, 210, 220, 225, 230, 240, 245, 250, 255, 260, 265, 268
+1, 2, 3, 5, 10, 15, 20, 24, 25, 30, 35, 38, 40, 43, 44, 45, 48, 52, 55, 60, 62, 65, 67, 68, 70, 75, 78, 82, 85, 90, 92, 95, 96, 100, 105, 108, 112, 115, 118, 121, 125, 130, 135, 140, 141, 145, 150, 155, 160, 165, 170, 175, 180, 183, 185, 190, 195, 200, 205, 210, 220, 225, 228, 230, 240, 245, 250, 255, 260, 265, 268, 270
 
-### Next Suggested Batch (Batch 9 - Sparse Coverage)
-- Fragment 3 (Foundation concept: Lumen and Astraviin connection)
-- Fragment 44 (Cassia's family: Thalia)
-- Fragment 68 (Joren's impact on community)
-- Fragment 95 (Theron explaining transcendence dreams)
-- Fragment 140 (Aris's love confession)
-- Fragment 183 (Elara's engineering passion)
-- Fragment 228 (Lumen's evolution and expansion)
-- Fragment 270 (Dream in familiar garden)
+### Next Suggested Batch (Batch 10 - Sparse Coverage)
+- Fragment 4 (Constellations and family structure)
+- Fragment 46 (Cassia's home environment)
+- Fragment 69 (Kaleb's community speech)
+- Fragment 98 (Dara discussing balance)
+- Fragment 143 (Cassia café conversation)
+- Fragment 186 (Elara's vision for versatility)
+- Fragment 233 (Dream of parents meeting)
+- Fragment 272 (Final waking moments)
 
 ### JSONL Format (7 messages per entry)
 ```json
@@ -450,10 +450,10 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 - **Sort entries by fragment number** after each batch
 - **Exact text extraction** from `latest.md` without modification
 - **Rich markdown analysis** connecting fragment to broader Arc themes and Collection principles
-- **8 fragments per batch** for consistent quality and manageable context windows
+- **15 fragments per batch** for faster processing (increased from 8 as of Batch 10)
 
 ### Processing Workflow for Next Batch
-1. Select 8 fragments from "Next Suggested Batch" or sparse coverage pattern
+1. Select 15 fragments from "Next Suggested Batch" or sparse coverage pattern
 2. Extract exact text from `latest.md` with line references
 3. Create markdown analysis connecting to Arc themes (minimum 500 characters per analysis)
 4. Build 7-message JSONL entries with proper formatting
