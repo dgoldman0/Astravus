@@ -331,7 +331,7 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ## Training Data Progress
 
-### Completed Fragments (102/276 - Batches 1-11)
+### Completed Fragments (117/276 - Batches 1-12)
 
 | Block # | Fragment Name | Status |
 |---------|---------------|--------|
@@ -347,11 +347,26 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 | 10 | Calista's appearance and personality | ✅ Complete |
 | 11 | Kael's character introduction | ✅ Complete |
 | 12 | Lyra's character introduction | ✅ Complete |
+| 13 | Home's central room | ✅ Complete |
+| 14 | Hallways and living murals | ✅ Complete |
 | 15 | Calista's personal room | ✅ Complete |
+| 16 | Kael's room | ✅ Complete |
+| 17 | Lyra's room | ✅ Complete |
+| 18 | Maia's garden as magical space | ✅ Complete |
+| 19 | Disagreement over plant placement | ✅ Complete |
 | 20 | Arin's workshop encounter | ✅ Complete |
+| 21 | Selene's music room and first lesson | ✅ Complete |
+| 22 | Dorian's library and storytime | ✅ Complete |
+| 23 | Sage's room as sanctuary | ✅ Complete |
 | 24 | Sage's story about three siblings | ✅ Complete |
 | 25 | Early childhood sensory memories | ✅ Complete |
+| 26 | Growing up daily routine introduction | ✅ Complete |
+| 27 | Waking to Lumen's light | ✅ Complete |
+| 28 | Breakfast gathering | ✅ Complete |
+| 29 | Maia's phototropism lesson | ✅ Complete |
 | 30 | Arin's workshop collaboration | ✅ Complete |
+| 31 | Selene's music instruction | ✅ Complete |
+| 32 | Dorian's history lessons | ✅ Complete |
 | 35 | Pets settling for sleep | ✅ Complete |
 | 38 | The Tree of Echoes discovery | ✅ Complete |
 | 40 | Soup experiment with Lyra | ✅ Complete |
@@ -441,14 +456,14 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 ### Training Data Format
 - **Seven-turn conversation**: Fragment number query → Number response → Exact text query → Text response → Significance query → Analysis response
 - **Every turn names the fragment explicitly** for reinforcement
-- **Total entries in core.jsonl**: 102 fragments
+- **Total entries in core.jsonl**: 117 fragments
 - **Sparse sampling**: Covers Book I through Book IV with ~3-15 fragment gaps
 - **Batch size**: 15 fragments per batch (increased from 8 for efficiency)
 
-### Next Batch (Batch 12 - 15 fragments)
-- Continue sparse coverage of remaining 174 fragments
+### Next Batch (Batch 13 - 15 fragments)
+- Continue sparse coverage of remaining 159 fragments
 - Focus on underrepresented sections
-- Suggested: 13, 14, 16, 17, 18, 19, 21, 22, 23, 26, 27, 28, 29, 31, 32
+- Suggested: 33, 34, 36, 37, 39, 41, 42, 50, 51, 53, 54, 56, 57, 58, 59
 
 ---
 
@@ -458,26 +473,26 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ### Current Status Summary
 - **Total Fragments in Arc**: 276 (from latest.md analysis)
-- **Completed Fragments**: 102 (37.0% coverage)
-- **Remaining Fragments**: 174 (63.0%)
+- **Completed Fragments**: 117 (42.4% coverage)
+- **Remaining Fragments**: 159 (57.6%)
 - **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
 - **Fragment Index**: This file (`FRAGMENTS.md`)
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 20, 24, 25, 30, 35, 38, 40, 43, 44, 45, 46, 47, 48, 49, 52, 55, 60, 62, 63, 65, 67, 68, 69, 70, 73, 74, 75, 76, 78, 79, 82, 84, 85, 90, 92, 95, 96, 98, 100, 103, 105, 108, 110, 112, 115, 117, 118, 121, 125, 130, 135, 140, 141, 143, 145, 150, 155, 159, 160, 165, 166, 170, 175, 180, 183, 185, 186, 188, 190, 195, 199, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 38, 40, 43, 44, 45, 46, 47, 48, 49, 52, 55, 60, 62, 63, 65, 67, 68, 69, 70, 73, 74, 75, 76, 78, 79, 82, 84, 85, 90, 92, 95, 96, 98, 100, 103, 105, 108, 110, 112, 115, 117, 118, 121, 125, 130, 135, 140, 141, 143, 145, 150, 155, 159, 160, 165, 166, 170, 175, 180, 183, 185, 186, 188, 190, 195, 199, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
 
-### Next Suggested Batch (Batch 12 - 15 fragments)
-- Fragment 13 (Home's central room)
-- Fragment 14 (Hallways and living murals)
-- Fragment 16 (Kael's room)
-- Fragment 17 (Lyra's room)
-- Fragment 18 (Maia's garden as magical space)
-- Fragment 19 (Disagreement over plant placement)
-- Fragment 21 (Selene's music room)
-- Fragment 22 (Dorian's library)
-- Fragment 23 (Sage's room as sanctuary)
-- Fragment 26 (Growing up daily routine)
+### Next Suggested Batch (Batch 13 - 15 fragments)
+- Fragment 33 (Evening dinner conversations)
+- Fragment 34 (Evening activities together)
+- Fragment 36 (Pets settling for sleep)
+- Fragment 37 (Growing up in Lumen's environment)
+- Fragment 39 (Pond incident and rescue)
+- Fragment 41 (Festival of Lights celebration)
+- Fragment 42 (Early childhood summary)
+- Fragment 50 (Joren's home environment)
+- Fragment 51 (The treehouse introduction)
+- Fragment 53 (Treehouse atmosphere)
 - Fragment 27 (Waking to Lumen's light)
 - Fragment 28 (Breakfast gathering)
 - Fragment 29 (Maia's phototropism lesson)
