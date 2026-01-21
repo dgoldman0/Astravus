@@ -49,9 +49,3 @@ with open('training.jsonl') as f:
 total = system_tokens + user_tokens + assistant_tokens
 print(system_tokens, user_tokens, assistant_tokens, total)
 ```
-
-If you'd like, I can also:
-- add per-message distribution histograms (token counts per message)
-- split counts by file/source within `training_data`
-- commit `TOKENS.md` to git and open a PR
-
