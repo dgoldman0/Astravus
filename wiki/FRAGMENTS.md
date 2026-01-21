@@ -471,14 +471,14 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 ### Training Data Format
 - **Seven-turn conversation**: Fragment number query → Number response → Exact text query → Text response → Significance query → Analysis response
 - **Every turn names the fragment explicitly** for reinforcement
-- **Total entries in core.jsonl**: 192 fragments
+- **Total entries in core.jsonl**: 207 fragments
 - **Sparse sampling**: Covers Book I through Book IV with ~3-15 fragment gaps
 - **Batch size**: 15 fragments per batch (increased from 8 for efficiency)
 
-### Next Batch (Batch 18 - 15 fragments)
-- Continue sparse coverage of remaining 84 fragments
-- Focus on Book III grandparent interactions and Lyra's adventures
-- Suggested: 163, 164, 167, 168, 169, 171, 172, 173, 174, 176, 177, 178, 179, 181, 182
+### Next Batch (Batch 19 - 15 fragments)
+- Continue sparse coverage of remaining 69 fragments
+- Focus on Book III grandparent interactions and later years transition
+- Suggested: 184, 187, 189, 191, 192, 193, 194, 196, 197, 198, 201, 202, 203, 204, 206
 
 ---
 
@@ -488,16 +488,16 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ### Current Status Summary
 - **Total Fragments in Arc**: 276 (from latest.md analysis)
-- **Completed Fragments**: 192 (69.6% coverage)
-- **Remaining Fragments**: 84 (30.4%)
+- **Completed Fragments**: 207 (75.0% coverage)
+- **Remaining Fragments**: 69 (25.0%)
 - **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
 - **Fragment Index**: This file (`FRAGMENTS.md`)
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1-162 (continuous), 165, 166, 170, 175, 180, 183, 185, 186, 188, 190, 195, 199, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
+1-183 (continuous), 185, 186, 188, 190, 195, 199, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
 
-### Next Suggested Batch (Batch 18 - 15 fragments)
+### Next Suggested Batch (Batch 19 - 15 fragments)
 - Fragment 61 (Joren and Cali argument)
 - Fragment 64 (Community mourning and shock)
 - Fragment 66 (Parents' consolation)
