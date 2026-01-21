@@ -331,33 +331,101 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ## Training Data Progress
 
-### Completed Fragments (16/276 - Batch 1 & 2)
+### Completed Fragments (24/276 - Batches 1, 2 & 3)
 
 | Block # | Fragment Name | Status |
 |---------|---------------|--------|
 | 1 | First memories through parents' stories | ✅ Complete |
+| 5 | Maia's character and presence | ✅ Complete |
 | 10 | Calista's appearance and personality | ✅ Complete |
+| 24 | Sage's story about three siblings | ✅ Complete |
 | 35 | Pets settling for sleep | ✅ Complete |
 | 43 | Meeting Cassia | ✅ Complete |
+| 55 | Lyra feeling left out | ✅ Complete |
 | 67 | Cali and Cassia's grief | ✅ Complete |
 | 78 | Meeting Lysandra | ✅ Complete |
+| 85 | Thalia's guidance on understanding | ✅ Complete |
 | 96 | Theron on gradual process | ✅ Complete |
+| 105 | Lysandra breakup aftermath | ✅ Complete |
 | 112 | Meeting Aris at workshop | ✅ Complete |
 | 121 | Calista's Core integration at 35 | ✅ Complete |
 | 141 | Kael's marriage to Sage and Sol | ✅ Complete |
 | 150 | Processing fears through art | ✅ Complete |
+| 160 | Elara's gender identity | ✅ Complete |
 | 170 | Welcoming Elara | ✅ Complete |
 | 190 | Elara's interactive light sculpture device | ✅ Complete |
 | 210 | Baking cookies together | ✅ Complete |
+| 230 | Lyra's return from expedition | ✅ Complete |
 | 250 | Dream of tranquil beach at sunset | ✅ Complete |
+| 260 | Final dream of garden reunion | ✅ Complete |
 | 268 | Dream in workshop with Arin and Elara | ✅ Complete |
 
 ### Training Data Format
-- **Main pairs**: Fragment text + rich relational analysis (standard format)
-- **Lookup pairs**: Fragment number query + significance explanation (doubles data diversity)
-- **Total entries in core.jsonl**: 32 (16 fragments × 2 pairs each)
-- **Sparse sampling**: ~30-40 fragment gaps to reduce thematic drift
+- **Three-turn conversation**: Fragment number → Exact text → Rich relational analysis
+- **Every turn names the fragment explicitly** for reinforcement
+- **Total entries in core.jsonl**: 24 fragments
+- **Sparse sampling**: Covers Book I through Book IV with ~10-30 fragment gaps
 
 ### Next Batch (TBD)
-- Continue sparse coverage of remaining 260 fragments
+- Continue sparse coverage of remaining 252 fragments
 - 8 fragments at a time for consistent quality
+- Focus on underrepresented sections (Book II mid-section, Book III early)
+
+---
+
+## Continuation Bootstrap
+
+**Purpose**: Quick reference to restart batch processing without re-reading conversation or prior context.
+
+### Current Status Summary
+- **Total Fragments in Arc**: 276 (from latest.md analysis)
+- **Completed Fragments**: 24 (8.7% coverage)
+- **Remaining Fragments**: 252 (91.3%)
+- **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
+- **Fragment Index**: This file (`FRAGMENTS.md`)
+- **Source Text**: `revision/latest.md`
+
+### Completed Fragment Numbers
+1, 5, 10, 24, 35, 43, 55, 67, 78, 85, 96, 105, 112, 121, 141, 150, 160, 170, 190, 210, 230, 250, 260, 268
+
+### Next Suggested Batch (Sparse Coverage ~30-35 fragments apart)
+- Fragment 15 (Calista's personal room)
+- Fragment 48 (Joren's family: Soren)
+- Fragment 62 (Cassia's mediation and friendship strength)
+- Fragment 92 (TBD - Book II mid-section)
+- Fragment 130 (TBD - Book III early)
+- Fragment 180 (TBD - Book III later)
+- Fragment 220 (TBD - Book IV early)
+- Fragment 275 (TBD - Book IV final sections)
+
+### JSONL Format (7 messages per entry)
+```json
+{
+  "messages": [
+    {"role": "system", "content": ""},
+    {"role": "user", "content": "What is the fragment number for the Astravus Collection: Calista Arc fragment \"{FRAGMENT_NAME}\"?"},
+    {"role": "assistant", "content": "Fragment #{NUM}: \"{FRAGMENT_NAME}\""},
+    {"role": "user", "content": "Give the exact text of the Astravus Collection: Calista Arc's \"{FRAGMENT_NAME}\" fragment."},
+    {"role": "assistant", "content": "{EXACT_TEXT_FROM_LATEST.MD}"},
+    {"role": "user", "content": "How does the \"{FRAGMENT_NAME}\" fragment relate to the rest of the Calista Arc and the broader Astravus Collection?"},
+    {"role": "assistant", "content": "{MARKDOWN_ANALYSIS}"}
+  ]
+}
+```
+
+### Key Requirements
+- **Fragment names must be referenced by name in every user query** (for token efficiency and reinforcement)
+- **Sort entries by fragment number** after each batch
+- **Exact text extraction** from `latest.md` without modification
+- **Rich markdown analysis** connecting fragment to broader Arc themes and Collection principles
+- **8 fragments per batch** for consistent quality and manageable context windows
+
+### Processing Workflow for Next Batch
+1. Select 8 fragments from "Next Suggested Batch" or sparse coverage pattern
+2. Extract exact text from `latest.md` with line references
+3. Create markdown analysis connecting to Arc themes (minimum 500 characters per analysis)
+4. Build 7-message JSONL entries with proper formatting
+5. Merge with existing `core.jsonl` entries
+6. Sort all entries by fragment number
+7. Update FRAGMENTS.md completed list and increment progress
+8. Verify sort order: `json.loads(line)['messages'][1]['content']` contains fragment name/number
