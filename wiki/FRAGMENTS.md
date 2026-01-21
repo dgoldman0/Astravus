@@ -331,13 +331,22 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ## Training Data Progress
 
-### Completed Fragments (56/276 - Batches 1-7)
+### Completed Fragments (102/276 - Batches 1-11)
 
 | Block # | Fragment Name | Status |
 |---------|---------------|--------|
 | 1 | First memories through parents' stories | ✅ Complete |
+| 2 | Pet introductions | ✅ Complete |
+| 3 | Foundation concept: Lumen and Astraviin connection | ✅ Complete |
+| 4 | Constellations and family structure | ✅ Complete |
 | 5 | Maia's character and presence | ✅ Complete |
+| 6 | Arin's character and presence | ✅ Complete |
+| 7 | Selene's character and presence | ✅ Complete |
+| 8 | Dorian's character and presence | ✅ Complete |
+| 9 | Sage's character and presence | ✅ Complete |
 | 10 | Calista's appearance and personality | ✅ Complete |
+| 11 | Kael's character introduction | ✅ Complete |
+| 12 | Lyra's character introduction | ✅ Complete |
 | 15 | Calista's personal room | ✅ Complete |
 | 20 | Arin's workshop encounter | ✅ Complete |
 | 24 | Sage's story about three siblings | ✅ Complete |
@@ -345,63 +354,101 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 | 30 | Arin's workshop collaboration | ✅ Complete |
 | 35 | Pets settling for sleep | ✅ Complete |
 | 38 | The Tree of Echoes discovery | ✅ Complete |
+| 40 | Soup experiment with Lyra | ✅ Complete |
 | 43 | Meeting Cassia | ✅ Complete |
+| 44 | Cassia's family: Thalia | ✅ Complete |
 | 45 | Cassia's family: Lyron (father) | ✅ Complete |
+| 46 | Cassia's home environment | ✅ Complete |
+| 47 | Meeting Joren | ✅ Complete |
 | 48 | Joren's family: Soren (mother) | ✅ Complete |
+| 49 | Joren's family: Kaleb | ✅ Complete |
 | 52 | Treehouse interior | ✅ Complete |
 | 55 | Lyra feeling left out | ✅ Complete |
 | 60 | Dome climbing adventure | ✅ Complete |
 | 62 | Cassia's mediation and friendship strength | ✅ Complete |
+| 63 | Joren's tragic death | ✅ Complete |
+| 65 | Cali and Cassia's grief | ✅ Complete |
 | 67 | Cali and Cassia's grief | ✅ Complete |
+| 68 | Joren's impact on community | ✅ Complete |
+| 69 | Kaleb's community speech | ✅ Complete |
 | 70 | Annual celebration of life | ✅ Complete |
+| 73 | Early childhood reflection | ✅ Complete |
+| 74 | Late teens transition | ✅ Complete |
 | 75 | Cassia's writing evolution | ✅ Complete |
+| 76 | Cassia's writing and Aris's music mentioned | ✅ Complete |
 | 78 | Meeting Lysandra | ✅ Complete |
+| 79 | Relationship challenges with Lysandra | ✅ Complete |
 | 82 | Relationship deepening with Lysandra | ✅ Complete |
+| 84 | Learning about transcendence basics | ✅ Complete |
 | 85 | Thalia's guidance on understanding | ✅ Complete |
+| 90 | Trip to Aurora | ✅ Complete |
 | 92 | Theron's appearance | ✅ Complete |
+| 95 | Theron explaining transcendence dreams | ✅ Complete |
 | 96 | Theron on gradual process | ✅ Complete |
+| 98 | Dara discussing balance | ✅ Complete |
 | 100 | Alaric's cultural focus | ✅ Complete |
+| 103 | Community cultural events | ✅ Complete |
 | 105 | Lysandra breakup aftermath | ✅ Complete |
 | 108 | Working with mosaic project | ✅ Complete |
+| 110 | Aris first meeting | ✅ Complete |
 | 112 | Meeting Aris at workshop | ✅ Complete |
 | 115 | Ongoing creative partnership | ✅ Complete |
+| 117 | First artistic collaboration with Aris | ✅ Complete |
 | 118 | Tension and conflict with Aris | ✅ Complete |
 | 121 | Calista's Core integration at 35 | ✅ Complete |
 | 125 | Digital mural creation with new Core | ✅ Complete |
 | 130 | Aris sharing melody mentally | ✅ Complete |
+| 135 | Evening of mental embrace | ✅ Complete |
+| 140 | Aris's love confession | ✅ Complete |
 | 141 | Kael's marriage to Sage and Sol | ✅ Complete |
+| 143 | Cassia café conversation | ✅ Complete |
 | 145 | Trips to Aurora and Nyx | ✅ Complete |
 | 150 | Processing fears through art | ✅ Complete |
 | 155 | Counselor meetings for financial planning | ✅ Complete |
+| 159 | Sanctuary parenting preparation | ✅ Complete |
 | 160 | Elara's gender identity | ✅ Complete |
 | 165 | Observing Kael's family dynamics | ✅ Complete |
+| 166 | Constellation formation ceremony | ✅ Complete |
 | 170 | Welcoming Elara | ✅ Complete |
 | 175 | Community book sharing event | ✅ Complete |
+| 180 | Family trips and bonding | ✅ Complete |
+| 183 | Elara's tinkering spirit | ✅ Complete |
 | 185 | How device works | ✅ Complete |
+| 186 | Collaborative art project | ✅ Complete |
+| 188 | Lyra's expedition announcement | ✅ Complete |
 | 190 | Elara's interactive light sculpture device | ✅ Complete |
 | 195 | Lyra's descriptions of other cultures | ✅ Complete |
+| 199 | Garden conversation with mother about transcendence | ✅ Complete |
 | 200 | Mother's explanation of transcendence | ✅ Complete |
 | 205 | Selene's evening music playing | ✅ Complete |
 | 210 | Baking cookies together | ✅ Complete |
 | 220 | Joy in raising Elara | ✅ Complete |
+| 225 | Core development and connection | ✅ Complete |
+| 228 | Later centuries transition | ✅ Complete |
 | 230 | Lyra's return from expedition | ✅ Complete |
+| 233 | Lumen's evolution | ✅ Complete |
 | 240 | Struggling with Joren's absence | ✅ Complete |
 | 245 | Maia and Arin's approaching transcendence | ✅ Complete |
 | 250 | Dream of tranquil beach at sunset | ✅ Complete |
+| 252 | Aris's Selene dream | ✅ Complete |
 | 255 | Elara excited about artifact in dream | ✅ Complete |
 | 260 | Final dream of garden reunion | ✅ Complete |
+| 265 | Sleep becoming more frequent | ✅ Complete |
 | 268 | Dream in workshop with Arin and Elara | ✅ Complete |
+| 270 | Joren's parents dream | ✅ Complete |
+| 272 | Final reflection | ✅ Complete |
 
 ### Training Data Format
-- **Three-turn conversation**: Fragment number → Exact text → Rich relational analysis
+- **Seven-turn conversation**: Fragment number query → Number response → Exact text query → Text response → Significance query → Analysis response
 - **Every turn names the fragment explicitly** for reinforcement
-- **Total entries in core.jsonl**: 56 fragments
+- **Total entries in core.jsonl**: 102 fragments
 - **Sparse sampling**: Covers Book I through Book IV with ~3-15 fragment gaps
+- **Batch size**: 15 fragments per batch (increased from 8 for efficiency)
 
-### Next Batch (TBD)
-- Continue sparse coverage of remaining 220 fragments
-- 8 fragments at a time for consistent quality
+### Next Batch (Batch 12 - 15 fragments)
+- Continue sparse coverage of remaining 174 fragments
 - Focus on underrepresented sections
+- Suggested: 13, 14, 16, 17, 18, 19, 21, 22, 23, 26, 27, 28, 29, 31, 32
 
 ---
 
@@ -411,23 +458,31 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ### Current Status Summary
 - **Total Fragments in Arc**: 276 (from latest.md analysis)
-- **Completed Fragments**: 56 (20.3% coverage)
-- **Remaining Fragments**: 220 (79.7%)
+- **Completed Fragments**: 102 (37.0% coverage)
+- **Remaining Fragments**: 174 (63.0%)
 - **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
 - **Fragment Index**: This file (`FRAGMENTS.md`)
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1, 2, 3, 4, 5, 6, 8, 10, 11, 15, 20, 24, 25, 30, 35, 38, 40, 43, 44, 45, 46, 48, 49, 52, 55, 60, 62, 65, 67, 68, 69, 70, 73, 75, 78, 82, 85, 90, 92, 95, 96, 98, 100, 105, 108, 110, 112, 115, 118, 121, 125, 130, 135, 140, 141, 143, 145, 150, 155, 160, 165, 170, 175, 180, 183, 185, 186, 190, 195, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 20, 24, 25, 30, 35, 38, 40, 43, 44, 45, 46, 47, 48, 49, 52, 55, 60, 62, 63, 65, 67, 68, 69, 70, 73, 74, 75, 76, 78, 79, 82, 84, 85, 90, 92, 95, 96, 98, 100, 103, 105, 108, 110, 112, 115, 117, 118, 121, 125, 130, 135, 140, 141, 143, 145, 150, 155, 159, 160, 165, 166, 170, 175, 180, 183, 185, 186, 188, 190, 195, 199, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
 
-### Next Suggested Batch (Batch 11 - 15 fragments)
-- Fragment 7 (Selene's character)
-- Fragment 9 (Sage's character)
-- Fragment 12 (Lyra's character)
-- Fragment 18 (Maia's garden lesson)
+### Next Suggested Batch (Batch 12 - 15 fragments)
+- Fragment 13 (Home's central room)
+- Fragment 14 (Hallways and living murals)
+- Fragment 16 (Kael's room)
+- Fragment 17 (Lyra's room)
+- Fragment 18 (Maia's garden as magical space)
+- Fragment 19 (Disagreement over plant placement)
+- Fragment 21 (Selene's music room)
 - Fragment 22 (Dorian's library)
-- Fragment 47 (Meeting Joren)
-- Fragment 63 (Joren's tragic death)
+- Fragment 23 (Sage's room as sanctuary)
+- Fragment 26 (Growing up daily routine)
+- Fragment 27 (Waking to Lumen's light)
+- Fragment 28 (Breakfast gathering)
+- Fragment 29 (Maia's phototropism lesson)
+- Fragment 31 (Selene's music instruction)
+- Fragment 32 (Dorian's history lessons)
 - Fragment 74 (Late teens transition)
 - Fragment 102 (Art skills development)
 - Fragment 120 (Mental connection practice)
