@@ -471,14 +471,14 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 ### Training Data Format
 - **Seven-turn conversation**: Fragment number query → Number response → Exact text query → Text response → Significance query → Analysis response
 - **Every turn names the fragment explicitly** for reinforcement
-- **Total entries in core.jsonl**: 162 fragments
+- **Total entries in core.jsonl**: 177 fragments
 - **Sparse sampling**: Covers Book I through Book IV with ~3-15 fragment gaps
 - **Batch size**: 15 fragments per batch (increased from 8 for efficiency)
 
-### Next Batch (Batch 16 - 15 fragments)
-- Continue sparse coverage of remaining 114 fragments
-- Focus on Book II/III transitions and Book III family content
-- Suggested: 122, 123, 124, 126, 127, 128, 129, 131, 132, 133, 134, 136, 137, 138, 139
+### Next Batch (Batch 17 - 15 fragments)
+- Continue sparse coverage of remaining 99 fragments
+- Focus on Book III family/parenting content
+- Suggested: 142, 144, 146, 147, 148, 149, 151, 152, 153, 154, 156, 157, 158, 161, 162
 
 ---
 
@@ -488,16 +488,16 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ### Current Status Summary
 - **Total Fragments in Arc**: 276 (from latest.md analysis)
-- **Completed Fragments**: 162 (58.7% coverage)
-- **Remaining Fragments**: 114 (41.3%)
+- **Completed Fragments**: 177 (64.1% coverage)
+- **Remaining Fragments**: 99 (35.9%)
 - **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
 - **Fragment Index**: This file (`FRAGMENTS.md`)
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 125, 130, 135, 140, 141, 143, 145, 150, 155, 159, 160, 165, 166, 170, 175, 180, 183, 185, 186, 188, 190, 195, 199, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
+1-140 (continuous), 141, 143, 145, 150, 155, 159, 160, 165, 166, 170, 175, 180, 183, 185, 186, 188, 190, 195, 199, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
 
-### Next Suggested Batch (Batch 16 - 15 fragments)
+### Next Suggested Batch (Batch 17 - 15 fragments)
 - Fragment 61 (Joren and Cali argument)
 - Fragment 64 (Community mourning and shock)
 - Fragment 66 (Parents' consolation)
