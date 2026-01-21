@@ -1,591 +1,514 @@
-# REVIEW: Prototype Full Arc vs. Wiki Consistency Analysis
+# REVIEW: Dialogue Quality & Character Voice Analysis
 
-This document provides a comprehensive comparison of the **Astravus - Calista (Full Arc Prototype).md** against the authoritative wiki documentation. All discrepancies are identified with specific locations and corrections needed.
+This document provides a comprehensive review of dialogue quality in **latest.md** against the authoritative wiki documentation for character voice, communication style, and personality. This review follows the previous consistency analysis and focuses on whether characters speak authentically according to their established voices.
 
-**Document Purpose:** Provide a complete, executable change order to bring the prototype into full consistency with the wiki.
+**Document Purpose:** Identify dialogue issues and provide specific corrections to ensure each character's voice matches their wiki-established personality, quirks, and communication style.
 
-**Date Created:** January 21, 2026
+**Date Created:** January 21, 2026 (Updated)
+
+**Previous Review:** Basic consistency against wiki (completed)
+**Current Review:** Dialogue quality and character voice matching
 
 ---
 
 ## Table of Contents
 
-1. [Book Structure Changes](#1-book-structure-changes)
-2. [Character Role/Identity Errors](#2-character-roleidentity-errors)
-3. [Character Physical Description Inconsistencies](#3-character-physical-description-inconsistencies)
-4. [Character Profession/Title Inconsistencies](#4-character-professiontitle-inconsistencies)
-5. [Family Structure Confirmation](#5-family-structure-confirmation)
-6. [Character Parent Background Errors](#6-character-parent-background-errors)
-7. [Pronoun Inconsistencies](#7-pronoun-inconsistencies)
-8. [Missing Character Descriptions](#8-missing-character-descriptions)
-9. [Minor Narrative Inconsistencies](#9-minor-narrative-inconsistencies)
-10. [Notes Section Removal](#10-notes-section-removal)
-11. [Execution Change Order](#11-execution-change-order)
+1. [Executive Summary](#1-executive-summary)
+2. [Character Voice Standards (Wiki Reference)](#2-character-voice-standards-wiki-reference)
+3. [Parent Dialogue Issues - Book I](#3-parent-dialogue-issues---book-i)
+4. [Friendship Dialogue Issues - Book I](#4-friendship-dialogue-issues---book-i)
+5. [Growing Up Dialogue Issues - Book II](#5-growing-up-dialogue-issues---book-ii)
+6. [Family & Later Years Dialogue Issues - Books III-IV](#6-family--later-years-dialogue-issues---books-iii-iv)
+7. [Missing Quirks & Character-Specific Speech Patterns](#7-missing-quirks--character-specific-speech-patterns)
+8. [Generic Dialogue That Needs Character Voice](#8-generic-dialogue-that-needs-character-voice)
+9. [Dialogue Mechanics Issues](#9-dialogue-mechanics-issues)
+10. [Execution Change Order](#10-execution-change-order)
+11. [Appendix: Previous Consistency Review Summary](#11-appendix-previous-consistency-review-summary)
 
 ---
 
-## 1. Book Structure Changes
+## 1. Executive Summary
 
-### Issue 1.1: Book II Title and Structure
-**Prototype Current State:**
-- `# Book II` with no subtitle, followed by `## Notes` and `## Growing Up`
+### Overall Assessment
+The manuscript contains functional dialogue that advances the plot, but much of it lacks the distinctive character voices established in the wiki. Characters often speak in generic, interchangeable ways rather than with their unique speech patterns, quirks, and worldviews.
 
-**Wiki (TIMELINE.md) States:**
-- Book II: Growing Up
+### Key Findings
 
-**Correction Required:**
-- Change `# Book II` to `# Book II: Growing Up`
-- Remove or relocate the `## Notes` section (author notes shouldn't be in the narrative)
+| Issue Category | Severity | Count |
+|----------------|----------|-------|
+| Generic/Interchangeable Dialogue | High | 15+ instances |
+| Missing Character Quirks in Speech | High | 12+ instances |
+| Dialogue That Contradicts Character | Medium | 6 instances |
+| Good Character-Authentic Dialogue | ✓ Positive | 8+ instances |
+| Mechanical/Formatting Issues | Low | 4 instances |
 
-### Issue 1.2: Part III Title
-**Prototype Current State:**
-- `# Part III` with no subtitle, followed by `## Starting a Family`
+### Strengths
+- Sage's Siblings Story is well-crafted and matches wiki voice
+- Theron's transcendence explanation maintains appropriate wisdom and patience
+- Maia's garden teaching moments generally capture her nurturing tone
+- Emotional beats are present even when voice is generic
 
-**Wiki (TIMELINE.md) States:**
-- Book III: Family and Maturity
-
-**Correction Required:**
-- Change `# Part III` to `# Book III: Family and Maturity`
-
-### Issue 1.3: Missing Book IV Title
-**Prototype Current State:**
-- `## Transcendence` appears as a subsection under the Later Years content
-
-**Wiki (TIMELINE.md) States:**
-- Book IV: Transcendence (separate book)
-
-**Correction Required:**
-- Change `## Transcendence` to `# Book IV: Transcendence`
-- Optionally rename the prior section to reflect it being the end of Book III
+### Priority Areas for Revision
+1. Arin's dialogue lacks their thinking-by-building quirk and mechanical metaphors
+2. Selene's dialogue lacks her synesthetic experience and humming/musical quality
+3. Dorian's dialogue lacks his narrative/third-person storytelling tendency
+4. Kael lacks his cannot-sit-still energy and nickname-giving habit
+5. Lyra lacks her questions-in-threes quirk
+6. Cassia lacks her narrates-own-actions and writes-on-hands quirks
 
 ---
 
-## 2. Character Role/Identity Errors
+## 2. Character Voice Standards (Wiki Reference)
 
-### Issue 2.1: Joren's Mother Soren - Mural Attribution Error
-**Prototype States (~line 512):**
-> "Joren's death left an indelible mark on Lumen. The vibrant murals his mother, **Soren**, had painted took on new layers of meaning"
+### Parent Voices
 
-**Wiki (CHARACTERS.md) States:**
-- Joren's mother **Soren** is an "Emergency Response and Safety Systems Designer," NOT an artist
-- Murals are made by **Thalia** (Cassia's mother), who creates murals as "meditative practice"
+#### Maia (Ecological Systems Designer)
+**Wiki Voice Characteristics:**
+- Uses nature and plant metaphors constantly
+- Talks TO plants, not just about them
+- Philosophical about growth and patience
+- Warm, gentle tone with wonder at natural processes
+- Cannot sit still indoors—prefers walking meetings
 
-**Correction Required:**
-Remove the attribution of murals to Soren.
+**Sample Canonical Voice (from wiki dialogue):**
+> "It's called phototropism, little one. Plants grow toward light because light is their food, their energy, their life."
+> *(to the plant)* "You're working so hard, aren't you? Stretching toward what you need."
+
+---
+
+#### Arin (Biomechanical Interface Designer)
+**Wiki Voice Characteristics:**
+- Speaks in mechanical metaphors ("like gears clicking into place")
+- Concise, practical, warm but not flowery
+- Hums while thinking—this should be noted in dialogue scenes
+- Thinks by building—often fidgets with small objects while talking
+- Uses problem-solving language ("troubleshooting," "systems," "reinforcing")
+
+**Sample Canonical Voice (from wiki dialogue):**
+> "Cali, look at me. Mistakes happen. Even the best machines break down sometimes—that's how we learn what needs reinforcing. The important thing isn't the fall. It's what we build after."
+> *(chuckling—a sound like gears clicking into place)*
+
+---
+
+#### Selene (Acoustic Architect)
+**Wiki Voice Characteristics:**
+- Speaks with musical quality—almost singing words
+- Hums between sentences
+- Experiences sound as color (synesthesia)—references this in conversation
+- Dreamy, flowing speech pattern
+- Uses musical metaphors
+
+**Sample Canonical Voice (from wiki dialogue):**
+> *(almost singing the words)* "Do you see how it shines? Music lives inside, waiting to wake up. Like a dream that hasn't been dreamed yet."
+> "When I hear music, I see colors. That note you played—it was pale blue, like morning sky."
+
+---
+
+#### Dorian (Oral Historian)
+**Wiki Voice Characteristics:**
+- Deep, resonant voice that commands attention
+- Sometimes narrates in third person ("And so, the historian gathered his young listeners...")
+- Makes history vivid and dramatic, never dry
+- Pauses for effect
+- Uses "memory palace" thinking—may pause to "walk through" memories
+
+**Sample Canonical Voice (from wiki dialogue):**
+> "And so, the historian gathered his young listeners close, for tonight... *(dramatic pause)* ...they would hear of the great explorers of our past."
+> "A traveler who does not know the past is merely lost. A traveler who carries history with them? They are never alone."
+
+---
+
+#### Sage (Transition Counselor)
+**Wiki Voice Characteristics:**
+- Voice like warm tea—soothing, unhurried
+- Asks questions rather than lecturing
+- Uses physical comfort (touch, warmth) alongside words
+- Collects "worried thoughts" as physical objects
+- Speaks slowly, gives words room to breathe
+
+**Sample Canonical Voice (from wiki dialogue):**
+> *(voice like warm tea, soothing and unhurried)* "Mmm. That was a difficult moment, wasn't it? How are you feeling now, little one?"
+> "Do you know what helps when we're feeling tangled up inside?"
+
+---
+
+### Sibling Voices
+
+#### Kael (Older Brother)
+**Wiki Voice Characteristics:**
+- Cannot stay still while talking—paces, fidgets
+- Gives nicknames to everything
+- Energetic, enthusiastic speech
+- More gold than green in expression (warm, bright)
+- Leads with action and adventure
+
+**Quirks That Should Appear:**
+- Should use nicknames for people/places
+- Should be described as moving while speaking
+- Collects small stones—might fidget with pebbles
+
+---
+
+#### Lyra (Younger Sister)
+**Wiki Voice Characteristics:**
+- Asks questions in threes (every query has two follow-ups)
+- Maps everything—spatial awareness in speech
+- Perpetually curious expression in voice
+- Small and spritely energy in speech patterns
+- Golden freckles and emerald eyes convey wonder
+
+**Quirks That Should Appear:**
+- Questions should come in triplets
+- References to mapping/spatial thinking
+- Endless curiosity even in casual conversation
+
+---
+
+### Friendship Voices
+
+#### Cassia (Storyteller/Author)
+**Wiki Voice Characteristics:**
+- Light, musical voice perfect for storytelling
+- Narrates her own actions when alone
+- Cannot throw anything away—mentions keeping mementos
+- Writes on her hands—notes and story ideas
+- Draws listeners in with narrative quality
+
+**Quirks That Should Appear:**
+- Should occasionally narrate in storytelling mode
+- Reference to notes on hands or keeping small items
+- Voice described as musical/melodic
+
+---
+
+#### Joren (Adventurer)
+**Wiki Voice Characteristics:**
+- Bundle of energy—speech reflects this
+- Infectious laugh that comes from his whole body
+- Fair, ruddy complexion shows emotion easily
+- Gap between teeth adds to boyish charm
+- Natural leader in speech
+
+---
+
+## 3. Parent Dialogue Issues - Book I
+
+### Issue 3.1: Arin's Workshop Scene Lacks Mechanical Voice
+**Location:** ~Lines 127-133
 
 **Current Text:**
-> "Joren's death left an indelible mark on Lumen. The vibrant murals his mother, Soren, had painted took on new layers of meaning, blending sorrow and beauty."
+> "Mistakes happen, Calista. The important thing is to learn from them."
+> "You didn't ruin it," Arin reassured me. "You just gave us a chance to make it better. Let's fix it together."
 
-**Corrected Text:**
-> "Joren's death left an indelible mark on Lumen. The murals that adorned our community spaces took on new layers of meaning, blending sorrow and beauty."
+**Problem:** This is generic parenting language. Wiki Arin speaks in mechanical metaphors, uses terms like "troubleshooting," and should be humming or fiddling with something.
 
-### Issue 2.2: Theron's Role (Confirmed Correct)
-**Prototype Notes Section States:**
-> "Should change Theron to a grandparent or something."
-
-**Wiki (bios/Theron.md) States:**
-- Theron is correctly portrayed as a 400-year-old elder from Aurora, NOT a family member
-- He is a "wisdom keeper" and mentor
-
-**Status:** The prototype NARRATIVE is correct per wiki. Only the author notes suggest a change that was NOT and SHOULD NOT be implemented. The notes section should be removed.
-
-### Issue 2.3: Sage's Dual Role (Confirmed Correct)
-**Prototype States:**
-- Sage is one of Calista's five parents
-- Kael later forms constellation with Sage and Sol
-
-**Wiki Confirms:**
-- This is CORRECT. Sage serves both roles.
-
-**Status:** No correction needed.
+**Suggested Revision:**
+> *Arin stopped humming—the rhythmic tune they made while working—and surveyed the mess.*
+> "That's quite a spread," they said, already sorting pieces with practiced efficiency. "Could use a system for this."
+> "But I ruined your work," I said, my voice small.
+> "Cali, look at me." Their voice was steady—practical, but kind. "Mistakes happen. Even the best machines break down sometimes—that's how we learn what needs reinforcing. The important thing isn't the fall. It's what we build after."
 
 ---
 
-## 3. Character Physical Description Inconsistencies
+### Issue 3.2: Selene's Music Lesson Lacks Synesthetic Quality
+**Location:** ~Lines 137-145
 
-### Issue 3.1: Maia's Hair Description
-**Prototype States (~line 39):**
-> "long, curly hair that she often adorned with flowers from her garden"
+**Current Text:**
+> "Come sit with me, Cali," Selene invited one evening, patting the seat next to her by the piano.
+> "Try playing this melody."
+> "Beautiful," Selene praised. "Music speaks to the heart. You just have to listen."
 
-**Wiki (bios/Maia.md) States:**
-> "long, curly hair containing small braids with seeds and dried flowers woven in"
+**Problem:** This is functional but generic. Wiki Selene hums between phrases, experiences sound as color, and speaks with an almost singing quality.
 
-**Correction:**
-Change to: "long, curly hair containing small braids woven with seeds and dried flowers"
-
-### Issue 3.2: Arin's Hair Color
-**Prototype States (~line 43):**
-> "short-cropped dark hair"
-
-**Wiki (bios/Arin.md) States:**
-> "short-cropped auburn hair (not quite brown, not quite red)"
-
-**Correction:**
-Change "dark hair" to "auburn hair"
-
-### Issue 3.3: Selene's Hair Color
-**Prototype States (~line 46):**
-> "flowing silver hair"
-
-**Wiki (bios/Selene.md) States:**
-> "pure white hair (premature, genetic, started at 30)"
-
-**Correction:**
-Change "silver hair" to "white hair"
-
-### Issue 3.4: Sage's Eye Description
-**Prototype States (~line 52):**
-> "soft, kind eyes"
-
-**Wiki (CHARACTERS.md) States:**
-> "Gray eyes that seem to change shade with the light—sometimes pale silver, sometimes deep storm"
-
-**Correction:**
-Change to: "soft gray eyes that seemed to change shade with the light"
-
-### Issue 3.5: Missing Skin Descriptions (Enhancement)
-The wiki provides detailed skin descriptions for all characters that are not in the prototype:
-
-| Character | Wiki Skin Description | Status in Prototype |
-|-----------|----------------------|---------------------|
-| Maia | "warm brown skin" | ✅ Present |
-| Arin | "Pale, freckled skin that flushes easily" | ❌ Missing |
-| Selene | "Deep bronze skin" | ❌ Missing |
-| Dorian | "rich dark skin" | ❌ Missing |
-| Sage | "Warm tan skin with rosy undertones" | ❌ Missing |
-
-**Optional Enhancement:**
-Add missing skin descriptions to match wiki richness.
-
-### Issue 3.6: Missing Maia Eye Color (Enhancement)
-**Wiki States:**
-> "Her eyes are a rich amber, flecked with green"
-
-**Status:** Not in prototype. Consider adding.
+**Suggested Revision:**
+> "Come sit with me, Cali," Selene hummed, her voice melodic even in speech, patting the seat beside her at the piano.
+> She placed a small flute in my hands, turning it in the light. "Do you see how it shines? Music lives inside, waiting to wake up."
+> I took a breath and played. The notes were shaky at first.
+> Selene's eyes half-closed as she listened. "There—do you hear that color? Pale blue, like morning sky. A little shy, a little soft. But beautiful."
+> "Music speaks to the heart, little one. You just have to listen—and let yourself feel what the sounds are saying."
 
 ---
 
-## 4. Character Profession/Title Inconsistencies
+### Issue 3.3: Dorian's Storytime Lacks Theatrical Narration
+**Location:** ~Lines 147-155
 
-### Issue 4.1: Maia's Profession
-**Prototype (~line 38):** "Maia, a botanist"
-**Wiki:** "Ecological Systems Designer; Botanist"
-**Correction:** Change to "Maia, an ecological systems designer"
+**Current Text:**
+> "Tonight, we'll hear about the great explorers of our past," Dorian announced, holding up an ancient map.
+> Kael's eyes sparkled with excitement. "Can we follow their routes one day?"
+> "Perhaps," Dorian replied with a smile. "But first, let's learn their stories."
 
-### Issue 4.2: Arin's Profession
-**Prototype (~line 42):** "Arin, an engineer"
-**Wiki:** "Biomechanical Interface Designer; Engineer"
-**Correction:** Change to "Arin, a biomechanical interface designer"
+**Problem:** This is adequate but misses Dorian's distinctive third-person narration style and dramatic pauses.
 
-### Issue 4.3: Selene's Profession
-**Prototype (~line 45):** "Selene, a musician"
-**Wiki:** "Acoustic Architect; Musician"
-**Correction:** Change to "Selene, an acoustic architect"
-
-### Issue 4.4: Dorian's Profession
-**Prototype (~line 48):** "Dorian, a historian"
-**Wiki:** "Oral Historian; Personal Testimony Specialist"
-**Correction:** Change to "Dorian, an oral historian"
-
-### Issue 4.5: Sage's Profession
-**Prototype (~line 51):** "Sage, the caregiver"
-**Wiki:** "Transition Counselor; Caregiver"
-**Correction:** Change to "Sage, a transition counselor"
+**Suggested Revision:**
+> Dorian stood at the head of the table, his broad hands resting on the map's edges. When he spoke, his voice seemed to rise from somewhere deep—like the rumble of Lumen's heart.
+> "And so, the historian gathered his young listeners close, for tonight—" He paused dramatically, letting the silence build. "—they would hear of the great explorers of our past."
+> Kael's eyes sparkled. "Can we follow their routes one day?"
+> Dorian smiled, his eyes twinkling with the thrill of storytelling. "Perhaps. But first, we must learn their stories. A traveler who does not know the past is merely lost. A traveler who carries history with them? They are never alone."
 
 ---
 
-## 5. Family Structure Confirmation
+### Issue 3.4: Sage's Scenes Generally Good But Could Be Enhanced
+**Location:** Various in Book I
 
-### Verified Correct in Prototype:
-- ✅ Five-parent constellation (Maia, Arin, Selene, Dorian, Sage)
-- ✅ Kael is Calista's older brother
-- ✅ Lyra is Calista's younger sister
-- ✅ Elara is Calista and Aris's only child
-- ✅ Kael later forms constellation with Sage and Sol
-- ✅ Constellation terminology used correctly
-
-**Status:** Family structure in prototype matches wiki. No corrections needed.
+**Assessment:** The Siblings Story scene is well-written and matches wiki voice. However, other Sage scenes could add more of their soothing, question-based approach.
 
 ---
 
-## 6. Character Parent Background Errors
+### Issue 3.5: Maia's Phototropism Scene Partially Good
+**Location:** ~Lines 252-260
 
-### Issue 6.1: Thalia's Profession (Cassia's Mother)
-**Prototype States (~line 278-282):**
-> "Her mother, Thalia, was an elegant woman with an artist's soul. She had an aura of serenity and grace, often dressed in flowing clothes splattered with paint. Thalia's eyes mirrored the same deep green as Cassia's, a testament to their close bond. She was known for the beautiful murals that adorned the walls of Lumen, transforming everyday spaces into vibrant scenes of wonder and imagination."
+**Problem:** Functional but misses Maia's quirk of talking TO plants. Wiki Maia asks plants their opinions and thanks them.
 
-**Wiki (CHARACTERS.md) States:**
-> "Community mediator and conflict resolver (art is her hobby, not profession); elegant woman of medium height with warm sienna skin, high cheekbones, and deep green eyes like Cassia; silver threads through her dark hair, worn in an intricate updo; moves with deliberate calm that puts others at ease; helps families and individuals navigate disputes; her murals are meditative practice"
-
-**Corrections Required:**
-1. Change profession from artist to community mediator
-2. Remove "splattered with paint" (she'd be clean for her work)
-3. Add "warm sienna skin" and "silver threads through her dark hair"
-4. Clarify murals are personal practice, not profession
-
-**Corrected Text:**
-> "Her mother, Thalia, was an elegant woman of medium height with warm sienna skin and silver threads through her dark hair, worn in an intricate updo. She worked as a community mediator and conflict resolver, helping families navigate disputes. In her personal time, she created beautiful murals as a meditative practice, transforming everyday spaces into vibrant scenes of wonder and imagination. Thalia's deep green eyes mirrored Cassia's, a testament to their close bond."
-
-### Issue 6.2: Lyron's Profession (Cassia's Father)
-**Prototype States (~line 285-288):**
-> "Cassia's father, Lyron, was a tall man with a gentle demeanor. His salt-and-pepper hair and kind, hazel eyes gave him an air of wisdom and warmth. Lyron was a historian with a passion for sharing tales of our ancestors and the wonders of the cosmos."
-
-**Wiki (CHARACTERS.md) States:**
-> "Agricultural systems manager with copper-brown skin weathered by outdoor work, salt-and-pepper hair, a square jaw, and kind hazel eyes; tall with broad hands and an easy smile; manages Lumen's food production and distribution; practical, logistical work that keeps community fed; shares history as amateur interest (bonds with Dorian over this)"
-
-**Corrections Required:**
-1. Change profession from historian to agricultural systems manager
-2. Add "copper-brown skin weathered by outdoor work"
-3. History is hobby, not profession
-
-**Corrected Text:**
-> "Cassia's father, Lyron, was a tall, rugged man with copper-brown skin weathered by years of outdoor work, salt-and-pepper hair, and kind hazel eyes. He managed Lumen's food production and distribution, but his true passion was history. Through their shared love of the past, Lyron and my father Dorian became close friends, often spending hours exchanging tales of our ancestors and the wonders of the cosmos."
-
-### Issue 6.3: Soren's Profession (Joren's Mother)
-**Prototype States (~line 308-311):**
-> "His mother, Soren, was a dynamic woman with a quick mind and nimble fingers, always dressed in practical work clothes smudged with grease and oil from her latest projects... Soren designed many of the systems that kept Lumen running smoothly, her workshop a testament to her ingenuity, filled with blueprints, tools, and half-finished inventions."
-
-**Wiki (CHARACTERS.md) States:**
-> "Emergency Response and Safety Systems Designer; athletic woman... designed many of Lumen's safety systems—systems that ironically couldn't save her son"
-
-**Correction:**
-Change "systems that kept Lumen running smoothly" to "emergency response and safety systems"
-
-**Corrected Text:**
-> "Soren designed many of Lumen's emergency response and safety systems, her workshop a testament to her ingenuity, filled with blueprints, tools, and half-finished inventions."
+**Suggested Enhancement:**
+> Maia knelt beside the pot, stroking one of the seedling's leaves with gentle fingers. "You're working so hard, aren't you?" she murmured to the plant. "Stretching toward what you need."
 
 ---
 
-## 7. Pronoun Inconsistencies
+## 4. Friendship Dialogue Issues - Book I
 
-### Issue 7.1: Aris Uses He/Him (Not They/Them)
-**Prototype Uses:** "they/them" pronouns for Aris throughout
+### Issue 4.1: Treehouse Conflict Dialogue Is Functional But Flat
+**Location:** ~Lines 449-458
 
-**Wiki (bios/Aris.md) Uses:** "he/him" pronouns
-- Referred to as "father" not "parent"
-- Wiki text consistently uses "his," "he," "him"
+**Current Text:**
+> "You always want to be in charge, Joren!" I snapped, frustration bubbling up inside me.
+> "And you always think your ideas are better!" he shot back, his face flushing with anger.
+> Cassia, sensing the tension, tried to mediate. "Hey, let's calm down," she said gently.
 
-**Correction Required:**
-Change ALL Aris pronouns from they/them to he/him throughout the document.
+**Problem:** These could be ANY characters. Missing: Joren's physical energy, Cassia's storytelling voice.
 
-**Examples to change:**
-- "Aris brought their digital piano" → "Aris brought his digital piano"
-- "their eyes sparkling" → "his eyes sparkling"
-- "they said" → "he said"
-- "them" (referring to Aris) → "him"
-
-**Scope:** This affects numerous lines throughout Book II, III, and IV.
-
-### Issue 7.2: Lyra Uses She/Her (Confirmed in Wiki)
-**Prototype Uses:** Some instances of "they/them" for Lyra (e.g., "their curiosity")
-
-**Wiki (bios/Lyra.md) Uses:** "she/her" pronouns consistently
-
-**Correction Required:**
-Review all Lyra references and ensure she/her pronouns are used throughout.
-
-### Issue 7.3: Arin and Sage Use They/Them (Confirmed Correct)
-Both prototype and wiki use they/them for Arin and Sage.
-**Status:** No correction needed.
+**Suggested Revision:**
+> "You always want to be in charge, Joren!" I snapped.
+> His face flushed red—his fair, ruddy skin always showed his emotions. "And you always think your ideas are better!"
+> Cassia stepped between us, her voice taking on that calm, story-like quality. "Hey, hey. Let's take a breath. We're a team, remember? Even the heroes in stories disagree sometimes—but they find a way."
 
 ---
 
-## 8. Missing Character Descriptions
+### Issue 4.2: Lyra's Dialogue Lacks Questions-in-Threes Quirk
+**Location:** Throughout Book I
 
-### Issue 8.1: Aris Has No Physical Description at Introduction
-**Prototype Issue:**
-When Aris is introduced (~line 680), no physical description is provided.
+**Problem:** Wiki states Lyra "asks questions in threes—every query comes with two follow-ups." This distinctive pattern never appears.
 
-**Wiki (bios/Aris.md) States:**
-> "compact, muscular build... rich black hair worn in long locs, often tied back... warm brown skin with reddish undertones... distinctive heterochromia—left eye dark brown, right eye hazel-green... wide, expressive mouth... small scar on chin"
+**Example Generic Dialogue:**
+> "Cali, why do you always go off with them? You never play with me anymore," she said.
 
-**Correction Required:**
-Add physical description when Aris is first introduced.
-
-**Insert after "I met Aris at one of my art workshops":**
-> "Aris had a compact, muscular build, with rich black hair worn in long locs that he often tied back while working. His warm brown skin had reddish undertones, and what struck me most were his eyes—distinctive heterochromia gave him one dark brown eye and one hazel-green, creating a memorable and striking appearance."
-
-### Issue 8.2: Elara's Heterochromia Not Mentioned
-**Wiki (bios/Elara.md) States:**
-> "Elara inherits her father Aris's distinctive heterochromia but reversed—her right eye is dark brown while her left eye is hazel-green. She has Calista's freckle pattern but more pronounced."
-
-**Correction Required:**
-When describing Elara as an adult (around lines 950-960), add:
-> "Elara had inherited her father's distinctive heterochromia but reversed—her right eye was dark brown while her left was hazel-green. My freckle pattern showed more pronounced on her face, scattered generously across her cheeks and nose."
+**Suggested Revision:**
+> "Cali, why do you always go off with them? Don't you want to play with me anymore? Is it because I'm too little?" Her voice quivered, the questions tumbling out in her usual way.
 
 ---
 
-## 9. Minor Narrative Inconsistencies
+### Issue 4.3: Kael's Dialogue Lacks Energy and Movement
+**Location:** Throughout Book I
 
-### Issue 9.1: Lysandra "Composed a Song"
-**Prototype States (~line 610-612):**
-> "There were moments of pure joy, like when Lysandra composed a song just for me, her fingers dancing across the keys of a digital piano."
+**Problem:** Wiki states Kael "cannot stay still while talking." This is never shown in dialogue tags.
 
-**Wiki (CHARACTERS.md - Lysandra) States:**
-> "Primary passion is mathematics and pattern recognition... Fascinated with the mathematics underlying music rather than performing it"
-
-**Correction Required:**
-Lysandra wouldn't "compose a song" in the traditional sense. Reframe to match her mathematical nature.
-
-**Corrected Text:**
-> "There were moments of pure joy, like when Lysandra created a mathematical sequence just for me—a pattern that, when translated into sound through a digital piano, revealed a hauntingly beautiful melody hidden in the numbers."
-
-### Issue 9.2: Event file inconsistency reference in TIMELINE - "Lysandra's Song"
-**TIMELINE.md States:**
-> "[Lysandra's Song](events/Lysandras-Song.md) | Lysandra composes a song for Calista"
-
-**Status:** This should also be corrected in TIMELINE.md and the event file, but that's outside the prototype scope. Note for wiki consistency work.
+**Suggested Revision:**
+> "So—" Kael was already pacing around the breakfast table, unable to sit still. "I dreamt I was exploring a hidden cave filled with glowing crystals!" He grabbed a piece of bread, gesturing with it as he spoke.
 
 ---
 
-## 10. Notes Section Removal
+## 5. Growing Up Dialogue Issues - Book II
 
-### Issue 10.1: Author Notes Embedded in Narrative
-**Prototype Contains (~lines 577-605):**
-An entire `## Notes` section with author meta-commentary including:
-- "I changed Aerin's name to Sage"
-- "I added fur babies"
-- "Should change Theron to a grandparent or something"
-- Discussion of "utamn" and "shaari" concepts
-- Ideas about nanomachines
+### Issue 5.1: Theron's Voice Is Good But Could Be Richer
+**Location:** ~Lines 593-630
 
-**Correction Required:**
-Remove the entire `## Notes` section from the narrative. This is meta-commentary that should not be part of the story text.
-
-**Action:**
-Delete from `## Notes` through to `## Growing Up`
-
-**Preservation:**
-Content could be moved to CHANGEIDEAS.md or a separate planning document.
+**Assessment:** The Theron conversation is one of the better dialogue sections. It captures his wisdom and patience. Could add more deliberate gestures and voice quality notes.
 
 ---
 
-## 11. Execution Change Order
+### Issue 5.2: Lysandra's Mathematical Quirks Missing
+**Location:** ~Lines 571-580
 
-This section provides the complete, ordered list of changes to execute. Each change includes the specific text to find and replace.
+**Problem:** Wiki Lysandra "sees mathematical patterns everywhere" and "writes equations on any available surface."
 
----
-
-### Phase 1: Structural Changes (3 changes)
-
-#### Change 1.1: Book II Title
-**Find:** `# Book II`
-**Replace with:** `# Book II: Growing Up`
-
-#### Change 1.2: Part III Title
-**Find:** `# Part III`
-**Replace with:** `# Book III: Family and Maturity`
-
-#### Change 1.3: Book IV Title
-**Find:** `## Transcendence` (the one at the end of Later Years section)
-**Replace with:** `# Book IV: Transcendence`
+**Suggested Enhancement:**
+> Lysandra's pale gray eyes had that distant look they got when seeing patterns invisible to others. Her fingers traced an invisible equation on the armrest—a habit I'd come to find endearing.
 
 ---
 
-### Phase 2: Remove Notes Section (1 change)
+### Issue 5.3: Cassia's Adult Voice Lacks Author Quality
+**Location:** ~Lines 636-650
 
-#### Change 2.1: Delete Author Notes
-**Delete the following section entirely (approximately lines 577-605):**
-Starting from:
-```
-## Notes
+**Problem:** Adult Cassia is a successful author. Her speech should have evolved to include more narrative awareness.
 
-Among other things, I changed Aerin's name to Sage...
-```
-Through to (but not including):
-```
-## Growing Up
-```
+**Suggested Enhancement:**
+> Cassia looked at me, and I noticed ink stains on her fingers—notes and story ideas, as always.
+> "Cali, I'm sorry," she said. "I've been so deep in other people's stories that I almost forgot to tend our own."
 
 ---
 
-### Phase 3: Parent Profession Corrections (5 changes)
+### Issue 5.4: Aris's Introduction Needs More Musician Voice
+**Location:** ~Lines 705-725
 
-#### Change 3.1: Maia's Profession
-**Find:** `Maia, a botanist, had a profound love for vibrant, living things`
-**Replace with:** `Maia, an ecological systems designer, had a profound love for vibrant, living things`
+**Problem:** Wiki Aris "composes for specific people," "talks to instruments." His speech should reflect a musician's sensibility.
 
-#### Change 3.2: Arin's Profession
-**Find:** `Arin, an engineer, could fix anything with skillful precision`
-**Replace with:** `Arin, a biomechanical interface designer, could fix anything with skillful precision`
-
-#### Change 3.3: Selene's Profession
-**Find:** `Selene, a musician, created melodies that soothed any trouble`
-**Replace with:** `Selene, an acoustic architect, created melodies that soothed any trouble`
-
-#### Change 3.4: Dorian's Profession
-**Find:** `Dorian, a historian, kept the stories of our people alive`
-**Replace with:** `Dorian, an oral historian, kept the stories of our people alive`
-
-#### Change 3.5: Sage's Profession
-**Find:** `Finally Sage, the caregiver, had a nurturing presence`
-**Replace with:** `Finally Sage, a transition counselor, had a nurturing presence`
+**Suggested Enhancement:**
+> Aris ran his fingers over the piano keys one more time, almost thanking the instrument. "It's like... the music was *for* you. I can never write in the abstract—every piece has to be for someone."
 
 ---
 
-### Phase 4: Physical Description Corrections (4 changes)
+## 6. Family & Later Years Dialogue Issues - Books III-IV
 
-#### Change 4.1: Maia's Hair
-**Find:** `long, curly hair that she often adorned with flowers from her garden`
-**Replace with:** `long, curly hair containing small braids woven with seeds and dried flowers from her work`
+### Issue 6.1: Kael's Parenting Advice Lacks His Physical Energy
+**Location:** ~Lines 900-910
 
-#### Change 4.2: Arin's Hair Color
-**Find:** `With short-cropped dark hair, sharp blue eyes`
-**Replace with:** `With short-cropped auburn hair, sharp blue eyes`
-
-#### Change 4.3: Selene's Hair Color
-**Find:** `with her flowing silver hair and piercing violet eyes`
-**Replace with:** `with her flowing white hair and piercing violet eyes`
-
-#### Change 4.4: Sage's Eyes
-**Find:** `With soft, kind eyes and a gentle smile`
-**Replace with:** `With soft gray eyes that seemed to change shade with the light, and a gentle smile`
+**Suggested Enhancement:**
+> Kael was up and moving even while serving the stew, circling the table in his usual restless way. "There's no one-size-fits-all approach to parenting," he said, setting down bowls without breaking stride.
 
 ---
 
-### Phase 5: Cassia's Parents Corrections (2 changes)
+### Issue 6.2: Grandparent Scenes Are Functional But Generic
+**Location:** ~Lines 990-1100
 
-#### Change 5.1: Thalia's Description and Profession
-**Find:**
-```
-Her mother, Thalia, was an elegant woman with an artist's soul. She had an aura of serenity and grace, often dressed in flowing clothes splattered with paint. Thalia's eyes mirrored the same deep green as Cassia's, a testament to their close bond. She was known for the beautiful murals that adorned the walls of Lumen, transforming everyday spaces into vibrant scenes of wonder and imagination.
-```
+**Assessment:** The grandparent-Elara scenes are present but most lack the distinctive quirks of each grandparent.
 
-**Replace with:**
-```
-Her mother, Thalia, was an elegant woman of medium height with warm sienna skin and silver threads through her dark hair, worn in an intricate updo. She worked as a community mediator and conflict resolver, helping families navigate disputes with deliberate calm. In her personal time, she created beautiful murals as a meditative practice, transforming everyday spaces into vibrant scenes of wonder and imagination. Thalia's deep green eyes mirrored Cassia's, a testament to their close bond.
-```
-
-#### Change 5.2: Lyron's Description and Profession
-**Find:**
-```
-Cassia's father, Lyron, was a tall man with a gentle demeanor. His salt-and-pepper hair and kind, hazel eyes gave him an air of wisdom and warmth. Lyron was a historian with a passion for sharing tales of our ancestors and the wonders of the cosmos. His voice was deep and soothing, capable of turning even the most mundane events into captivating stories.
-```
-
-**Replace with:**
-```
-Cassia's father, Lyron, was a tall, rugged man with copper-brown skin weathered by outdoor work, salt-and-pepper hair, and kind hazel eyes that gave him an air of wisdom and warmth. He managed Lumen's food production and distribution, but his true passion was history. Through their shared love of the past, Lyron and my father Dorian became close friends, and his deep, soothing voice could turn even the most mundane events into captivating stories.
-```
+- **Maia:** Needs plant-talking
+- **Arin:** Needs humming, mechanical metaphors
+- **Selene:** Needs synesthesia, humming
+- **Dorian:** Story of Thalia works well
+- **Sage:** Could add warmth (temperature), question-based approach
 
 ---
 
-### Phase 6: Joren's Family Corrections (2 changes)
+### Issue 6.3: Elara's Voice Needs Engineering Quirks
+**Location:** ~Lines 1055-1080
 
-#### Change 6.1: Soren's Profession
-**Find:** `Soren designed many of the systems that kept Lumen running smoothly`
-**Replace with:** `Soren designed many of Lumen's emergency response and safety systems`
+**Problem:** Wiki Elara "disassembles everything," "counts steps obsessively."
 
-#### Change 6.2: Remove Soren Mural Attribution
-**Find:** `Joren's death left an indelible mark on Lumen. The vibrant murals his mother, Soren, had painted took on new layers of meaning, blending sorrow and beauty.`
-**Replace with:** `Joren's death left an indelible mark on Lumen. The murals that adorned our community spaces took on new layers of meaning, blending sorrow and beauty.`
+**Suggested Enhancement:**
+> "Took me forty-seven iterations to get the sensor calibration right. Forty-seven! But I finally cracked it."
 
 ---
 
-### Phase 7: Lysandra Scene Correction (1 change)
+### Issue 6.4: Lyra's Return Dialogue Missing Her Quirks
+**Location:** ~Lines 1090-1110
 
-#### Change 7.1: Lysandra's Gift
-**Find:** `like when Lysandra composed a song just for me, her fingers dancing across the keys of a digital piano`
-**Replace with:** `like when Lysandra created a mathematical sequence just for me—a pattern that, when translated into sound through a digital piano, revealed a hauntingly beautiful melody hidden in the numbers`
-
----
-
-### Phase 8: Aris Pronoun Corrections (Bulk Replace)
-
-**Instruction:** Throughout the entire document, change Aris's pronouns from they/them to he/him.
-
-This requires a careful pass through all Aris-related text. Key patterns to find and replace:
-
-| Find | Replace |
-|------|---------|
-| `Aris brought their` | `Aris brought his` |
-| `their digital piano` (when Aris's) | `his digital piano` |
-| `Aris smiled, their eyes` | `Aris smiled, his eyes` |
-| `Aris said, their` | `Aris said, his` |
-| `they were` (referring to Aris alone) | `he was` |
-| `they had` (referring to Aris alone) | `he had` |
-| `with them` (referring to Aris alone) | `with him` |
-| `told them` (referring to Aris alone) | `told him` |
-
-**Note:** Be careful not to change pronouns in sentences about both Aris AND another person, or where "they" refers to Arin or Sage.
-
-**Estimated instances:** 20-30 pronoun changes throughout Book II, III, and IV.
+**Suggested Enhancement:**
+> Her pockets still bulged with small items—samples, souvenirs, probably a dozen maps she'd drawn by hand. "Where do I even start? What do you want to hear first? Should I show you what I brought back?"
 
 ---
 
-### Phase 9: Add Missing Descriptions (2 insertions)
+## 7. Missing Quirks & Character-Specific Speech Patterns
 
-#### Change 9.1: Add Aris Physical Description
-**Find:** `I met Aris at one of my art workshops. They were a skilled musician`
-**Replace with:** 
-```
-I met Aris at one of my art workshops. He had a compact, muscular build, with rich black hair worn in long locs that he often tied back while working. His warm brown skin had reddish undertones, and what struck me most were his eyes—distinctive heterochromia gave him one dark brown eye and one hazel-green, creating a memorable and striking appearance. Aris was a skilled musician
-```
+### 7.1 Quirks That Should Appear But Don't
 
-#### Change 9.2: Add Elara's Heterochromia
-**Find a passage describing Elara as an adult** (around the "75th year" mention) **and insert:**
-> "Elara had inherited her father's distinctive heterochromia but reversed—her right eye was dark brown while her left was hazel-green. My freckle pattern showed more pronounced on her face, scattered generously across her cheeks and nose."
-
----
-
-### Phase 10: Optional Enhancements
-
-These changes are not strictly required but would bring the prototype into fuller alignment with wiki details:
-
-1. **Add Selene's bronze skin:** Before "white hair" add "deep bronze skin contrasting with her"
-2. **Add Selene's height:** Note she is "petite—the shortest of our five parents"
-3. **Add Arin's skin:** Add "pale, freckled skin that flushed when they were excited"
-4. **Add Dorian's skin:** Add "rich dark skin"
-5. **Add Maia's eye color:** Add "Her eyes were a rich amber, flecked with green"
-6. **Add character quirks** throughout narrative to match wiki
+| Character | Wiki Quirk | Status |
+|-----------|-----------|--------|
+| Maia | Talks to plants constantly | ❌ Missing |
+| Maia | Cannot sit still indoors | ❌ Missing |
+| Arin | Hums while working | ❌ Missing |
+| Selene | Sees music as colors | ❌ Missing |
+| Dorian | Third-person narration style | ❌ Missing |
+| Sage | Collects "worried thoughts" | ❌ Missing |
+| Kael | Cannot stay still while talking | ❌ Missing |
+| Kael | Gives nicknames to everything | ❌ Missing |
+| Lyra | Asks questions in threes | ❌ Missing |
+| Cassia | Narrates own actions | ❌ Missing |
+| Cassia | Writes on her hands | ❌ Missing |
+| Aris | Talks to instruments | ❌ Missing |
+| Elara | Disassembles everything | ❌ Missing |
+| Elara | Counts steps obsessively | ❌ Missing |
 
 ---
 
-## Summary Statistics
+### 7.2 Speech Pattern Analysis
 
-| Category | Issues Found | Changes Required |
-|----------|-------------|------------------|
-| Book Structure | 3 | 3 |
-| Character Roles | 1 | 1 |
-| Physical Descriptions | 4 critical, 6 optional | 4 required, 6 optional |
-| Character Professions | 5 | 5 |
-| Cassia's Parents | 2 | 2 |
-| Joren's Parents | 2 | 2 |
-| Pronouns (Aris) | 1 pattern | ~25-30 instances |
-| Missing Descriptions | 2 | 2 insertions |
-| Notes Section | 1 | 1 deletion |
-| Lysandra Scene | 1 | 1 |
-| **TOTAL** | **~22 unique issues** | **~45-50 edits** |
+**Characters Who Sound Interchangeable:**
+- Kael and Joren (both just "enthusiastic")
+- Maia and Sage (both just "nurturing")
+- Young Cassia and Young Calista (both just "curious")
+
+**Characters With Distinctive Voice Present:**
+- Sage in Siblings Story (✓ question-based, warm)
+- Theron in Aurora conversation (✓ wise, patient, metaphorical)
 
 ---
 
-## Execution Checklist
+## 8. Generic Dialogue That Needs Character Voice
 
-- [ ] Phase 1: Book titles (3 changes)
-- [ ] Phase 2: Remove Notes section (1 deletion)
-- [ ] Phase 3: Parent professions (5 changes)
-- [ ] Phase 4: Physical descriptions (4 changes)
-- [ ] Phase 5: Cassia's parents (2 changes)
-- [ ] Phase 6: Joren's family (2 changes)
-- [ ] Phase 7: Lysandra scene (1 change)
-- [ ] Phase 8: Aris pronouns (bulk replace, ~25-30 instances)
-- [ ] Phase 9: Add missing descriptions (2 insertions)
-- [ ] Phase 10: Optional enhancements (6 changes)
+### 8.1 Dialogue Tags That Need Character Action
 
----
+Many dialogue tags are simple "said/replied/asked." Adding character-specific actions would enhance voice:
 
-## Verification
+**Generic:**
+> "I've been thinking about our future," Aris said thoughtfully.
 
-After executing all changes, verify:
-1. All five parents are correctly named with wiki professions
-2. Aris uses he/him pronouns consistently
-3. No author notes remain in narrative
-4. Book titles match TIMELINE.md structure
-5. Cassia's parents (Thalia, Lyron) have correct professions
-6. Joren's mother Soren is not attributed murals
-7. Physical descriptions match wiki (hair colors, eye colors)
-8. Aris and Elara have full physical descriptions including heterochromia
+**Enhanced with quirk:**
+> "I've been thinking about our future," Aris said, his fingers moving over invisible piano keys—a habit he had when working through emotions.
 
 ---
 
-*Document created: January 21, 2026*
-*Purpose: Enable complete consistency revision of prototype against authoritative wiki*
+## 9. Dialogue Mechanics Issues
+
+### Issue 9.1: Overuse of "Said" Variants
+Many exchanges use basic dialogue tags without action beats.
+
+### Issue 9.2: Missing Sensory Details in Dialogue Scenes
+Wiki characters have distinctive physical presence (Sage's warmth, Selene's swaying, Maia's soil-stained hands).
+
+### Issue 9.3: Dialogue Beats vs. Tags
+Consider replacing some "said" tags with action beats that show character quirks:
+- Arin: "humming as they worked"
+- Selene: "her voice almost singing"
+- Kael: "pacing as he spoke"
+- Lyra: "her questions tumbling out"
+
+---
+
+## 10. Execution Change Order
+
+### Priority 1: High-Impact Character Voice Corrections
+1. Add Arin's mechanical metaphors and humming (3-4 scenes)
+2. Add Selene's synesthesia and musical speech (3-4 scenes)
+3. Add Dorian's third-person narration style (2-3 scenes)
+4. Add Maia's plant-talking quirk (3-4 scenes)
+5. Add Kael's movement and energy (4-5 scenes)
+6. Add Lyra's questions-in-threes (5-6 scenes)
+
+### Priority 2: Medium-Impact Enhancements
+1. Cassia's storytelling voice (3-4 scenes)
+2. Aris's musician quirks (2-3 scenes)
+3. Elara's engineering quirks (3-4 scenes)
+
+### Priority 3: Polish and Consistency
+1. Dialogue tags enhancement (throughout)
+2. Sage's warmth and question-style (2-3 scenes)
+3. Physical description in dialogue (throughout)
+
+---
+
+## 11. Appendix: Previous Consistency Review Summary
+
+The previous review identified these issues (see archived version for full details):
+
+### Structural Issues
+- Book II title needs subtitle
+- Part III should be "Book III: Family and Maturity"
+- Transcendence section should be "Book IV: Transcendence"
+
+### Character Corrections Needed
+- Aris pronouns: Change from they/them to he/him
+- Soren's mural attribution: Remove (she's an engineer)
+- Parent professions: Update to wiki titles
+- Physical descriptions: Update hair colors, add skin tones
+- Cassia's parents: Correct Thalia and Lyron professions
+
+### Notes Section
+- Remove author notes embedded in narrative
+
+---
+
+## Summary
+
+The manuscript's dialogue serves the story functionally but lacks the distinctive character voices established in the wiki. Priority should be given to:
+
+1. **Parent voices**: Each of the five parents has unique quirks that should manifest in their speech patterns
+2. **Sibling quirks**: Kael's movement and Lyra's question patterns are entirely absent
+3. **Friendship evolution**: Cassia's development from childhood storyteller to adult author should show in her voice
+4. **Action beats**: Replace generic dialogue tags with character-specific actions
+
+The wiki dialogue examples (especially Workshop-Mistake, Phototropism-Lesson, Sage-Siblings-Story, First-Music-Lesson, and Dorian-Explorer-Tales) provide excellent models for the level of character voice specificity that should appear throughout the manuscript.
+
+---
+
+*Document updated: January 21, 2026*
+*Purpose: Enable dialogue revision to bring character voices into alignment with wiki canon*
