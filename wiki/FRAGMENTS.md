@@ -1,6 +1,8 @@
 # Calista Arc Fragment Index
 
-This document catalogs all ~276 meaningful narrative blocks from `revision/latest.md`, organized by book. Each fragment represents a distinct narrative unit suitable for training data extraction.
+This document catalogs all 276 meaningful narrative blocks from `revision/latest.md`, organized by book. Each fragment represents a distinct narrative unit suitable for training data extraction.
+
+**Source Line Mappings**: See `revision/FRAGMENTSFULL.md` for exact line numbers from `latest.md`.
 
 ---
 
@@ -331,7 +333,13 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ## Training Data Progress
 
-### Completed Fragments (132/276 - Batches 1-13)
+### Status: COMPLETE ✓
+
+All 276 fragments have been processed into `fragments.jsonl`.
+
+**Source Line Mappings**: See `revision/FRAGMENTSFULL.md` for fragment-to-source-line mapping (verification in progress).
+
+### Processing Summary
 
 | Block # | Fragment Name | Status |
 |---------|---------------|--------|
@@ -369,7 +377,7 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 | 32 | Dorian's history lessons | ✅ Complete |
 | 33 | Evening dinner conversations | ✅ Complete |
 | 34 | Evening activities together | ✅ Complete |
-| 35 | Pets settling for sleep | ✅ Complete |
+| 35 | Sage's bedtime routines | ✅ Complete |
 | 36 | Pets settling for sleep | ✅ Complete |
 | 37 | Growing up in Lumen's environment | ✅ Complete |
 | 38 | The Tree of Echoes discovery | ✅ Complete |
