@@ -418,17 +418,24 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1, 2, 3, 5, 10, 15, 20, 24, 25, 30, 35, 38, 40, 43, 44, 45, 48, 52, 55, 60, 62, 65, 67, 68, 70, 75, 78, 82, 85, 90, 92, 95, 96, 100, 105, 108, 112, 115, 118, 121, 125, 130, 135, 140, 141, 145, 150, 155, 160, 165, 170, 175, 180, 183, 185, 190, 195, 200, 205, 210, 220, 225, 228, 230, 240, 245, 250, 255, 260, 265, 268, 270
+1, 2, 3, 4, 5, 6, 8, 10, 11, 15, 20, 24, 25, 30, 35, 38, 40, 43, 44, 45, 46, 48, 49, 52, 55, 60, 62, 65, 67, 68, 69, 70, 73, 75, 78, 82, 85, 90, 92, 95, 96, 98, 100, 105, 108, 110, 112, 115, 118, 121, 125, 130, 135, 140, 141, 143, 145, 150, 155, 160, 165, 170, 175, 180, 183, 185, 186, 190, 195, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
 
-### Next Suggested Batch (Batch 10 - Sparse Coverage)
-- Fragment 4 (Constellations and family structure)
-- Fragment 46 (Cassia's home environment)
-- Fragment 69 (Kaleb's community speech)
-- Fragment 98 (Dara discussing balance)
-- Fragment 143 (Cassia café conversation)
-- Fragment 186 (Elara's vision for versatility)
-- Fragment 233 (Dream of parents meeting)
-- Fragment 272 (Final waking moments)
+### Next Suggested Batch (Batch 11 - 15 fragments)
+- Fragment 7 (Selene's character)
+- Fragment 9 (Sage's character)
+- Fragment 12 (Lyra's character)
+- Fragment 18 (Maia's garden lesson)
+- Fragment 22 (Dorian's library)
+- Fragment 47 (Meeting Joren)
+- Fragment 63 (Joren's tragic death)
+- Fragment 74 (Late teens transition)
+- Fragment 102 (Art skills development)
+- Fragment 120 (Mental connection practice)
+- Fragment 152 (Parenting preparation)
+- Fragment 166 (Formation ceremony)
+- Fragment 199 (Garden conversation with mother)
+- Fragment 236 (Aris's dream of Selene)
+- Fragment 262 (Luxa sport discovery)
 
 ### JSONL Format (7 messages per entry)
 ```json
