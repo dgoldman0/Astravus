@@ -471,12 +471,12 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 ### Training Data Format
 - **Seven-turn conversation**: Fragment number query → Number response → Exact text query → Text response → Significance query → Analysis response
 - **Every turn names the fragment explicitly** for reinforcement
-- **Total entries in core.jsonl**: 276 fragments
+- **Total entries in fragments.jsonl**: 276 fragments
 - **Complete coverage**: All fragments from Book I through Book IV included
 - **Batch size**: 15 fragments per batch (increased from 8 for efficiency)
 
 ### Status: COMPLETE ✓
-All 276 fragments have been processed and added to core.jsonl.
+All 276 fragments have been processed and added to fragments.jsonl.
 
 ---
 
@@ -488,7 +488,7 @@ All 276 fragments have been processed and added to core.jsonl.
 - **Total Fragments in Arc**: 276 (from latest.md analysis)
 - **Completed Fragments**: 276 (100% coverage) ✓
 - **Remaining Fragments**: 0
-- **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
+- **Current File**: `fragments.jsonl` at `/voxservice_training/training_data/core/`
 - **Fragment Index**: This file (`FRAGMENTS.md`)
 - **Source Text**: `revision/latest.md`
 
