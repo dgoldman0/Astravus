@@ -540,7 +540,7 @@ The bonds we formed during these years were strengthened by both our joyful mome
 The tragic loss of Joren marked a turning point, reminding us of the fragility of life and the importance of cherishing every moment. It was a painful lesson, but it deepened my understanding of the preciousness of our connections and the impact one life can have on an entire community.
 
 In reflecting on my early childhood, I see a tapestry woven with vibrant threads of adventure, creativity, and profound love. These formative years were not just about growing up; they were about building a foundation of resilience, empathy, and a deep appreciation for the bonds that sustain us through life's inevitable challenges. Through the laughter and the tears, the discoveries and the losses, my early childhood was a journey that shaped the person I was becoming, guided by the enduring power of love and friendship.
-# Book II: Growing Up (Continued)
+# Book II: Growing Up
 ## Growing Up
 As I entered my late teens, my interests and activities began to change. The carefree days of childhood gave way to more complex pursuits, and my friendships deepened in new and sometimes surprising ways. The construction zones and treehouses were still there, but they now served as backdrops to more mature adventures and discoveries.
 
