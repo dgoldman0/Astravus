@@ -331,7 +331,7 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ## Training Data Progress
 
-### Completed Fragments (32/276 - Batches 1, 2, 3 & 4)
+### Completed Fragments (40/276 - Batches 1-5)
 
 | Block # | Fragment Name | Status |
 |---------|---------------|--------|
@@ -339,29 +339,37 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 | 5 | Maia's character and presence | ✅ Complete |
 | 10 | Calista's appearance and personality | ✅ Complete |
 | 15 | Calista's personal room | ✅ Complete |
+| 20 | Arin's workshop encounter | ✅ Complete |
 | 24 | Sage's story about three siblings | ✅ Complete |
 | 35 | Pets settling for sleep | ✅ Complete |
+| 38 | The Tree of Echoes discovery | ✅ Complete |
 | 43 | Meeting Cassia | ✅ Complete |
 | 48 | Joren's family: Soren (mother) | ✅ Complete |
 | 55 | Lyra feeling left out | ✅ Complete |
 | 62 | Cassia's mediation and friendship strength | ✅ Complete |
 | 67 | Cali and Cassia's grief | ✅ Complete |
+| 70 | Annual celebration of life | ✅ Complete |
 | 78 | Meeting Lysandra | ✅ Complete |
 | 85 | Thalia's guidance on understanding | ✅ Complete |
 | 92 | Theron's appearance | ✅ Complete |
 | 96 | Theron on gradual process | ✅ Complete |
+| 100 | Alaric's cultural focus | ✅ Complete |
 | 105 | Lysandra breakup aftermath | ✅ Complete |
 | 112 | Meeting Aris at workshop | ✅ Complete |
+| 115 | Ongoing creative partnership | ✅ Complete |
 | 121 | Calista's Core integration at 35 | ✅ Complete |
 | 130 | Aris sharing melody mentally | ✅ Complete |
 | 141 | Kael's marriage to Sage and Sol | ✅ Complete |
 | 150 | Processing fears through art | ✅ Complete |
+| 155 | Counselor meetings for financial planning | ✅ Complete |
 | 160 | Elara's gender identity | ✅ Complete |
 | 170 | Welcoming Elara | ✅ Complete |
 | 175 | Community book sharing event | ✅ Complete |
+| 185 | How device works | ✅ Complete |
 | 190 | Elara's interactive light sculpture device | ✅ Complete |
 | 200 | Mother's explanation of transcendence | ✅ Complete |
 | 210 | Baking cookies together | ✅ Complete |
+| 220 | Joy in raising Elara | ✅ Complete |
 | 230 | Lyra's return from expedition | ✅ Complete |
 | 240 | Struggling with Joren's absence | ✅ Complete |
 | 250 | Dream of tranquil beach at sunset | ✅ Complete |
@@ -371,11 +379,11 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 ### Training Data Format
 - **Three-turn conversation**: Fragment number → Exact text → Rich relational analysis
 - **Every turn names the fragment explicitly** for reinforcement
-- **Total entries in core.jsonl**: 32 fragments
-- **Sparse sampling**: Covers Book I through Book IV with ~8-15 fragment gaps
+- **Total entries in core.jsonl**: 40 fragments
+- **Sparse sampling**: Covers Book I through Book IV with ~5-15 fragment gaps
 
 ### Next Batch (TBD)
-- Continue sparse coverage of remaining 244 fragments
+- Continue sparse coverage of remaining 236 fragments
 - 8 fragments at a time for consistent quality
 - Focus on underrepresented sections (Book II mid-section, Book III early)
 
@@ -387,24 +395,24 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ### Current Status Summary
 - **Total Fragments in Arc**: 276 (from latest.md analysis)
-- **Completed Fragments**: 32 (11.6% coverage)
-- **Remaining Fragments**: 244 (88.4%)
+- **Completed Fragments**: 40 (14.5% coverage)
+- **Remaining Fragments**: 236 (85.5%)
 - **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
 - **Fragment Index**: This file (`FRAGMENTS.md`)
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1, 5, 10, 15, 24, 35, 43, 48, 55, 62, 67, 78, 85, 92, 96, 105, 112, 121, 130, 141, 150, 160, 170, 175, 190, 200, 210, 230, 240, 250, 260, 268
+1, 5, 10, 15, 20, 24, 35, 38, 43, 48, 55, 62, 67, 70, 78, 85, 92, 96, 100, 105, 112, 115, 121, 130, 141, 150, 155, 160, 170, 175, 185, 190, 200, 210, 220, 230, 240, 250, 260, 268
 
-### Next Suggested Batch (Sparse Coverage ~15-25 fragments apart)
-- Fragment 20 (Arin's workshop encounter)
-- Fragment 38 (Tree of Echoes discovery)
-- Fragment 70 (Annual celebration of life)
-- Fragment 100 (Alaric's cultural focus)
-- Fragment 115 (Ongoing creative partnership)
-- Fragment 155 (Counselor meetings for financial planning)
-- Fragment 185 (How device works)
-- Fragment 220 (Joy in raising Elara)
+### Next Suggested Batch (Sparse Coverage ~10-20 fragments apart)
+- Fragment 25 (Early childhood sensory memories)
+- Fragment 52 (Treehouse interior)
+- Fragment 75 (Cassia's writing evolution)
+- Fragment 108 (Working with mosaic project)
+- Fragment 125 (Digital mural creation with new Core)
+- Fragment 165 (First baby kicks)
+- Fragment 195 (Painting party game)
+- Fragment 245 (Maia and Arin fading presence)
 
 ### JSONL Format (7 messages per entry)
 ```json
