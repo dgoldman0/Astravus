@@ -471,14 +471,12 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 ### Training Data Format
 - **Seven-turn conversation**: Fragment number query → Number response → Exact text query → Text response → Significance query → Analysis response
 - **Every turn names the fragment explicitly** for reinforcement
-- **Total entries in core.jsonl**: 267 fragments
-- **Sparse sampling**: Covers Book I through Book IV with ~3-15 fragment gaps
+- **Total entries in core.jsonl**: 276 fragments
+- **Complete coverage**: All fragments from Book I through Book IV included
 - **Batch size**: 15 fragments per batch (increased from 8 for efficiency)
 
-### Next Batch (Batch 23 - FINAL - 9 remaining fragments)
-- Complete remaining coverage
-- Focus on Book IV final transcendence and closing
-- Suggested: 264, 266, 267, 269, 271, 273, 274, 275, 276
+### Status: COMPLETE ✓
+All 276 fragments have been processed and added to core.jsonl.
 
 ---
 
@@ -488,16 +486,16 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ### Current Status Summary
 - **Total Fragments in Arc**: 276 (from latest.md analysis)
-- **Completed Fragments**: 267 (96.7% coverage)
-- **Remaining Fragments**: 9 (3.3%)
+- **Completed Fragments**: 276 (100% coverage) ✓
+- **Remaining Fragments**: 0
 - **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
 - **Fragment Index**: This file (`FRAGMENTS.md`)
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1-263 (continuous), 265, 268, 270, 272
+1-276 (all fragments complete)
 
-### Next Suggested Batch (Batch 23 - FINAL - 9 fragments)
+### Processing Complete
 - Fragment 61 (Joren and Cali argument)
 - Fragment 64 (Community mourning and shock)
 - Fragment 66 (Parents' consolation)
