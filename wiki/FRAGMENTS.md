@@ -331,7 +331,7 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ## Training Data Progress
 
-### Completed Fragments (117/276 - Batches 1-12)
+### Completed Fragments (132/276 - Batches 1-13)
 
 | Block # | Fragment Name | Status |
 |---------|---------------|--------|
@@ -367,9 +367,16 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 | 30 | Arin's workshop collaboration | ✅ Complete |
 | 31 | Selene's music instruction | ✅ Complete |
 | 32 | Dorian's history lessons | ✅ Complete |
+| 33 | Evening dinner conversations | ✅ Complete |
+| 34 | Evening activities together | ✅ Complete |
 | 35 | Pets settling for sleep | ✅ Complete |
+| 36 | Pets settling for sleep | ✅ Complete |
+| 37 | Growing up in Lumen's environment | ✅ Complete |
 | 38 | The Tree of Echoes discovery | ✅ Complete |
+| 39 | Pond incident and rescue | ✅ Complete |
 | 40 | Soup experiment with Lyra | ✅ Complete |
+| 41 | Festival of Lights celebration | ✅ Complete |
+| 42 | Early childhood summary | ✅ Complete |
 | 43 | Meeting Cassia | ✅ Complete |
 | 44 | Cassia's family: Thalia | ✅ Complete |
 | 45 | Cassia's family: Lyron (father) | ✅ Complete |
@@ -377,8 +384,16 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 | 47 | Meeting Joren | ✅ Complete |
 | 48 | Joren's family: Soren (mother) | ✅ Complete |
 | 49 | Joren's family: Kaleb | ✅ Complete |
+| 50 | Joren's home environment | ✅ Complete |
+| 51 | The treehouse introduction | ✅ Complete |
 | 52 | Treehouse interior | ✅ Complete |
-| 55 | Lyra feeling left out | ✅ Complete |
+| 53 | Treehouse atmosphere | ✅ Complete |
+| 54 | Adventures in the treehouse | ✅ Complete |
+| 55 | Rainy days in the treehouse | ✅ Complete |
+| 56 | Cassia's rainy day story | ✅ Complete |
+| 57 | Water wheel project | ✅ Complete |
+| 58 | Construction zone exploration | ✅ Complete |
+| 59 | Lyra feeling left out | ✅ Complete |
 | 60 | Dome climbing adventure | ✅ Complete |
 | 62 | Cassia's mediation and friendship strength | ✅ Complete |
 | 63 | Joren's tragic death | ✅ Complete |
@@ -456,14 +471,14 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 ### Training Data Format
 - **Seven-turn conversation**: Fragment number query → Number response → Exact text query → Text response → Significance query → Analysis response
 - **Every turn names the fragment explicitly** for reinforcement
-- **Total entries in core.jsonl**: 117 fragments
+- **Total entries in core.jsonl**: 132 fragments
 - **Sparse sampling**: Covers Book I through Book IV with ~3-15 fragment gaps
 - **Batch size**: 15 fragments per batch (increased from 8 for efficiency)
 
-### Next Batch (Batch 13 - 15 fragments)
-- Continue sparse coverage of remaining 159 fragments
+### Next Batch (Batch 14 - 15 fragments)
+- Continue sparse coverage of remaining 144 fragments
 - Focus on underrepresented sections
-- Suggested: 33, 34, 36, 37, 39, 41, 42, 50, 51, 53, 54, 56, 57, 58, 59
+- Suggested: 61, 64, 66, 71, 72, 77, 80, 81, 83, 86, 87, 88, 89, 91, 93
 
 ---
 
@@ -473,26 +488,26 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ### Current Status Summary
 - **Total Fragments in Arc**: 276 (from latest.md analysis)
-- **Completed Fragments**: 117 (42.4% coverage)
-- **Remaining Fragments**: 159 (57.6%)
+- **Completed Fragments**: 132 (47.8% coverage)
+- **Remaining Fragments**: 144 (52.2%)
 - **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
 - **Fragment Index**: This file (`FRAGMENTS.md`)
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 38, 40, 43, 44, 45, 46, 47, 48, 49, 52, 55, 60, 62, 63, 65, 67, 68, 69, 70, 73, 74, 75, 76, 78, 79, 82, 84, 85, 90, 92, 95, 96, 98, 100, 103, 105, 108, 110, 112, 115, 117, 118, 121, 125, 130, 135, 140, 141, 143, 145, 150, 155, 159, 160, 165, 166, 170, 175, 180, 183, 185, 186, 188, 190, 195, 199, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 62, 63, 65, 67, 68, 69, 70, 73, 74, 75, 76, 78, 79, 82, 84, 85, 90, 92, 95, 96, 98, 100, 103, 105, 108, 110, 112, 115, 117, 118, 121, 125, 130, 135, 140, 141, 143, 145, 150, 155, 159, 160, 165, 166, 170, 175, 180, 183, 185, 186, 188, 190, 195, 199, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
 
-### Next Suggested Batch (Batch 13 - 15 fragments)
-- Fragment 33 (Evening dinner conversations)
-- Fragment 34 (Evening activities together)
-- Fragment 36 (Pets settling for sleep)
-- Fragment 37 (Growing up in Lumen's environment)
-- Fragment 39 (Pond incident and rescue)
-- Fragment 41 (Festival of Lights celebration)
-- Fragment 42 (Early childhood summary)
-- Fragment 50 (Joren's home environment)
-- Fragment 51 (The treehouse introduction)
-- Fragment 53 (Treehouse atmosphere)
+### Next Suggested Batch (Batch 14 - 15 fragments)
+- Fragment 61 (Joren and Cali argument)
+- Fragment 64 (Community mourning and shock)
+- Fragment 66 (Parents' consolation)
+- Fragment 71 (Memory painting mural)
+- Fragment 72 (Treehouse as sacred space)
+- Fragment 77 (Aris introduction)
+- Fragment 80 (Lysandra introduction)
+- Fragment 81 (First date with Lysandra)
+- Fragment 83 (Aris and Calista's first project)
+- Fragment 86 (Parents discussing transcendence)
 - Fragment 27 (Waking to Lumen's light)
 - Fragment 28 (Breakfast gathering)
 - Fragment 29 (Maia's phototropism lesson)
