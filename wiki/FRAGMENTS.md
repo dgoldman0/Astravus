@@ -418,17 +418,17 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1, 5, 10, 15, 20, 24, 25, 30, 35, 38, 43, 45, 48, 52, 55, 60, 62, 67, 70, 75, 78, 82, 85, 92, 96, 100, 105, 108, 112, 115, 118, 121, 125, 130, 141, 145, 150, 155, 160, 165, 170, 175, 185, 190, 195, 200, 205, 210, 220, 230, 240, 245, 250, 255, 260, 268
+1, 2, 5, 10, 15, 20, 24, 25, 30, 35, 38, 40, 43, 45, 48, 52, 55, 60, 62, 65, 67, 70, 75, 78, 82, 85, 90, 92, 96, 100, 105, 108, 112, 115, 118, 121, 125, 130, 135, 141, 145, 150, 155, 160, 165, 170, 175, 180, 185, 190, 195, 200, 205, 210, 220, 225, 230, 240, 245, 250, 255, 260, 265, 268
 
-### Next Suggested Batch (Sparse Coverage ~10-20 fragments apart)
-- Fragment 2 (Pet introductions)
-- Fragment 40 (Soup experiment and lessons)
-- Fragment 65 (Processing grief through art)
-- Fragment 90 (Trip to Aurora)
-- Fragment 135 (Evening of mental embrace)
-- Fragment 180 (Family trips to see Kael)
-- Fragment 225 (Navigating parental transcendence)
-- Fragment 265 (Increasing frequency of deep sleep)
+### Next Suggested Batch (Batch 9 - Sparse Coverage)
+- Fragment 3 (Foundation concept: Lumen and Astraviin connection)
+- Fragment 44 (Cassia's family: Thalia)
+- Fragment 68 (Joren's impact on community)
+- Fragment 95 (Theron explaining transcendence dreams)
+- Fragment 140 (Aris's love confession)
+- Fragment 183 (Elara's engineering passion)
+- Fragment 228 (Lumen's evolution and expansion)
+- Fragment 270 (Dream in familiar garden)
 
 ### JSONL Format (7 messages per entry)
 ```json
