@@ -471,14 +471,14 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 ### Training Data Format
 - **Seven-turn conversation**: Fragment number query → Number response → Exact text query → Text response → Significance query → Analysis response
 - **Every turn names the fragment explicitly** for reinforcement
-- **Total entries in core.jsonl**: 207 fragments
+- **Total entries in core.jsonl**: 222 fragments
 - **Sparse sampling**: Covers Book I through Book IV with ~3-15 fragment gaps
 - **Batch size**: 15 fragments per batch (increased from 8 for efficiency)
 
-### Next Batch (Batch 19 - 15 fragments)
-- Continue sparse coverage of remaining 69 fragments
-- Focus on Book III grandparent interactions and later years transition
-- Suggested: 184, 187, 189, 191, 192, 193, 194, 196, 197, 198, 201, 202, 203, 204, 206
+### Next Batch (Batch 20 - 15 fragments)
+- Continue sparse coverage of remaining 54 fragments
+- Focus on Book IV Later Years and transcendence themes
+- Suggested: 207, 208, 209, 211, 212, 213, 214, 215, 216, 217, 218, 219, 221, 222, 223
 
 ---
 
@@ -488,16 +488,16 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ### Current Status Summary
 - **Total Fragments in Arc**: 276 (from latest.md analysis)
-- **Completed Fragments**: 207 (75.0% coverage)
-- **Remaining Fragments**: 69 (25.0%)
+- **Completed Fragments**: 222 (80.4% coverage)
+- **Remaining Fragments**: 54 (19.6%)
 - **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
 - **Fragment Index**: This file (`FRAGMENTS.md`)
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1-183 (continuous), 185, 186, 188, 190, 195, 199, 200, 205, 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
+1-206 (continuous), 210, 220, 225, 228, 230, 233, 240, 245, 250, 252, 255, 260, 265, 268, 270, 272
 
-### Next Suggested Batch (Batch 19 - 15 fragments)
+### Next Suggested Batch (Batch 20 - 15 fragments)
 - Fragment 61 (Joren and Cali argument)
 - Fragment 64 (Community mourning and shock)
 - Fragment 66 (Parents' consolation)
