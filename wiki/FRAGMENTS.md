@@ -331,19 +331,33 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ## Training Data Progress
 
-### Completed Fragments (8/276)
+### Completed Fragments (16/276 - Batch 1 & 2)
 
 | Block # | Fragment Name | Status |
 |---------|---------------|--------|
 | 1 | First memories through parents' stories | ✅ Complete |
+| 10 | Calista's appearance and personality | ✅ Complete |
 | 35 | Pets settling for sleep | ✅ Complete |
+| 43 | Meeting Cassia | ✅ Complete |
 | 67 | Cali and Cassia's grief | ✅ Complete |
+| 78 | Meeting Lysandra | ✅ Complete |
 | 96 | Theron on gradual process | ✅ Complete |
 | 112 | Meeting Aris at workshop | ✅ Complete |
+| 121 | Calista's Core integration at 35 | ✅ Complete |
+| 141 | Kael's marriage to Sage and Sol | ✅ Complete |
 | 150 | Processing fears through art | ✅ Complete |
-| 190 | Late evening conversation (Elara's device) | ✅ Complete |
+| 170 | Welcoming Elara | ✅ Complete |
+| 190 | Elara's interactive light sculpture device | ✅ Complete |
+| 210 | Baking cookies together | ✅ Complete |
 | 250 | Dream of tranquil beach at sunset | ✅ Complete |
+| 268 | Dream in workshop with Arin and Elara | ✅ Complete |
+
+### Training Data Format
+- **Main pairs**: Fragment text + rich relational analysis (standard format)
+- **Lookup pairs**: Fragment number query + significance explanation (doubles data diversity)
+- **Total entries in core.jsonl**: 32 (16 fragments × 2 pairs each)
+- **Sparse sampling**: ~30-40 fragment gaps to reduce thematic drift
 
 ### Next Batch (TBD)
-- Sparse sampling approach to reduce drift
-- 8 fragments at a time for review
+- Continue sparse coverage of remaining 260 fragments
+- 8 fragments at a time for consistent quality
