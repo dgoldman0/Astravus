@@ -471,14 +471,14 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 ### Training Data Format
 - **Seven-turn conversation**: Fragment number query → Number response → Exact text query → Text response → Significance query → Analysis response
 - **Every turn names the fragment explicitly** for reinforcement
-- **Total entries in core.jsonl**: 252 fragments
+- **Total entries in core.jsonl**: 267 fragments
 - **Sparse sampling**: Covers Book I through Book IV with ~3-15 fragment gaps
 - **Batch size**: 15 fragments per batch (increased from 8 for efficiency)
 
-### Next Batch (Batch 22 - 15 fragments)
-- Continue sparse coverage of remaining 24 fragments
-- Focus on Book IV final integration and Luxa sport scenes
-- Suggested: 244, 246, 247, 248, 249, 251, 253, 254, 256, 257, 258, 259, 261, 262, 263
+### Next Batch (Batch 23 - FINAL - 9 remaining fragments)
+- Complete remaining coverage
+- Focus on Book IV final transcendence and closing
+- Suggested: 264, 266, 267, 269, 271, 273, 274, 275, 276
 
 ---
 
@@ -488,16 +488,16 @@ This document catalogs all ~276 meaningful narrative blocks from `revision/lates
 
 ### Current Status Summary
 - **Total Fragments in Arc**: 276 (from latest.md analysis)
-- **Completed Fragments**: 252 (91.3% coverage)
-- **Remaining Fragments**: 24 (8.7%)
+- **Completed Fragments**: 267 (96.7% coverage)
+- **Remaining Fragments**: 9 (3.3%)
 - **Current File**: `core.jsonl` at `/voxservice_training/training_data/core/`
 - **Fragment Index**: This file (`FRAGMENTS.md`)
 - **Source Text**: `revision/latest.md`
 
 ### Completed Fragment Numbers
-1-243 (continuous), 245, 250, 252, 255, 260, 265, 268, 270, 272
+1-263 (continuous), 265, 268, 270, 272
 
-### Next Suggested Batch (Batch 22 - 15 fragments)
+### Next Suggested Batch (Batch 23 - FINAL - 9 fragments)
 - Fragment 61 (Joren and Cali argument)
 - Fragment 64 (Community mourning and shock)
 - Fragment 66 (Parents' consolation)
