@@ -1,279 +1,329 @@
 # User Prompt
 
-Write the opening story of a potential series set on an alien world called Verath, inhabited by a species called the Verathi. Their civilization is at a pivotal moment—technologically advancing, politically fractured, gazing at the stars with hope and fear. One night, something appears in their sky: an Astravus, vast and strange and unmistakably alive. The story should follow multiple perspectives as panic, wonder, and curiosity unfold. Include scientists trying to understand, leaders trying to control, ordinary people trying to cope, and eventually the first tentative contact—a small delegation of Astraviin reaching out. The twist, unknown to the Verathi, is that these "ancient aliens" are the far-future descendants of a species called humans, from a world called Earth.
-
-This should be written as the first installment in a series rather than a standalone. End on a moment of opening rather than closure—introduce threads that can be developed, questions that remain unanswered, and characters whose journeys are just beginning. Plant seeds for political intrigue, cultural collision, philosophical challenge, and personal transformation.
+Write the opening of a series set on Verath, an alien world inhabited by the Verathi. Their civilization stands at a crossroads: technologically advancing but politically fractured, gazing upward with equal measures of hope and fear. Their astronomers detect a massive living structure in solar orbit—an Astravus, city-sized at forty kilometers across, drawing energy from the star's corona. The encounter is accidental; the Astravus came to refuel due to an emergency. Follow multiple perspectives as the discovery unfolds: scientists racing to understand, leaders struggling to control, ordinary people confronting the impossible. When the Astraviin aboard realize they've been detected, they face a choice: depart quietly or make first contact. Unknown to the Verathi, these visitors are far-future descendants of humanity, carrying memories of a world called Earth.
 
 # The Visitors
 
-## Part One: The Light
+## I.
 
-Astronomer Keth Sora was the first to see it.
+Keth Sora's shift ended in forty minutes, and she'd already started composing her walk-home grocery list when the spectral analyzer chimed.
 
-She had been alone in the Cloudbreak Observatory, running calibrations on the new spectral array, when the instruments screamed. The harmonic sensors produced a sound, a rising wail that meant *something impossible is happening*.
+Three chimes meant an anomaly. Probably a calibration drift—the solar telescope had been finicky all week. She pulled up the display anyway, prepared to log it and let the morning crew deal with it.
 
-Keth's first thought was equipment failure. Her second thought, when she looked at the data, was that she was having a stroke.
+The numbers didn't make sense.
 
-The third thought didn't come for several minutes, because she was too busy staring at the main display, watching a star appear where no star had been.
+She checked the time stamp, verified the instrument ID, ran a diagnostic. All nominal. She pulled the raw data and rebuilt the image from scratch.
 
-Except it wasn't a star.
+A shadow hung in the corona. Forty-three kilometers across, irregular, absorbing energy in patterns that looked almost... organized.
 
-Stars didn't move. Stars didn't pulse. Stars didn't hang in low orbit above a planet and *glow* with colors that shouldn't exist in nature.
+Keth forgot about groceries.
 
-Keth's hands trembled as she reached for the communication panel. She had to tell someone. She had to tell everyone. But what would she say?
+She routed the data to the observatory's other instruments, hands moving faster than thought. Infrared, x-ray, visible spectrum—every sensor she could aim at that specific patch of sky. The results assembled themselves into something impossible.
 
-*There's something in the sky. It's alive. And it's looking at us.*
+The object had structure. Curves and protrusions that suggested intention. Surface temperatures varying in controlled gradients. And the spectral signature showed organic compounds mixed with materials that shouldn't exist.
 
----
+Her hand hovered over the emergency comm panel.
 
-## Part Two: The Fear
+This would end careers if she was wrong. Equipment malfunctions happened. Mass hallucinations didn't, but the director would probably suggest it anyway before admitting that something alive was feeding from their sun.
 
-By dawn, the world knew.
+She triggered a final verification: optical imaging with the backup array.
 
-The thing—no one had a name for it yet—was visible to the naked eye, a luminous presence that dominated the eastern horizon. It moved with the planet's rotation, holding position above the Vaelian Sea, casting strange reflections on the water below.
+The image resolved slowly. When it finished, Keth stared at bioluminescent patterns pulsing across an immense surface, watched light shift and flow like breathing, and reached for the comm panel with shaking hands.
 
-In the capital city of Thresh, Emergency Coordinator Maeven Dross stood before the Combined Council and tried to project calm she did not feel.
-
-"We do not yet understand what we are dealing with," she said, her voice steady through sheer force of will. "But I want to be clear: our defense systems are fully operational. Our monitoring networks are tracking the object continuously. We are not helpless."
-
-"You're not answering the question." Council Leader Torath leaned forward, his weathered face tight with barely controlled fear. "Is it a threat?"
-
-"We don't know."
-
-"Is it a weapon?"
-
-"We don't know."
-
-"Is it *alive*?"
-
-Maeven hesitated. The preliminary reports from the observatories were unanimous on that point, but saying it aloud felt like admitting something too large to contain.
-
-"Yes," she said finally. "We believe it is."
-
-The chamber erupted.
+"Director Venn? This is Observatory Seven. I need you to see something."
 
 ---
 
-## Part Three: The Wonder
+## II.
 
-In the coastal village of Sethmar, a young teacher named Irel Voss gathered her students on the beach and pointed at the sky.
+"It's been there for at least a week."
 
-"What do you see?" she asked.
+Emergency Coordinator Maeven Dross studied the image projected above the Council chamber table. Forty-three kilometers of impossible architecture, caught mid-orbit around their sun like a parasite on a whale.
 
-The children were quiet. They had heard their parents whispering, seen the fear in adult eyes. But children were also honest in ways adults had forgotten how to be.
+"Why are we only learning this now?" Council Leader Torath's voice carried the dangerous calm that preceded eruptions.
 
-"It's beautiful," one of them said—a small girl named Pell, barely six years old. "It looks like it's breathing."
+"It wasn't emitting enough radiation to stand out until it moved deeper into the corona." Astronomer Keth Sora stood at the presentation podium, looking like she hadn't slept in days. Probably hadn't. "The heat bloom made it visible. We've confirmed the reading across seventeen independent observatories."
 
-Irel watched the object—the *presence*—pulse slowly above the sea. Pell was right. It did look like breathing. A slow, vast rhythm, like something dreaming.
+"Is it a ship?"
 
-"Are you scared?" she asked the children.
+"We believe it's a habitat. The scale suggests thousands of inhabitants. Possibly tens of thousands."
 
-Some nodded. Most didn't answer.
+The chamber erupted in overlapping questions. Maeven let it run for thirty seconds before cutting in.
 
-"I'm scared too," Irel admitted. "But I'm also curious. Do you know what that means?"
+"Silence." Her voice carried over the chaos. "We have protocols for unidentified objects. Ms. Sora, does it pose an immediate threat?"
 
-"Wanting to know things," another child offered.
+Keth hesitated. "It hasn't approached Verath. It hasn't transmitted directed signals. Current trajectory suggests it's extracting energy from the corona and will depart once it's... finished."
 
-"Yes. And sometimes, when something new appears—something we've never seen before—fear and curiosity get mixed together. That's okay. That's normal." She looked at the sky again. "What matters is which one we choose to follow."
+"How long?"
 
-The children considered this.
+"Unknown. Days. Weeks. It depends on its needs."
 
-"What if it wants to hurt us?" Pell asked.
+"Its needs," Torath repeated. "You're anthropomorphizing."
 
-"Then we'll deal with that," Irel said. "But what if it doesn't? What if it came here because it was curious too?"
+"No, Council Leader. I'm observing behavior that suggests purpose. It entered the corona, adjusted its position twice for optimal energy exposure, and manages its surface temperature to prevent thermal damage. Whatever it is, it's here for a reason."
 
-No one had an answer. But the question hung in the air, mingling with the salt breeze and the strange, impossible light.
+Maeven pulled up a closer view. The surface looked grown rather than built—organic curves, translucent sections, patterns of light moving across it in slow waves.
 
----
+"Recommendations?" she asked.
 
-## Part Four: The Signal
+"We monitor. We analyze their emissions. We do not transmit." General Vorath, predictably. "If they haven't noticed us, we don't invite attention."
 
-Three days after first contact—though no one was calling it that yet—Astronomer Keth Sora made her second discovery.
+"And if they have noticed us?" Keth asked quietly. "We've been broadcasting radio for seventy years. Our defense satellites are active. If they're advanced enough to build that—" she gestured at the image "—they know we're here."
 
-The object was transmitting.
+"Then why haven't they contacted us?"
 
-Not radio waves, not light pulses, not any communication method the Verathi had ever developed. The signal existed in a spectrum they hadn't known existed until the object arrived. It required new instruments to detect, new mathematics to decode, new concepts to understand.
+"Because maybe," Keth said, "we're not interesting."
 
-But it was unmistakably a signal. Patterns repeating. Structure within structure. *Language*.
-
-"It's trying to talk to us," Keth said to the hastily assembled scientific council. Her voice was hoarse from three days without proper sleep. "Not *at* us—*to* us. There's a learning algorithm embedded in the transmission. It's adapting to our responses. Every time we interact with it, the signal becomes more comprehensible."
-
-"You've been responding?" General Vorath's voice was sharp. "Without authorization?"
-
-"I've been *listening*," Keth shot back. "The object detected our observation equipment and began modulating its transmissions accordingly. It knew we were paying attention. It wanted us to understand."
-
-"Wanted?" Emergency Coordinator Maeven Dross leaned forward. "You're anthropomorphizing."
-
-"With respect, Coordinator, I'm not. The signal contains what appears to be a primer—basic concepts, mathematical relationships, spatial references. It's teaching us its language." Keth pulled up a display. "And in the last six hours, the signal has begun incorporating elements of *our* language. Words from our broadcasts. Syntax from our communications. It's learning how to speak to us."
-
-Silence fell over the chamber.
-
-"What has it said?" Torath asked quietly.
-
-Keth hesitated. The translation was rough, more interpretation than certainty. But the message had been clear enough.
-
-"*We come from far away. We mean no harm. We would like to meet you.*"
+The silence that followed was worse than the shouting.
 
 ---
 
-## Part Five: The Debate
+## III.
 
-The world fractured along predictable lines.
+Teacher Irel Voss projected the image onto her classroom wall and watched twelve children gape at it.
 
-The Harmony Coalition, long advocates of scientific advancement and international cooperation, argued for immediate engagement. *This is what we've always dreamed of*, their representatives declared. *Proof that we are not alone. We cannot let fear blind us to the greatest opportunity in our history.*
+"Is it a spaceship?" asked Pell, six years old and fearless.
 
-The Sovereignty Alliance, defenders of tradition and territorial integrity, demanded caution. *We know nothing about these beings*, their speakers warned. *Their technology is incomprehensibly advanced. They could destroy us on a whim. We must not appear weak.*
+"Maybe. Or a city that flies. Or something we don't have words for yet."
 
-And the Faithful—the old religious orders that had governed Verath for millennia before the modern era—saw something else entirely.
+"It's breathing," Pell said, pointing at the pulsing lights.
 
-"The Texts speak of this," High Keeper Serath proclaimed to vast crowds gathered in the ancient temple districts. "Beings of light who would descend from the heavens in the time of judgment. We have strayed from the old ways. This is our reckoning."
+Irel looked closer. The child was right—the bioluminescence had a rhythm, slow and deliberate. Like watching something sleep.
 
-Emergency Coordinator Maeven Dross watched the protests and counter-protests from her office window and felt the weight of impossible responsibility pressing down on her shoulders.
+"Are you scared?" Irel asked the class.
 
-The object had been in their sky for two weeks now. It had made no hostile moves. Its transmissions continued, growing more sophisticated by the day. And three days ago, it had sent a new message:
+Nods. A few shakes. Mostly uncertainty.
 
-*We would like to send representatives. Small beings. Like you. They wish to speak face to face.*
+"Me too. But I'm also curious." She pulled up a closer view. "This appeared in our sky doing its own thing, and we happened to notice. Like spotting a whale from shore—it's not here for us. It's just here."
 
-The Council was deadlocked. Half wanted to accept. Half wanted to refuse. A few wanted to attempt military action, though the scientists had made clear how futile that would be.
+"What if it wants to hurt us?" asked Brennan, one of the older students.
 
-And the object waited, patient as a dreaming god, for their answer.
+"Then we'll deal with it. But maybe it won't. Maybe it'll finish whatever it's doing and leave, and we'll spend the rest of our lives telling stories about the week something impossible hung in our sky."
 
----
+"Or maybe," Pell said, eyes bright, "it'll stay."
 
-## Part Six: The Meeting
+Irel smiled despite herself. "Maybe."
 
-In the end, it was not the Council that decided.
+Through the window, the day was bright and ordinary. Somewhere above them, invisible beyond the blue, something vast and strange was drinking starlight. The world had changed, but the sun still rose and children still asked impossible questions.
 
-Astronomer Keth Sora, working alone in the Cloudbreak Observatory, received a direct transmission. Not the broad-spectrum signals meant for general reception, but something targeted specifically at her equipment, her frequency, her ears.
-
-*You are the one who first saw us*, the message said. *You are curious. We recognize curiosity. It is how we began, long ago.*
-
-*Will you meet us?*
-
-Keth stared at the words for a long time. She thought about protocol, about authorization, about the Council and the military and all the powers that would be furious if she acted alone.
-
-Then she thought about Pell, the six-year-old on the beach, who had said *it's beautiful*.
-
-She typed her response with trembling fingers:
-
-*Yes.*
+That, at least, was familiar.
 
 ---
 
-## Part Seven: The Descent
+## IV.
 
-They came at dawn, three days later.
+Keth had been living in the observatory for nine days when the signal changed.
 
-They came in something stranger than a vessel. A small portion of the vast presence detached itself and drifted downward, a luminous seed falling slowly toward the surface. It landed in a field outside Thresh, witnessed by thousands who had gathered despite military cordons.
+She'd set up a monitoring program to track the object's emissions—mostly passive radiation, thermal management, the electromagnetic hash of whatever power systems kept it alive. Background noise.
 
-The seed opened.
+Then at 03:17, the noise organized itself.
 
-And they emerged.
+Keth was asleep in the break room when the alert woke her. She stumbled to her terminal and stared at the waterfall display, watching patterns emerge from chaos. Repeating structures. Information density that looked almost like...
 
-There were three of them. Bipedal, roughly Verathi-sized, wrapped in garments that seemed to shift and flow. Their features were alien but not monstrous—two eyes, a mouth, expressions that seemed to communicate emotion. One of them had silver hair that caught the morning light. Another moved with careful grace, as if newly learning to walk on solid ground.
+"That's language," she said aloud to the empty room.
 
-The third stepped forward and spoke.
+Not directed at Verath. The signals bounced within the object itself, transmitted from section to section like a nervous system firing. She was listening to something think.
 
-The words were Verathi—halting, accented, but comprehensible.
+She routed the data to the linguistics AI, knowing it was futile. Whatever encoding they used would be incomprehensible without a rosetta stone. But the metadata alone was extraordinary—thousands of discrete sources, coordinated timing, error correction protocols visible in the redundancy patterns.
 
-"We are... visitors. Travelers. We come from..." The being paused, as if searching for the right concept. "From very far away. From a world you have not seen. From a time you cannot imagine."
+A city's worth of voices, talking to each other.
 
-Keth Sora, standing at the front of the receiving delegation—she had insisted, and the Council had reluctantly agreed—found her voice.
+Keth pulled up the orbital history and cross-referenced it with the signal logs. Three days ago, the Verathi Defense Network had pinged the object with ranging radar. Standard protocol when something new appeared in-system.
 
-"What are you?"
+Forty-seven minutes after that ping, the object's emission patterns had shifted.
 
-The being considered the question.
+They'd noticed.
 
-"We were once... like you. Small. Bound to one world. Curious about what lay beyond." A strange expression crossed its face—something that might have been a smile. "That was long ago. Many lives ago. Now we are something else. But we remember what it was to wonder."
+Keth reached for the comm panel, then stopped. What would she report? That the object was inhabited? They'd already assumed that. That it was communicating internally? Obvious from the scale.
 
-"What do you want?"
+That it knew it was being watched?
 
-"To meet you. To learn about you. To share what we have learned." The being spread its hands—a gesture that seemed deliberate, learned. "Nothing more. Nothing is required. You may send us away if you wish. We will not be offended. We understand fear."
-
-Behind Keth, she heard the generals muttering, the politicians calculating. She heard the crowd's murmur—hope and terror braided together.
-
-But she also heard the question that had haunted her since that first night in the observatory:
-
-*What else is out there?*
-
-"Tell me about your world," she said. "Tell me where you came from."
-
-The being's expression shifted again—something complex, layered with meaning she couldn't yet read.
-
-"Our world is gone," it said quietly. "Lost to time. But its children spread across the stars, and we carry its memory with us always." A pause. "It was called... Earth."
-
-The word meant nothing to Keth. But she heard the weight in it—the love, the grief, the impossible distance.
-
-"And what are *you* called?" she asked. "Your people. Your... kind."
-
-"We have many names. The being within which we travel is called Lumen. We who dwell within it are called Astraviin." The being touched its chest. "I am called Lyra. I was born curious, and I have traveled far to satisfy that curiosity. It is good to meet you, Astronomer Keth Sora."
-
-Keth's breath caught.
-
-*It knows my name.*
-
-"How do you—"
-
-"We have been listening," Lyra said gently. "We learn quickly. It is how we survived, long ago. How we grew. How we became what we are." She looked past Keth, at the crowd, at the city beyond, at the world trembling on the edge of something new.
-
-"You are at a crossroads," Lyra continued. "We have seen many worlds at this moment. Some welcomed us. Some drove us away. Some..." She hesitated. "Some made choices they later regretted."
-
-"Is that a threat?"
-
-"No. It is an observation. And a hope." Lyra's eyes—strange eyes, ancient eyes—met Keth's. "We cannot tell you what to choose. We can only tell you that you *have* a choice. What happens next is up to you."
-
-In the sky above, the vast presence of Lumen pulsed slowly—breathing, waiting, dreaming whatever dreams a living world might dream.
-
-And on the ground below, Keth Sora realized that everything she thought she knew about the universe had just changed.
+That changed everything.
 
 ---
 
-## Part Eight: The Beginning
+## V.
 
-That night, the world did not sleep.
+"We should transmit." Council Member Sera spoke with the careful certainty of someone about to propose heresy. "A greeting. Mathematics, basic physics. Proof that we're here and aware."
 
-In Thresh, the Council debated through the darkness, voices rising and falling in arguments that would shape generations. Emergency Coordinator Maeven Dross sat at the center of it all, parsing every word of Lyra's message, searching for threats or promises or anything solid to hold onto.
+"Absolutely not." General Vorath didn't bother hiding his contempt. "You want to wave at something that could sterilize our planet?"
 
-In the temple districts, High Keeper Serath knelt before ancient altars and prayed for guidance that did not come. The Texts had spoken of beings of light—but they had said nothing about beings who introduced themselves with names and spoke of a dead world called Earth.
+"Can it?" Sera turned to the scientists. "Ms. Sora, what's your assessment of their capabilities?"
 
-In the coastal village of Sethmar, teacher Irel Voss sat with little Pell on the beach, watching the lights in the sky. The child had stopped being afraid three days ago. Now she just watched, eyes wide with wonder, as if she was seeing something the adults had forgotten how to see.
+Keth chose her words carefully. "Energy management alone suggests technology centuries beyond ours. The structure's integrity while skimming the corona requires materials we can't produce. If they wanted to harm us, we couldn't stop them."
 
-"Teacher Irel?"
+"Then we're already at their mercy," Sera said. "Hiding gains us nothing."
 
-"Yes, Pell?"
+"It gains us anonymity," Vorath countered. "They came here to refuel. Let them finish and leave. We're insects watching gods—best not to be stepped on."
 
-"Do you think they'll stay?"
+Maeven listened to the argument circle for the fourth time in as many days. The Harmony Coalition wanted contact. The Sovereignty Alliance wanted silence. The Faithful wanted to pray and wait for divine guidance that wasn't coming.
 
-Irel considered the question. The lights above were strange and beautiful and terrifying all at once. The visitors—the *Astraviin*, they called themselves—had retreated to their luminous seed after the first meeting, promising to wait for an official response. But they had also left behind something unexpected: an invitation.
+Her comm chimed. Private channel, Keth Sora. She excused herself from the chamber.
 
-*Come and see*, Lyra had said. *When you are ready. Come and see what we have become.*
+"This better be critical."
 
-"I don't know," Irel said honestly. "But I hope so."
+"They sent me a message." Keth's voice was tight. "Directly. Targeted at the observatory frequency. It's in Verathi."
 
-In the Cloudbreak Observatory, Astronomer Keth Sora sat alone, staring at the data streams still flowing from the presence in the sky. The signal had changed since the meeting. It was no longer teaching—it was *sharing*. Mathematics, astronomy, physics, biology. Fragments of knowledge so vast that Keth's instruments could barely capture them.
+Maeven's blood went cold. "What does it say?"
 
-And woven through it all, something else: stories. Histories. Images of worlds the Astraviin had visited, civilizations they had encountered, wonders they had witnessed across millennia of wandering.
+"'You are the one who first saw us. You are curious. We recognize curiosity. It is how we began, long ago. Will you meet us?'"
 
-One image kept appearing, again and again, offered like a gift or a memory:
+Through the chamber windows, Maeven could see protesters in the plaza—some demanding contact, others demanding isolation, all of them terrified.
 
-A small blue world, marbled with clouds, circling an ordinary yellow star.
+"They're asking permission," Keth continued. "They're giving us a choice."
 
-*Earth*, Keth thought. *Their home. Their beginning.*
+"Or testing whether we understand the illusion of choice," Maeven said. "When did this arrive?"
 
-She wondered what had happened to it. She wondered what the Verathi might become, given enough time.
+"Eleven minutes ago. I verified it across multiple receivers. It's real."
 
-She wondered if, someday, her descendants might drift between the stars in a living vessel, carrying memories of a world that no longer existed.
+Maeven looked back through the chamber windows at the Council, still arguing, still convinced they controlled the situation.
 
-The thought should have been terrifying. Instead, it felt like possibility.
+"What are you going to tell them?" she asked.
 
-Outside her window, dawn was breaking. The presence of Lumen caught the first light and blazed like a second sun, beautiful and strange and utterly unknowable.
+"I don't know. That's above my authority."
 
-But that was alright.
+"Authority." Maeven laughed, bitter. "Ms. Sora, if they wanted to talk to politicians, they would have sent the message to the Council. They sent it to you. The choice is yours."
 
-The unknown was where all the best stories began.
+Silence on the line.
+
+"What would you do?" Keth asked finally.
+
+Maeven thought about her children, asleep in their beds. About the civilization that would face whatever came next. About the fact that something incomprehensible had asked permission before changing their world.
+
+"I'd answer," she said. "But I'm not you."
+
+The line went quiet. Then: "Neither am I, apparently."
+
+---
+
+## VI.
+
+Thane stood in the observation gallery and watched the blue-green world turn beneath them.
+
+"The transmission was sent forty minutes ago," said Orin, studying the data. Young, cautious, always calculating risk. "They haven't responded."
+
+"They're debating," Cassius said. The cultural analyst had gray in his hair and patience in his bones. "The astronomer likely reported it to her leadership. Now they're arguing about whether to let her answer or override her."
+
+"We shouldn't have contacted them at all." Orin crossed his arms. "We came here to refuel. That's it. We don't seek out uncontacted civilizations."
+
+"They contacted us first," Thane said quietly. "They pinged us with active sensors. They've been observing for over a week. They know we're here."
+
+"That's not the same as contact."
+
+"It's close enough to force a decision." Thane pressed her hand against the transparent wall. "We can leave. Finish refueling, jump to the next system, pretend this never happened. They'll spend generations wondering what we were and why we left."
+
+"Or?" Cassius asked.
+
+"Or we answer their curiosity. We show them they're not alone. We give them the truth about what's possible."
+
+"And if it destroys them?" Orin's voice was soft. "First contact has fractured civilizations before. Religious upheaval, social collapse, war. We could do more harm than—"
+
+"We could," Thane agreed. "But we could also do nothing and leave them with questions that eat at them forever. I've seen that too."
+
+She pulled up an image on the gallery's display: a small blue world, cloud-wrapped, circling an ordinary yellow star. Earth, from an archive so old the colors had degraded.
+
+"We were them once. Looking up and wondering. Hoping." She turned to face the others. "Someone should have answered us. Maybe if they had, we wouldn't have spent so long alone."
+
+"That's sentiment," Orin said. "Not policy."
+
+"Policy would be to leave." Thane smiled. "I'm proposing we break it."
+
+"This would need Council approval," Cassius pointed out.
+
+"I know. But I wanted to know where you stood first."
+
+Orin looked at the blue-green world, then at the image of Earth. "If we do this, we do it carefully. No grand gestures. We answer the astronomer. We meet in person. We let them set the pace."
+
+"Agreed."
+
+Cassius nodded slowly. "I'll draft the briefing for the Council. But Thane? This is your responsibility. If it goes wrong—"
+
+"I know." She took one last look at Verath. "But if we don't try, we'll never know if it could have gone right."
+
+---
+
+## VII.
+
+The landing craft descended at dawn.
+
+Keth stood in a field outside Thresh with Emergency Coordinator Dross beside her and a thousand soldiers around her, watching a sphere of light drift down like a falling star in reverse.
+
+She'd sent her reply eighteen hours ago: *Yes.*
+
+The Astraviin had responded with coordinates, a time, and a simple message: *Three of us. Unarmed. We wish to talk.*
+
+The Council had argued for twelve hours before agreeing to let it happen. Half wanted it stopped. A quarter wanted it weaponized. The rest just wanted it over.
+
+The sphere touched down in the grass and opened like a flower.
+
+Three figures emerged into the morning light.
+
+They were bipedal. Roughly Verathi height. Two eyes, two arms, body language that read as cautious. One had silver-gray hair, another was dark-skinned and muscular, the third was lean and watchful.
+
+The silver-haired one stepped forward and spoke in perfect Verathi:
+
+"I am called Thane. These are my companions, Cassius and Orin. We come from very far away, and we are grateful you agreed to meet us."
+
+Keth's voice caught in her throat. She forced it steady. "I'm Astronomer Keth Sora. This is Emergency Coordinator Maeven Dross. We speak for our world."
+
+"Do you?" Thane asked gently. "Forgive me—I've listened to your broadcasts. Your world seems... divided on whether speaking to us is wise."
+
+"It is," Maeven said. "Divided, I mean. But we're here anyway."
+
+Thane smiled. "Then you are braver than you believe. May I ask you a question?"
+
+"Yes."
+
+"Why did you say yes? To meeting us. You could have refused. You could have stayed silent. Why take the risk?"
+
+Keth looked at the being before her—alien and yet somehow familiar, strange and yet recognizable. She thought about Pell asking if it was beautiful. About the lights pulsing like breath. About a life spent staring at the stars and wondering.
+
+"Because," she said, "what if you were kind?"
+
+Thane's expression shifted into something that looked like relief and sadness mixed. "We were like you once. Small. Bound to one world. Wondering what was out there." She gestured upward. "We found out. And it was strange and terrifying and wonderful, and we survived it."
+
+"What are you?" Maeven asked.
+
+"Travelers. Inheritors of a long history. Descendants of a species that began on a world called Earth and spread across the stars." Thane's voice carried weight. "You asked if we were kind. I cannot promise kindness. But we remember loneliness, and we remember wondering, and we chose to answer your curiosity because once, long ago, we had no one to answer ours."
+
+Keth felt tears on her face and didn't care. "Will you tell us? About Earth? About what you became?"
+
+"If you wish to hear it."
+
+"We do."
+
+Thane looked past them at the city, at the soldiers, at the sky where dawn was breaking over a world changed forever.
+
+"Then let us begin," she said.
+
+---
+
+## VIII.
+
+In the Cloudbreak Observatory, Keth's monitoring equipment recorded a shift in the Astravus's emissions. The internal chatter had gone quiet. Every system seemed to pause, as if the entire structure was listening.
+
+In the Council chambers, politicians argued through the night about what Thane's presence meant, what it threatened, what it promised.
+
+In the temple districts, High Keeper Serath knelt before ancient texts that spoke of beings of light descending from the heavens, and found no guidance for beings who introduced themselves by name and asked permission.
+
+In a coastal classroom, Teacher Irel projected new images—the landing craft, the three visitors, Keth Sora standing in a field facing the unknown.
+
+"They came to meet us," Pell said, eyes bright. "They said yes too."
+
+"They did," Irel agreed.
+
+"What happens next?"
+
+Irel looked at the images of beings from another world, carrying memories of a planet called Earth. She thought about all the questions they brought with them, all the answers they might share, all the ways the world would never be the same.
+
+"I don't know," she said honestly. "But we're going to find out together."
+
+Outside, the sun rose over Verath. Somewhere above, too distant to see but impossible to forget, something vast and alive finished its refueling and waited to see what the small blue world would choose.
+
+The unknown had arrived.
+
+And it was waiting for an answer.
 
 ---
 
 *End of Part One*
-
-*To be continued...*

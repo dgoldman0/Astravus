@@ -4,118 +4,140 @@ Write a side story set in Lumen featuring a lattice technician doing maintenance
 
 # The Lattice Work
 
-Tamsin liked to work during the hour when Lumen was neither fully awake nor fully asleep.
+## I.
 
-The bioluminescent pathways dimmed themselves in stages then, the gardens shifting color like a slow breath. The Astravus adjusted pressure, temperature, and light with the patience of something that had all the time in the universe. Most Astraviin were still dreaming—those not yet deeply merged always dreamed more vividly—and the plazas were empty except for drifting pollen and the soft hum beneath everything.
+The bioluminescent pathways were doing that thing again—the slow dimming that wasn't quite sleep, not quite waking. Tamsin pressed her palm against the corridor wall and felt it shift beneath her touch, adjusting temperature by half a degree.
 
-Tamsin preferred that hum to voices.
+"Good morning," she murmured.
 
-She was a lattice technician, which meant her job sat at the intersection of biology, architecture, and intuition. The lattice wasn’t something most people saw: a web of living support structures woven through Lumen’s bones, guiding growth, distributing strain, translating the Astravus’s needs into physical form. If a bridge sang when it shouldn’t, if a garden leaned too far toward one spectrum of light, if a hallway began remembering the wrong footsteps—it was the lattice that needed attention.
+The wall warmed in response.
 
-Tamsin carried no visible tools. She wore a slim interface band at her wrist and trusted her hands, her senses, and the Astravus itself.
+She'd been a lattice technician for nine years. Long enough to recognize fatigue in living architecture. Long enough to know when the Astravus was compensating for stress it shouldn't have to carry alone.
 
-“This won’t take long,” she murmured, pressing her palm to the inner wall of a corridor near the eastern gardens.
+The eastern corridor had been singing wrong for three days—not loudly enough for residents to notice, but there. A hesitation in the resonance. Like someone trying to remember a word and finding only the shape of it.
 
-The wall warmed in greeting.
+Tamsin adjusted her interface band and placed both hands flat against the wall. The feedback came immediately: pressure distribution asymmetric, support vine cluster seven overloaded, backup systems engaged when they should be resting.
 
-She felt it immediately: a subtle hesitation in the flow, like a thought half-finished. Fatigue.
+"You've been carrying too much," she said.
 
-“You’ve been carrying too much,” Tamsin said gently.
+The corridor shimmered, almost embarrassed.
 
-The corridor responded with a faint shimmer, embarrassed.
+She smiled and began the work. Redirecting nutrient flow. Coaxing the eastern support cluster to share load with the underutilized western network. Encouraging new growth where old pathways had stiffened. It was like massage and surgery and negotiation all at once.
 
-She smiled and began the slow work of rebalancing—redirecting growth, easing pressure, encouraging a nearby support vine to take on more structural responsibility. It was like convincing a stubborn muscle to relax.
+Footsteps echoed at the far end of the hall.
 
-A pair of footsteps echoed at the far end of the hall. Light, quick, familiar.
+"Oh—sorry! I thought this section was empty."
 
-“Sorry!” a voice whispered much louder than necessary. “I thought this way was empty.”
+Tamsin glanced up. A girl stood frozen mid-step, maybe twelve, chestnut hair hastily tied back, eyes too bright for someone who should still be asleep. A black cat sat beside her, tail curled neatly over its paws.
 
-Tamsin glanced up as a girl about twelve skidded to a stop, chestnut waves pulled back hastily, deep blue eyes bright with the kind of curiosity that rarely slept. A sleek black cat paused beside her, tail flicking.
+"It's fine," Tamsin said. "Just don't touch anything while I'm working."
 
-The girl froze. “I can wait.”
+The girl immediately clasped her hands behind her back. The cat, naturally, ignored this entirely and padded forward to inspect Tamsin with luminous green eyes.
 
-“You don’t have to,” Tamsin said. “Just don’t touch anything.”
+"Shadow," the girl hissed. "Leave her alone."
 
-The girl nodded solemnly, immediately resting her hands behind her back. The cat, of course, ignored this entirely and padded closer, inspecting Tamsin with luminous green eyes.
+"She's fine." Tamsin returned her attention to the wall. "Most people can't feel when I'm working. You can, can't you?"
 
-“Well,” Tamsin said to the cat, “at least one of you listens.”
+The girl hesitated. "My sibling says I imagine it."
 
-The girl stifled a laugh. “Shadow does what she wants.”
+"You don't." Tamsin made a final adjustment and felt the corridor sigh with relief. "You just don't have the vocabulary yet."
 
-“Of course she does.”
+She stepped back. The hum had smoothed out, the walls realigning subtly. The space felt... lighter.
 
-They shared a quiet moment while the corridor settled. Tamsin finished her adjustments, the hum smoothing out, the walls subtly realigning.
+The girl was watching her with an expression Tamsin recognized. Curiosity wrestling with caution. The look of someone who understood more than they could articulate.
 
-“There,” she said, stepping back. “All better.”
+"Thank you for waiting," Tamsin said.
 
-The girl tilted her head, as if listening to something only half audible. “It feels… calmer.”
+The girl grinned and darted off, Shadow flowing after her like living ink.
 
-Tamsin studied her more closely now. “You hear the undertones.”
+Tamsin listened to the footsteps fade, then checked her list.
 
-“Sometimes,” the girl said. “My sibling says I imagine it.”
+The Tree of Echoes was next.
 
-“You don’t,” Tamsin replied. “You just haven’t learned the words yet.”
+---
 
-That earned her a grin before the girl darted off again, Shadow slipping after her like a shadow that knew its name.
+## II.
 
-Tamsin watched them disappear, then turned toward her next destination.
+She felt it before she reached the clearing. A low resonance that touched the edges of thought—layered, complex, unsettled.
 
 The Tree of Echoes was restless.
 
-She felt it before she reached the clearing—a low, layered resonance rippling outward, brushing against her thoughts like an unfinished chord. The tree was ancient even by Astravus standards, its roots threaded deep into memory-dense strata. It remembered migrations, first bonds, the early harmonics of Lumen itself.
+Tamsin circled the massive trunk, boots sinking into moss that pulsed with faint bioluminescence. The tree was older than most Astraviin alive today. Its roots threaded through memory-rich strata, touching moments from Lumen's earliest migrations. Birth. Bonding. First words spoken in rooms that no longer existed.
 
-It also remembered grief.
+And grief.
 
-Tamsin circled the trunk slowly, boots sinking into moss that glowed faintly under her steps. Someone had been here recently. Small footprints. The lingering warmth of young bodies. A sketch pinned gently into the bark with a biodegradable clasp—crude lines, bright colors, three figures standing beneath exaggerated stars.
+The tree remembered grief the way water remembered motion—taking shape from what passed through it.
 
-“Still teaching them to listen,” Tamsin murmured.
+Someone had been here recently. Small footprints tracked through the moss. A sketch pinned to the bark with a biodegradable clasp: three stick figures beneath oversized stars, colors bright enough to hurt.
 
-The tree answered with a soft creak—more presence than sound.
+Tamsin touched the drawing gently.
 
-“I know,” she said. “It hurts. It’s supposed to.”
+"Still teaching them," she said.
 
-She placed both hands against the bark and opened herself just enough to feel the imbalance. Accumulation. Too many echoes layered without space to fade. A community that rarely lost anyone didn’t have good habits around letting go.
+The tree responded with a creak—less sound than presence.
 
-Tamsin worked slowly, coaxing excess resonance outward, dispersing it into the surrounding lattice where it could soften, mingle, become something shared instead of sharp. The process left her breathless, eyes stinging.
+She placed both palms against the bark and opened her senses. The imbalance was immediate. Too much accumulated resonance, too many echoes without space to soften. A community that rarely lost anyone didn't develop good habits around letting go.
 
-When she finished, she sat at the base of the tree and let herself feel small.
+The work required care. She couldn't just erase the grief—that would dishonor it. Instead, she coaxed it outward, dispersing the sharpest edges into the surrounding lattice where they could mingle with other memories, becoming part of the background hum instead of a constant ache.
 
-Voices drifted from the path beyond the clearing. Adults this time. Measured footsteps. A low, familiar cadence of storytelling.
+By the time she finished, her eyes were stinging and her breath came shallow.
 
-“…not just what happened,” the voice was saying, “but how it felt to be there. That’s what matters.”
+She sat at the base of the tree and let herself be small for a while.
 
-Tamsin didn’t turn around. She didn’t need to.
+Voices drifted past on the nearby path. A storyteller's cadence, measured and warm, followed by the shuffle of children's footsteps.
 
-The storyteller passed without noticing her, followed by a handful of children. One lingered, glancing toward the tree, expression thoughtful, then hurried after the group.
+"…not just what happened," the storyteller was saying, "but how it felt. That's what we remember."
 
-Tamsin waited until they were gone before standing.
+One of the children lingered at the edge of the clearing, staring at the tree. Their expression was thoughtful, old beyond their years. Then they turned and hurried after the group.
 
-“Thank you,” she told the Tree.
+Tamsin waited until the voices faded completely before standing.
 
-It responded with a warmth deeper than temperature.
+"Thank you," she told the tree.
 
-Later that evening, the Festival of Lights bloomed across Lumen.
+It responded with warmth deeper than temperature.
 
-Tamsin wasn’t officially on duty, but she wandered the plaza anyway, drawn by habit more than obligation. Lanterns drifted upward like captive stars, each carrying a wish, a memory, a hope too personal to say aloud. Music wove through the crowd, layered and living.
+---
 
-She paused near the edge of the plaza, watching people she barely knew dance with people they loved fiercely.
+## III.
 
-A familiar laugh cut through the noise—bright, musical. A young woman was animatedly describing something to a companion, hands moving like she was shaping the air itself. Tamsin caught fragments of story, metaphor stacked on metaphor, a mind that saw worlds everywhere.
+The Festival of Lights began at dusk.
 
-Nearby, the girl from the corridor sat cross-legged with her siblings, sketching the lanterns as they rose. The cat sprawled beside her, unimpressed by the spectacle.
+Tamsin wasn't on duty, but she wandered the plaza anyway. Lanterns rose into the upper reaches of Lumen's canopy, each carrying something private—wishes, memories, hopes too fragile to speak aloud. Music layered through the crowd, organic and improvised.
+
+She stood at the plaza's edge and watched people she barely knew celebrate with people they loved fiercely.
+
+A laugh cut through the music—bright, musical, infectious. A young woman was gesturing wildly at her companion, hands shaping invisible concepts, metaphors tumbling over each other faster than words could contain them. Her companion watched with the expression of someone who'd learned to translate enthusiasm into patience.
+
+Near the fountain, the girl from the corridor sat cross-legged with two older siblings, sketching the lanterns as they rose. The black cat sprawled beside her, utterly unimpressed by the spectacle.
 
 Tamsin smiled.
 
-This, she thought, was the quiet work of constellations.
+This was the work.
 
-Not the grand designs or the elegant theories. Not transcendence or legacy or even memory.
+Not the grand transformations or elegant theories. Not transcendence or legacy or even memory, really.
 
-But maintenance.
+Just maintenance.
 
-The constant, humble act of noticing strain before it became fracture. Of making room for grief without letting it calcify. Of ensuring that when people moved forward, the world moved with them.
+Noticing strain before it became fracture. Making room for grief without letting it calcify. Ensuring that when people moved forward, the world moved with them.
 
-As the lanterns vanished into the upper glow and the Astravus hummed its approval, Tamsin turned back toward the lattice, already feeling where she’d be needed next.
+Someone bumped into her—apologized—disappeared into the crowd.
 
-There was always more quiet work to do.
+A lantern drifted past her face, close enough to feel its warmth.
 
-And that was exactly how Lumen stayed whole. 
+Above, Lumen's bioluminescent ceiling pulsed in rhythm with the music, the Astravus participating in the only way it could. Tamsin felt the familiar hum beneath everything, steady and patient.
+
+There was always more work to do.
+
+The lattice never finished rebalancing. The Tree of Echoes would collect more grief. The corridors would develop new hesitations, new patterns of wear.
+
+And Tamsin would be there in the quiet hours, hands against living walls, listening for the things most people couldn't hear.
+
+She turned away from the festival and headed back toward the eastern sector.
+
+Someone would need her there tomorrow.
+
+And that was exactly how Lumen stayed whole.
+
+---
+
+*End*
