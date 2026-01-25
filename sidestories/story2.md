@@ -1,158 +1,186 @@
 # User Prompt
 
-Write a side story set in Lumen on market day, following a household member navigating the economic web of guilds and households. Show the layered currency system—Sparks, Bonds, Rays, and guild scrip—working fluidly. Include cameo appearances by main characters in the background. The story should reveal how Lumen's socioeconomic system creates abundance through circulation rather than accumulation.
+Write a side story set in Lumen during the arrival of a visiting Astravus bringing rare trade goods, following a household member navigating the economic web of guilds and households during the excitement. Show the layered currency system—Sparks, Bonds, Rays, and guild scrip—working fluidly. Include cameo appearances by main characters in the background. The story should reveal how Lumen's socioeconomic system creates abundance through circulation rather than accumulation.
 
-# Market Morning
+# The Arrival Market
 
 ## I.
 
-The smell of bread woke Vesper. Yeast and honey, drifting through the courtyard from Household Brennan's ovens.
+Vesper woke to the resonance.
 
-Sixthday. Market day.
+Deep, harmonic, unfamiliar. A second voice woven into Lumen's usual hum—distant but approaching, like hearing a stranger's song through walls.
 
-She rolled out of bed and found Corvin already in the kitchen, sorting their trade goods into baskets. Preserved fruits. Dried herbs. The spiced honey that had become their household's signature.
+She sat up, heart racing with recognition.
 
-"The Weavers confirmed they'll have Reya's blanket ready," Corvin said without looking up. "And Grandmother wants the tea set back."
+Visiting Astravus. Coming to dock.
 
-Vesper ran the numbers in her head. The blanket would cost most of what they'd earn today. The tea set repair was cheaper but still real money. They had ☼42 in Rays and ⊤18 in Weaver Threads from last month's trade.
+Corvin was already in the kitchen when she stumbled in, sorting through their trade goods with unusual intensity. "You felt it too?"
 
-Tight, but workable.
+"How could I not?" Vesper pulled up the docking schedule on her interface. "Wanderer class. Name is Kestrel. En route from the Outer Reach." She paused, reading. "They're carrying void-grown crystals. And spice blends from the crimson gardens."
 
-"How's the honey stock?" she asked.
+Corvin's eyes widened. "The crimson gardens haven't traded in three years."
 
-"Fourteen jars left. Last of the season."
+"I know." Vesper was already calculating. Their household had been saving for something special—Reya's blanket for the baby, yes, but also the tea set repair for Grandmother, and maybe, if they were careful, something rare. Something impossible to get from Lumen alone.
 
-"Good." She could always move the honey.
+"How much do we have?" she asked.
+
+"☼42 in Rays, ⊤18 in Weaver Threads, and I just got paid ♪30 in Acoustic Notes for last week's consultation."
+
+Vesper did the math. "We need at least ☼100 for the blanket and the tea set. But if Kestrel brought what I think they brought..."
+
+"What are you planning?"
+
+She grinned. "Let's find out what the impossible costs these days."
 
 ---
 
 ## II.
 
-The Central Plaza was already humming when she arrived, baskets balanced across her shoulders. Bioluminescent vines cast morning light across the stalls, and the Astravus radiated contentment like warmth from banked coals.
+The Central Plaza had transformed overnight.
 
-Lumen loved market days.
+Temporary stalls lined the pathways, draped in bioluminescent banners that shifted colors in patterns Vesper didn't recognize—Kestrel's signature, probably. The air smelled different, carrying hints of foreign gardens and stellar winds. The crowd was three times the normal density, and the energy crackling through it made her skin tingle.
 
-She set up at their usual spot—a stone table worn smooth by generations of hands. The honey jars caught the light, amber and gold. She waited.
+Lumen loved visitors. The whole Astravus practically vibrated with excitement.
 
-"Vesper!"
+Vesper threaded through the crowd, baskets balanced across her shoulders. Her household's spiced honey suddenly felt pedestrian compared to the exotic goods already on display—crystallized starlight in glass vials, fabric woven from some plant that seemed to breathe, instruments that hummed without being touched.
 
-Brennan appeared out of the crowd, flour-dusted and smiling. Two of his household's children trailed behind him, already distracted by a fruit seller's display.
+She set up at their usual spot anyway. The honey jars caught the light, familiar and golden.
 
-"Is that the mountain honey?"
+"Vesper!" Brennan materialized from the chaos, flour-dusted as always, but his eyes were bright with the same fever she felt. "Did you see what they brought?"
 
-"Last batch," Vesper said. "The bees are sleeping."
+"Not yet. I'm selling first, buying later."
 
-His eyes widened. "I need four jars for the festival cakes."
+"Smart." He gestured at her honey. "I'll take four jars. ☼28, same as always?"
 
-"☼28 for four."
+She opened her mouth to agree, then hesitated. The arrival market had different rules. Scarcity and abundance were inverted—common goods became valuable to visitors, rare goods became accessible to residents.
 
-He didn't hesitate. Tapped his ledger against hers, and the Rays transferred—clean, immediate, done. "Worth every ray."
+"☼32," she said. "You know the honey won't last, and Kestrel's crew will pay premium for local goods."
 
-Vesper wrapped the jars in cloth and handed them over.
+Brennan didn't even blink. "Done. And you're right—I should buy eight."
 
-Fair price. Clean transaction. Both sides satisfied.
+They tapped ledgers. ☼64 transferred clean. She wrapped the jars, already recalculating their household position.
 
-This was how it worked.
+Within an hour, all fourteen jars were gone. ☼156 in new Rays, plus trades she hadn't expected: ◊12 in Kestrel Marks—a temporary currency that would convert to Rays when the visiting Astravus departed—and a promise of three months of bread from Household Brennan, logged but not yet valued.
 
----
-
-By mid-morning, half her goods were gone.
-
-A young acoustic architect bought the dried herbs for ☼6, then paused. "Actually—would you take ♪15 in Notes? I'm short on Rays until my first clients pay."
-
-"♪15 works." They tapped ledgers. Vesper's household now held guild scrip good for soundscape consultations. Reya had been complaining about the echo in the nursery.
-
-A neighboring household sent their eldest with ☼14 and a request: could they reserve eight hours of care next month? Vesper checked the household schedule.
-
-"☼14 covers six hours," she said. "But tell your parents we'll do eight. Grandmother loves your little ones."
-
-She marked the commitment in their ledger. Partly paid. Partly gift.
-
-The real wealth of Lumen wasn't hoarded savings. It was active flow, currencies moving through you like breath.
-
-By noon, the household account had grown: ☼60 in new Rays, ♪15 in Notes, care commitments logged. Plus three jars of honey given as gifts—which didn't go in the ledger but mattered more than most things that did.
+This was the gift economy revealing itself. Markets amplified what was always there.
 
 ---
 
 ## III.
 
-She found the Weavers' stall draped in new work. Tapestries that shimmered with thread she didn't recognize. Through the open workshop arch, she could see the automated looms working in gentle rhythm, producing everyday cloth while the guild members focused on pieces that required human hands.
+Vesper found the Kestrel delegation's main stall near the eastern arch, where the visiting Astravus had extended a physical connection to Lumen. The interface point glowed with pale blue light, and the stall itself seemed grown rather than built—organic curves that didn't quite match Lumen's aesthetic.
 
-The guildmaster looked up from a pattern sketch. Silver hair, fingers perpetually stained with dye.
+Behind the counter stood a woman with dark skin and silver tattoos that moved. The marks of deep integration, old style.
 
-"Reya's blanket is ready." She produced it from beneath the counter: deep blues and greens that seemed to hold their own light. "Hand-woven. ☼65, or ☼50 plus Threads."
+"What draws your eye?" the woman asked. Her accent was strange, vowels held too long.
 
-Vesper checked her ledger. ☼102 in Rays now, thanks to the morning's sales. Plus ⊤18 in Threads.
+Vesper looked at the display. Void-grown crystals that captured and held light. Spices in colors she didn't have names for. And there, half-hidden in the back: a small bundle of seeds, labeled simply "Crimson Garden, Heritage Strain."
 
-"☼47 plus our ⊤18?"
+Her breath caught.
 
-"Done."
+"The seeds," she said. "What are they?"
 
-The currencies flowed. Rays to the guild's general account. Threads back into circulation where they'd eventually reach another member or convert for external purchases.
+"Night-blooming jasmine. The strain our gardens were founded from, before the genetic drift." The woman picked up the bundle carefully. "Kestrel's botanists have been maintaining the pure line for two hundred years. We bring samples when we visit, in case anyone wants to remember what the beginning smelled like."
 
-The blanket changed hands.
+"How much?"
 
-Vesper cradled it carefully, already imagining Reya's face.
+"☼180, or ☼120 plus guild equivalent."
 
----
+Vesper checked her ledger. After the morning's sales: ☼198 in Rays, ♪30 in Notes, ⊤18 in Threads, ◊12 in Kestrel Marks. Enough.
 
-The Ceramic Artists occupied a corner near the eastern gardens. Vesper spotted familiar faces in the crowd as she walked—a tall man with silver-streaked hair telling stories to children; a petite woman with white hair examining wind chimes, fingers twitching like she was scoring music.
+But only if she didn't buy the blanket. Didn't repair the tea set. Spent everything on something that might not even grow.
 
-At the ceramics stall, a young apprentice was wrapping Grandmother's tea set. The crack in the teapot lid had vanished. The glaze looked new but somehow original.
+The woman was watching her with patient eyes. "You're calculating what you'll lose to gain this."
 
-"Master Orin showed me a technique from the archives," the apprentice said, touching the lid with evident pride. "Three hundred years old, but perfect for this glaze. The fabricators can make a thousand cups, but they can't do this."
+"Yes."
 
-"It's beautiful," Vesper said. "What do I owe you?"
+"The blanket is for someone you love. The tea set is for someone who's leaving soon." The woman's tattoos shifted, reading something Vesper couldn't see. "And these seeds are for someone who isn't born yet."
 
-"☼8 for materials. Labor was logged as training hours."
+Vesper stared. "How did you—"
 
-Vesper paid, then paused. She still had several jars of honey left.
+"The Astravii talk to each other. Kestrel knows what Lumen knows." She smiled. "The choice is still yours."
 
-"Would you take a jar as a gift? For your household, from ours."
+Vesper closed her eyes. Saw Reya's face when she'd feel the blanket's colors. Saw Grandmother's hands trembling over the repaired tea set. Saw a child she'd never met, decades from now, smelling flowers that had been extinct for centuries.
 
-The apprentice's smile was worth more than any currency.
+"I'll take the seeds," she said. "☼120 plus ♪30 in Acoustic Notes."
 
-That was the point.
+The woman nodded as if she'd expected this. "The notes work. Kestrel needs soundscape consultation for the eastern gardens—your guild can send someone."
 
-Gifts flowed outside the currency system, building relationships that made the currencies work.
+The currencies flowed. The seeds changed hands.
+
+Vesper cradled the bundle, heart pounding with the weight of what she'd chosen.
 
 ---
 
 ## IV.
 
-On the way home, Vesper passed through the eastern gardens. Food-bearing plants grew beside pure ornamentals here, the Astravus's way of reminding everyone that beauty was as necessary as bread.
+She found the Weavers' stall draped in new work—tapestries that incorporated Kestrel's glowing thread into traditional Lumen patterns. The guildmaster looked up from a partially completed piece.
 
-A girl sat on a bench with a sketchbook, black cat curled beside her. Chestnut waves caught the bioluminescent light as she drew, utterly absorbed.
+"Vesper. I have Reya's blanket ready." She produced it: deep blues and greens, hand-woven, perfect. "☼65, or ☼50 plus Threads."
 
-The cat watched Vesper with knowing green eyes, then returned to its nap.
+"I can't," Vesper said, the words catching in her throat. "I bought something else. I'm sorry."
 
-Vesper walked on.
+The guildmaster's expression shifted—not anger, but curiosity. "Show me."
+
+Vesper unwrapped the seeds.
+
+The guildmaster's breath caught. "Crimson Garden heritage strain." She looked up. "You chose this over the blanket?"
+
+"I don't know if I chose right."
+
+"Neither do I." The guildmaster touched one of the seed pods gently. "But I understand why you chose it." She paused. "Bring me three seeds when they grow. I'll weave their flowers into something for the baby. No charge. That's gift, not trade."
+
+Vesper's eyes stung. "Thank you."
+
+"Go home. Tell Reya. Let her decide if you chose wrong."
 
 ---
 
+On the way back, Vesper passed through the eastern gardens. The crowd had thinned as evening approached, but the excitement still hummed through the air. She spotted familiar faces: a tall man with silver-streaked hair examining Kestrel's musical instruments; a girl with chestnut hair sketching the glowing interface point, black cat watching from her shoulder.
+
+At the ceramics stall, the apprentice was wrapping Grandmother's tea set. Vesper stopped.
+
+"I can't afford it today," she said quietly. "I bought something else instead."
+
+The apprentice looked at the seeds, then at Vesper. "Master Orin says the most important things are the ones we can't afford. Come back next week. We'll work something out."
+
+"But the guild—"
+
+"The guild maintains archives three hundred years old. We can wait one more week." She smiled. "Go home."
+
+---
+
+## V.
+
 That evening, her household gathered in their central room.
 
-Grandmother examined the repaired tea set with trembling hands. "Your grandfather gave me this before his transcendence. I thought I'd lost it when it cracked."
+Vesper unwrapped the seeds with trembling hands.
 
-"The guild kept the old techniques," Vesper said. "They're still there when we need them."
+Reya stared at them, then at Vesper. "You bought these instead of my blanket."
 
-Reya held the blanket against her belly, colors shimmering. "The baby will know these colors before she even opens her eyes."
+"Yes."
 
-Corvin tallied the day in the household ledger. "Started with ☼42 and ⊤18. Sold ☼60 worth of goods. Spent ☼55 on the blanket and ☼8 on ceramics. Net: ☼39 in Rays, ♪15 in Notes, plus six hours of care committed." He looked up. "And three jars of honey given as gifts."
+"Why?"
 
-"Gifts don't go in the ledger," Grandmother said gently.
+Vesper chose her words carefully. "Because the blanket will keep her warm for a few years. But these... if we grow them, if we share them, if they take root in Lumen's gardens—she'll smell them her whole life. Her children will smell them. Everyone will."
 
-"I know." Corvin smiled. "But I like to remember them anyway."
+Reya's eyes filled with tears. She reached out and touched a seed pod.
 
-In the corner, the household fabricator hummed through its evening queue. Standard jars for tomorrow's honey. Replacement lids for the preserve containers. Small necessities freed from handcraft.
+"You chose right," she whispered.
 
-It freed them for what mattered: the spice blend that made their honey unique, the careful harvesting that kept the bees content, the relationships that turned neighbors into customers and customers into friends.
+Corvin pulled up the household ledger. "Started with ☼42, ⊤18, and ♪30. Sold ☼156 worth of goods. Spent ☼120 on seeds, plus ♪30. Net: ☼78 in Rays, ⊤18 in Threads, ◊12 in Kestrel Marks, plus three months of bread and a promise from the Weavers."
 
-Through the window, Lumen's gardens shifted toward evening colors. The Astravus hummed low and satisfied—the sound of a living world where currencies flowed like blood and gifts flowed like breath.
+Grandmother was watching Vesper with an expression she couldn't read. "My tea set will wait. But seeds won't." She leaned forward. "Plant them in the morning. I want to see them before I transcend."
 
-Vesper understood, as she always did on market days, that she wasn't just trading goods.
+Through the window, Lumen's gardens pulsed with doubled light—its own bioluminescence mixed with Kestrel's strange glow. Two Astravii in harmony, two communities trading more than goods.
 
-She was weaving Lumen together, one transaction at a time.
+Trading possibility.
+
+Vesper held the seeds and understood, more clearly than ever, that wealth wasn't what you kept.
+
+It was what you put in motion.
+
+What you chose to grow.
 
 ---
 
