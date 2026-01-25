@@ -16,6 +16,7 @@ This directory contains detailed documentation of the worldbuilding elements in 
 ## Society and Culture
 
 - **[Constellations.md](./Constellations.md)** - Family structure; multi-adult households; formation and parenting
+- **[Socioeconomics.md](./Socioeconomics.md)** - Guilds, households, commerce, and currency systems
 - **[The-Sanctuary.md](./The-Sanctuary.md)** - Birth, First Breath ceremonies, and the arrival of new life
 - **[Art-and-Expression.md](./Art-and-Expression.md)** - Utamn, shaari, and the role of art in Astraviin culture
 - **[Technology.md](./Technology.md)** - Living technology, nanomachines, mental interfaces
@@ -47,6 +48,7 @@ This directory contains detailed documentation of the worldbuilding elements in 
 | How does transcendence work? | [Transcendence.md](./Transcendence.md) | Gradual merging with Astravus |
 | What is Core Integration? | [Core-Integration.md](./Core-Integration.md) | Age-35 transformation |
 | How do families work? | [Constellations.md](./Constellations.md) | Multi-adult family units |
+| How does the economy work? | [Socioeconomics.md](./Socioeconomics.md) | Guilds, households, commerce |
 | How are children born? | [The-Sanctuary.md](./The-Sanctuary.md) | Birth and First Breath |
 | What role does art play? | [Art-and-Expression.md](./Art-and-Expression.md) | Utamn, shaari, expression |
 | What is the technology like? | [Technology.md](./Technology.md) | Living tech, nanomachines |
