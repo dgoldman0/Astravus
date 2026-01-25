@@ -18,7 +18,7 @@ Tamsin carried no visible tools. She wore a slim interface band at her wrist and
 
 The wall warmed in greeting.
 
-She felt it immediately: a subtle hesitation in the flow, like a thought half-finished. Not damage. Fatigue.
+She felt it immediately: a subtle hesitation in the flow, like a thought half-finished. Fatigue.
 
 “You’ve been carrying too much,” Tamsin said gently.
 
@@ -70,11 +70,11 @@ Tamsin circled the trunk slowly, boots sinking into moss that glowed faintly und
 
 “Still teaching them to listen,” Tamsin murmured.
 
-The tree answered with a soft creak, not sound exactly, but presence.
+The tree answered with a soft creak—more presence than sound.
 
 “I know,” she said. “It hurts. It’s supposed to.”
 
-She placed both hands against the bark and opened herself just enough to feel the imbalance. Not damage—never damage with the Tree—but accumulation. Too many echoes layered without space to fade. A community that rarely lost anyone didn’t have good habits around letting go.
+She placed both hands against the bark and opened herself just enough to feel the imbalance. Accumulation. Too many echoes layered without space to fade. A community that rarely lost anyone didn’t have good habits around letting go.
 
 Tamsin worked slowly, coaxing excess resonance outward, dispersing it into the surrounding lattice where it could soften, mingle, become something shared instead of sharp. The process left her breathless, eyes stinging.
 
@@ -92,7 +92,7 @@ Tamsin waited until they were gone before standing.
 
 “Thank you,” she told the Tree.
 
-It responded with a warmth that had nothing to do with temperature.
+It responded with a warmth deeper than temperature.
 
 Later that evening, the Festival of Lights bloomed across Lumen.
 

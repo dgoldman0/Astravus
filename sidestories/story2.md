@@ -40,7 +40,7 @@ Brennan's eyes widened. "I need four jars. Name your price."
 
 Brennan didn't even hesitate. He tapped his ledger against hers, and the Rays transferred—his household account to hers, clean and immediate. "Worth every ray. The festival cakes won't be the same without it."
 
-Vesper wrapped the jars carefully and handed them over. No negotiation, no calculating relative worth, no awkwardness. Just a fair price paid in currency they both trusted.
+Vesper wrapped the jars carefully and handed them over. Fair price, immediate transfer, mutual satisfaction.
 
 ---
 
@@ -118,7 +118,7 @@ Corvin tallied the day in the household ledger. "Started with ☼42 and ⊤18. S
 
 "I know." Corvin smiled. "But I like to remember them anyway."
 
-In the corner, the household's small fabricator hummed through its evening queue—standard jars for tomorrow's honey, replacement lids for the preserve containers, the small necessities that no one needed to make by hand. It freed them to do what mattered: the spice blend that made their honey unique, the careful harvesting that kept the bees content, the relationships that turned neighbors into customers and customers into friends.
+In the corner, the household's small fabricator hummed through its evening queue—standard jars for tomorrow's honey, replacement lids for the preserve containers, the small necessities freed from handcraft. It freed them to do what mattered: the spice blend that made their honey unique, the careful harvesting that kept the bees content, the relationships that turned neighbors into customers and customers into friends.
 
 Through the window, Lumen's bioluminescent gardens shifted toward evening colors. The Astravus hummed, low and satisfied—the sound of a living world where currencies flowed like blood and gifts flowed like breath.
 

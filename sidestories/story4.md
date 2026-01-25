@@ -6,7 +6,7 @@ Write a short story set in Lumen about an emergency involving the Astravus itsel
 
 Dara felt it before the alarms sounded.
 
-A wrongness. Not pain exactly—the Astravus didn't transmit pain the way a human body did—but a profound *not-rightness* that made her skin crawl and her Core pulse with distress.
+A wrongness. A profound *not-rightness* that made her skin crawl and her Core pulse with distress.
 
 She was out of bed and dressed before she fully understood what was happening.
 
@@ -38,11 +38,11 @@ Dara placed her own hands against the wall and opened her awareness.
 
 The Astravus's distress hit her like a wave.
 
-Not words—the Astravus rarely used words—but something older and more elemental. A wounded animal's confusion. *Why does this hurt? What went wrong? Help.*
+Something older and more elemental. A wounded animal's confusion. *Why does this hurt? What went wrong? Help.*
 
 *We're here,* Dara thought back, as steadily as she could. *We're going to help.*
 
-More responders arrived: Botanical Engineers carrying growth accelerants and tissue cultures, Biomedical Practitioners with tools that worked on organic systems regardless of scale. The Astravus was, in many ways, just a very large patient.
+More responders arrived: Botanical Engineers carrying growth accelerants and tissue cultures, Biomedical Practitioners with tools that worked on organic systems regardless of scale. The Astravus was a very large patient.
 
 "We need to stop the cascade first," Mira was saying. "The lattice is draining adjacent sectors to reinforce the breach. If it takes too much, we'll have failures in housing, in gardens—"
 
@@ -120,7 +120,7 @@ The guild hall was quiet when she arrived, most of the response team already gon
 
 Sleep came quickly, and with it, dreams.
 
-She dreamed she was floating in warmth, cradled by something vast and gentle. The Astravus's heartbeat thrummed around her—not a literal heartbeat, but a rhythm that felt like one. In the dream, she was very small, and that was all right. Small things could heal large ones, if they worked together.
+She dreamed she was floating in warmth, cradled by something vast and gentle. The Astravus's heartbeat thrummed around her—a rhythm that felt like breath and pulse combined. In the dream, she was very small, and that was all right. Small things could heal large ones, if they worked together.
 
 When she woke, the light filtering through the guild hall windows was golden with late afternoon.
 

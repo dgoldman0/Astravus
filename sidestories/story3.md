@@ -48,7 +48,7 @@ The mother's hand flew to her mouth. The father gripped her shoulder.
 
 "Yes. Talk to her. Keep her calm."
 
-Orin unfolded his kit—not the sterile gleaming instruments of old Earth medicine, but a set of living tools nested in a soft organic case. A bone guide, grown from a culture maintained by the Biomedical Practitioners for centuries. A tissue mender, its surface rippling slightly as it sensed the nearby injury. A pain blocker, though the Astravus was already handling most of that.
+Orin unfolded his kit—a set of living tools nested in a soft organic case. A bone guide, grown from a culture maintained by the Biomedical Practitioners for centuries. A tissue mender, its surface rippling slightly as it sensed the nearby injury. A pain blocker, though the Astravus was already handling most of that.
 
 "Vela, I'm going to fix your arm now," he said. "You won't feel much. Your parents are right here."
 

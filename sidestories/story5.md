@@ -10,7 +10,7 @@ This should be written as the first installment in a series rather than a standa
 
 Astronomer Keth Sora was the first to see it.
 
-She had been alone in the Cloudbreak Observatory, running calibrations on the new spectral array, when the instruments screamed. Not figuratively—the harmonic sensors actually produced a sound, a rising wail that meant *something impossible is happening*.
+She had been alone in the Cloudbreak Observatory, running calibrations on the new spectral array, when the instruments screamed. The harmonic sensors produced a sound, a rising wail that meant *something impossible is happening*.
 
 Keth's first thought was equipment failure. Her second thought, when she looked at the data, was that she was having a stroke.
 
@@ -164,7 +164,7 @@ She typed her response with trembling fingers:
 
 They came at dawn, three days later.
 
-Not in a vessel—the Verathi had expected a ship—but in something stranger. A small portion of the vast presence detached itself and drifted downward, a luminous seed falling slowly toward the surface. It landed in a field outside Thresh, witnessed by thousands who had gathered despite military cordons.
+They came in something stranger than a vessel. A small portion of the vast presence detached itself and drifted downward, a luminous seed falling slowly toward the surface. It landed in a field outside Thresh, witnessed by thousands who had gathered despite military cordons.
 
 The seed opened.
 
