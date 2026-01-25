@@ -60,9 +60,11 @@ This was the real wealth of Lumen. Not what you held, but what moved through you
 
 ---
 
-She found the Weavers' stall draped in new work—tapestries that shimmered with thread spun from some plant she didn't recognize. The guildmaster, a woman with silver hair and fingers perpetually stained with dye, looked up as Vesper approached.
+She found the Weavers' stall draped in new work—tapestries that shimmered with thread spun from some plant she didn't recognize. Behind the display, Vesper glimpsed the guild's workshop through an open arch: rows of looms working in gentle rhythm, tended by the Astravus's automated systems, producing everyday cloth while the guild's members focused on the pieces that required human hands.
 
-"The blanket's ready. Reya's colors, as promised." She produced it from beneath the counter: deep blues and greens that seemed to hold their own light. "Sixty tokens or equivalent."
+The guildmaster, a woman with silver hair and fingers perpetually stained with dye, looked up as Vesper approached. She'd been sketching a new pattern—the kind of work no loom could do on its own.
+
+"The blanket's ready. Reya's colors, as promised." She produced it from beneath the counter: deep blues and greens that seemed to hold their own light. Hand-woven, Vesper noted—a ceremonial piece, not something from the automated lines. "Sixty tokens or equivalent."
 
 Vesper winced internally. Their household had budgeted fifty.
 
@@ -80,11 +82,11 @@ The blanket changed hands. Vesper cradled it carefully, already imagining Reya's
 
 The plaza had grown crowded by the time she reached the Ceramic Artists' corner. She spotted familiar faces in the throng—a tall man with silver-streaked hair telling a story to a cluster of children (was that the oral historian from Calista's constellation? Dorian, she thought his name was); a petite woman with white hair examining a display of wind chimes, fingers twitching as if scoring the sounds they made.
 
-At the ceramics stall, a young apprentice was carefully wrapping her grandmother's tea set—the crack in the teapot lid now invisibly mended, the glaze refreshed to its original soft gray.
+At the ceramics stall, a young apprentice was carefully wrapping her grandmother's tea set—the crack in the teapot lid now invisibly mended, the glaze refreshed to its original soft gray. Behind her, the guild's fabricators hummed quietly, producing standard bowls and cups from established patterns. But restoration work like this—reading the old glaze, matching the original maker's intent—that was irreducibly human.
 
 "That's beautiful work," Vesper said.
 
-The apprentice ducked her head, pleased. "Master Orin showed me a technique from the archives. Three hundred years old, but perfect for this glaze."
+The apprentice ducked her head, pleased. "Master Orin showed me a technique from the archives. Three hundred years old, but perfect for this glaze. The fabricators can make a thousand cups, but they can't do *this*." She touched the mended lid with evident pride.
 
 "What do I owe?"
 
@@ -113,6 +115,8 @@ Grandmother examined the repaired tea set with trembling hands, then looked up w
 Reya held the blanket against her growing belly, the colors shimmering. "It's perfect. The baby will know these colors before she even opens her eyes."
 
 Corvin tallied the day's trades in the household ledger: honey distributed across six households, bread responsibilities shifted, guild relationships strengthened, time credits flowing, ceramic bonds renewed. A dinner seat promised. Care hours committed. A web of obligations that was also, somehow, a web of gifts.
+
+In the corner, the household's small fabricator hummed through its evening queue—standard jars for tomorrow's honey, replacement lids for the preserve containers, the small necessities that no one needed to make by hand. It freed them to do what mattered: the spice blend that made their honey unique, the careful harvesting that kept the bees content, the relationships that turned neighbors into trading partners.
 
 "Good day?" he asked.
 

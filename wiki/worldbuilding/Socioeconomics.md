@@ -197,6 +197,47 @@ The Astravii produce abundance for basic needs:
 
 ---
 
+## Automation and Human Focus
+
+### The Division of Labor
+
+A critical feature of Astraviin economics is the sharp division between **routine production** and **creative direction**:
+
+- **Automation handles the mechanical**: Once something is designed, understood, and specified, automated systems—integrated into the Astravus itself—handle replication, maintenance, and routine production
+- **People handle the innovative**: Design, direction-setting, experimentation, teaching, and the irreducibly human aspects of craft remain with guild members and households
+
+### What Automation Does
+
+| Domain | Automated | Human-Directed |
+|--------|-----------|----------------|
+| **Textiles** | Spinning thread, basic weaving patterns | New designs, color selection, ceremonial pieces |
+| **Ceramics** | Clay preparation, standard forms | Glazes, artistic pieces, restoration work |
+| **Food** | Basic cultivation, harvesting, processing | Recipe development, fermentation cultures, specialty items |
+| **Infrastructure** | Routine maintenance, standard growth | Rebalancing, troubleshooting, new construction |
+| **Medicine** | Diagnostics, standard treatments | Complex cases, research, wellness counseling |
+
+### Why This Matters
+
+Automation frees people to:
+
+- **Pursue mastery**: Spend time on the edges of their craft rather than repetitive production
+- **Teach and mentor**: Pass knowledge to the next generation without production pressure
+- **Experiment**: Try new approaches without risking essential supply
+- **Live fully**: Dedicate time to relationships, art, play, and contemplation
+
+### Guild Relationship to Automation
+
+Guilds do not own or control automation—the Astravus provides it as infrastructure. Guild members:
+
+- Set specifications and quality standards that automation follows
+- Monitor output and adjust parameters
+- Handle everything automation cannot: judgment, creativity, interpersonal connection
+- Train the systems when new techniques are developed
+
+This means a master weaver might design a new pattern, teach it to the looms, then spend her time on one-of-a-kind ceremonial pieces while the looms produce everyday cloth. An apprentice learns both the craft itself and how to direct the automated systems that amplify it.
+
+---
+
 ## Practical Life
 
 ### A Day in the Economy
