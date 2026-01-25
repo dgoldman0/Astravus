@@ -72,44 +72,121 @@ Households trade with each other and with guilds:
 
 ## Currency and Exchange
 
-### Narrow Currencies
+### The Currency Hierarchy
 
-Rather than a single universal currency, Lumen operates on multiple **narrow currencies**—tokens of exchange that circulate within and between specific domains:
+Rather than a single universal currency, Astraviin society operates on a hierarchy of **narrow currencies**—each serving a specific scope and purpose. This layered system prevents resource hoarding, encourages circulation, and keeps economic power distributed.
 
-| Currency Type | Issued By | Used For |
-|--------------|-----------|----------|
-| **Guild Scrip** | Individual guilds | Intra-guild transactions, member benefits |
-| **Barter Tokens** | Community coordination | Balancing asymmetric trades |
-| **Time Credits** | Households/Guilds | Labor exchanges, especially for care work |
-| **Material Chits** | Resource coordinators | Access to scarce materials (rare minerals, specialty compounds) |
-| **Energy Allocations** | Astravus systems | Major production requiring significant power |
+#### Tier 1: Universal Energy Standard
 
-### How Trade Works
+**Sparks (◇)**
+- Pegged to actual energy allocation from the Astravus
+- The universal baseline accepted everywhere
+- Used for major infrastructure, rare materials, and inter-Astravii settlement
+- Symbol: ◇ (e.g., "◇50" or "fifty sparks")
 
-**Example: A Household Acquiring a New Blanket**
+#### Tier 2: Inter-Astravii Currency
 
-1. The household offers surplus garden herbs to the Textile Weavers Guild
-2. The guild values the herbs at 12 barter tokens
-3. A master weaver has a blanket valued at 20 tokens
-4. The household adds 8 time credits (earned from childcare services) to complete the exchange
-5. The weaver receives both herbs (for personal use) and time credits (redeemable for future services)
+**Bonds (∞)**
+- Shared currency between Astravii populations (Lumen, Aurora, Nyx, and others)
+- Used by travelers, explorers, and for inter-community trade
+- Backed by mutual agreements between Astravii collectives
+- Symbol: ∞ (e.g., "∞20" or "twenty bonds")
 
-**Example: A Guild Acquiring Specialized Equipment**
+#### Tier 3: Local Currency
 
-1. The Ceramic Artists Guild needs a new kiln component
-2. They approach the Lattice Technicians, who can grow the necessary bio-interface
-3. The Ceramicists offer 50 units of guild scrip (redeemable for pottery at member rates)
-4. They add a commitment: two ceramic artists will teach a workshop for the Technicians' children
-5. The exchange is recorded in both guilds' ledgers
+**Rays (☼)**
+- Lumen's everyday local currency
+- Used for most transactions between households and guilds
+- Issued by Lumen's coordination systems, backed by community production
+- Symbol: ☼ (e.g., "☼100" or "a hundred rays")
 
-### Balancing Resources
+#### Tier 4: Guild Currencies
 
-Narrow currencies prevent resource hoarding and encourage circulation:
+Each guild issues its own scrip, valuable within that guild's domain and convertible to Rays at guild-set rates:
 
-- Currencies expire or decay if unused too long
-- Certain currencies can only be spent within specific domains
-- Major imbalances trigger community review and reallocation
-- The Astravus itself moderates extreme concentrations through subtle environmental influence
+| Guild | Currency Name | Symbol | Notes |
+|-------|--------------|--------|-------|
+| Textile Weavers | Threads | ⊤ | Redeemable for guild textiles at member rates |
+| Ceramic Artists | Rounds | ○ | Preferred for pottery and restoration |
+| Acoustic Architects | Notes | ♪ | Good for soundscape consultations |
+| Lattice Technicians | Bonds | ⌇ | Infrastructure and maintenance services |
+| Fermentation Collective | Cultures | ⌘ | Specialty foods and beverages |
+| Botanical Engineers | Seeds | ❋ | Garden design and ecological services |
+
+#### Tier 5: Household Accounts
+
+Each household maintains internal accounts tracking:
+- Member contributions and draws
+- Outstanding obligations to other households
+- Accumulated guild currencies and Rays
+- Time commitments (care hours, shared duties)
+
+Household accounts don't circulate externally—they're internal bookkeeping that determines what the household can spend.
+
+### Why Not Direct Barter?
+
+Direct barter creates problems:
+- **Double coincidence of wants**: You need someone who has what you want AND wants what you have
+- **Valuation disputes**: Every trade requires negotiating relative worth
+- **No accumulation for major purchases**: Hard to save for something expensive
+- **Relationship strain**: Negotiating with neighbors breeds resentment
+
+Currencies solve these problems by providing:
+- **Intermediation**: Sell honey to anyone, buy blankets from anyone
+- **Standard pricing**: Goods have known values in Rays
+- **Savings**: Accumulate Rays for major household purchases
+- **Clean transactions**: The currency handles the math; relationships stay warm
+
+### How Trade Actually Works
+
+**Example: A Household Buying a Blanket**
+
+1. Household Vesper sells honey at market, receiving ☼80 in Rays
+2. They also hold ⊤15 in Weaver Threads from a previous transaction
+3. The ceremonial blanket is priced at ☼60 or equivalent
+4. They pay ☼45 plus ⊤15 (Threads convert at favorable rates within the guild)
+5. Transaction complete—no negotiation of relative worth, no bartering
+
+**Example: Guild-to-Guild Transaction**
+
+1. Ceramic Artists need a new kiln interface from Lattice Technicians
+2. Listed price: ◇30 (sparks, because it requires significant energy allocation)
+3. Ceramicists pay from their guild's Spark reserves
+4. If short on Sparks, they can convert Rays at the current exchange rate
+5. No need to find a Lattice Technician who wants pottery
+
+### Currency Exchange
+
+Currencies convert through established rates maintained by coordination systems:
+
+- **Guild scrip → Rays**: Each guild sets its own rate (typically favorable for members)
+- **Rays → Sparks**: Floating rate based on energy availability
+- **Rays → Bonds**: Fixed inter-Astravii exchange agreements
+- **Household accounts → Rays**: Households draw from accumulated balances
+
+Exchange happens automatically through ledger systems—no need to visit a money changer.
+
+### Currency Decay and Circulation
+
+To prevent hoarding:
+- **Guild scrip** expires if unused (typically 1-2 years)
+- **Rays** lose small value over time (demurrage), encouraging spending
+- **Sparks** are stable but monitored—large accumulations trigger review
+- **Bonds** are the most stable, designed for long-term inter-Astravii obligations
+
+### Prices and Everyday Life
+
+Common price references in Rays (☼):
+
+| Item | Typical Price |
+|------|---------------|
+| Loaf of artisan bread | ☼2-3 |
+| Jar of specialty honey | ☼5-8 |
+| Standard clothing | ☼15-30 |
+| Ceremonial blanket | ☼50-80 |
+| Ceramic restoration | ☼10-20 (materials) |
+| Soundscape consultation | ♪10 or ☼25 |
+| Care hour (childcare, elder support) | ☼4-6 |
 
 ---
 

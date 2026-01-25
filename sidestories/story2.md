@@ -1,6 +1,6 @@
 # User Prompt
 
-Write a side story set in Lumen on market day, following a household member navigating the economic web of guilds and households. Show the blend of commerce and cooperation—barter, narrow currencies, guild relationships, and household trade. Include cameo appearances by main characters in the background. The story should reveal how Lumen's socioeconomic system creates abundance through circulation rather than accumulation.
+Write a side story set in Lumen on market day, following a household member navigating the economic web of guilds and households. Show the layered currency system—Sparks, Bonds, Rays, and guild scrip—working fluidly. Include cameo appearances by main characters in the background. The story should reveal how Lumen's socioeconomic system creates abundance through circulation rather than accumulation.
 
 # Market Morning
 
@@ -14,9 +14,9 @@ She rolled out of bed and padded to the kitchen, where her household-mate Corvin
 
 Vesper nodded, mentally adjusting her morning route. The Weavers' stall was on the east side of the plaza, which meant she'd pass the Ceramic Artists on the way—she could check on the repair to Grandmother's tea set.
 
-"How are we on time credits?" she asked.
+"How are we on Rays?" she asked.
 
-"Fourteen. Plus whatever we earn today. Should be enough for the blanket and the ceramics, if you can move the honey."
+"Forty-two in the household account. Plus we're holding ⊤18 in Weaver Threads from last month." Corvin glanced up. "Should be enough for the blanket if you move the honey well. The ceramics will be maybe ☼12 for materials."
 
 Vesper smiled. She could always move the honey.
 
@@ -30,33 +30,35 @@ She set up at their household's usual spot—a stone table that had been their g
 
 "Vesper!" A voice cut through the crowd. "Is that the mountain honey?"
 
-She looked up to see Brennan himself—broad-shouldered, flour-dusted, carrying a basket of the bread that had woken her. Behind him trailed two of his household's children, already negotiating with a fruit seller three stalls down.
+She looked up to see Brennan himself—broad-shouldered, flour-dusted, carrying a basket of the bread that had woken her. Behind him trailed two of his household's children, already browsing a fruit seller three stalls down.
 
 "Last batch of the season," Vesper said. "The bees are sleeping."
 
-Brennan's eyes widened. "I need four jars. The festival cakes won't be the same without it."
+Brennan's eyes widened. "I need four jars. Name your price."
 
-"Four jars is twenty tokens. Or..." She tilted her head, calculating. "Your household still does the evening bread run to the Lattice Technicians?"
+"☼28 for four." A slight premium for end-of-season scarcity.
 
-"Every third night."
+Brennan didn't even hesitate. He tapped his ledger against hers, and the Rays transferred—his household account to hers, clean and immediate. "Worth every ray. The festival cakes won't be the same without it."
 
-"Take our evening run for a month. That's worth twelve tokens. Plus eight in barter credit."
-
-Brennan considered, then laughed. "You're sharper than your grandmother. Deal."
-
-They clasped hands, and the exchange was complete. Vesper marked it in her household ledger—a small pad of living paper that would sync with the community records by evening.
+Vesper wrapped the jars carefully and handed them over. No negotiation, no calculating relative worth, no awkwardness. Just a fair price paid in currency they both trusted.
 
 ---
 
 The morning flowed like water finding its level.
 
-She traded herbs to a young acoustic architect who was setting up a new studio and needed scent-dampening plants. He paid in guild scrip—good at any Acoustic Architects workshop for soundscape consultations. Her household-mate Reya would love that; she'd been complaining about the echo in the nursery.
+A young acoustic architect stopped by, examining the dried herbs. "Scent-dampening sage? I'm setting up a new studio."
 
-A neighboring household sent their eldest with preserved vegetables and a question: could they trade for childcare hours next month? Vesper checked her ledger. Their household had surplus care capacity—Grandmother was eager for more time with little ones before her transcendence. She negotiated two baskets of vegetables for eight hours of care, recorded it, and sent the girl home with a jar of honey as a "tasting sample."
+"☼6 for the bundle. Or—" Vesper checked her ledger. "We're actually looking to accumulate some Notes. ♪15 would work too."
 
-By mid-morning, half her goods were gone and her ledger was full of flowing arrows: honey out, bread runs in, guild scrip accumulating, time credits shifting, favors owed and favors called.
+He brightened. "♪15 is easier for me right now. I'm flush with guild scrip, short on Rays until my first clients pay."
 
-This was the real wealth of Lumen. Not what you held, but what moved through you.
+They tapped ledgers. Vesper's household now held ♪15 in Acoustic Notes—good at any guild workshop for soundscape consultations. Her household-mate Reya would love that; she'd been complaining about the echo in the nursery.
+
+A neighboring household sent their eldest with ☼14 and a question: could they reserve eight hours of care next month? Vesper checked the household schedule. Grandmother was eager for more time with little ones before her transcendence.
+
+"☼14 covers six hours at standard rate," Vesper said. "But tell your parents we'll do eight. Grandmother loves your little ones." She marked the care commitment in their ledger—partly paid, partly gift.
+
+By mid-morning, half her goods were gone and the household account had grown: ☼28 from Brennan, ☼14 from the neighbors, ☼18 from smaller sales. Plus ♪15 in Notes. This was the real wealth of Lumen—not hoarded savings but active flow, currencies moving through you like breath.
 
 ---
 
@@ -64,19 +66,15 @@ She found the Weavers' stall draped in new work—tapestries that shimmered with
 
 The guildmaster, a woman with silver hair and fingers perpetually stained with dye, looked up as Vesper approached. She'd been sketching a new pattern—the kind of work no loom could do on its own.
 
-"The blanket's ready. Reya's colors, as promised." She produced it from beneath the counter: deep blues and greens that seemed to hold their own light. Hand-woven, Vesper noted—a ceremonial piece, not something from the automated lines. "Sixty tokens or equivalent."
+"The blanket's ready. Reya's colors, as promised." She produced it from beneath the counter: deep blues and greens that seemed to hold their own light. Hand-woven, Vesper noted—a ceremonial piece, not something from the automated lines. "☼65, or ☼50 plus Threads."
 
-Vesper winced internally. Their household had budgeted fifty.
+Vesper checked her ledger. The household now held ☼102 in Rays and ⊤18 in Weaver Threads.
 
-"The baby's due next month," she said carefully. "We're at forty-two tokens after this morning. But—" She thought quickly. "Our household is hosting the next inter-guild dinner. Would the Weavers like a guaranteed seat? Two members, full meal, prime table near the musicians?"
+"☼47 plus our ⊤18?"
 
-The guildmaster's eyes glinted. Those dinners were the best networking in Lumen, and seats were allocated by household rotation.
+"Done." The guildmaster tapped her own ledger, and the currencies flowed—Rays to the guild's general account, Threads back into guild circulation where they'd eventually reach another member or convert to Rays for external purchases.
 
-"One seat guaranteed, one seat if available," the guildmaster countered.
-
-"Done."
-
-The blanket changed hands. Vesper cradled it carefully, already imagining Reya's face when she saw it.
+The blanket changed hands. Vesper cradled it carefully, already imagining Reya's face.
 
 ---
 
@@ -88,13 +86,13 @@ At the ceramics stall, a young apprentice was carefully wrapping her grandmother
 
 The apprentice ducked her head, pleased. "Master Orin showed me a technique from the archives. Three hundred years old, but perfect for this glaze. The fabricators can make a thousand cups, but they can't do *this*." She touched the mended lid with evident pride.
 
-"What do I owe?"
+"What's the damage?"
 
-"The guild logged it as training hours—no charge beyond the materials. Two tokens?"
+"☼8 for materials. The labor was logged as training hours."
 
-Vesper paid and added a small jar of honey. "For your household. From ours."
+Vesper paid, then paused. She still had several jars of honey. "Would you take a jar as a gift? For your household, from ours."
 
-The apprentice's smile was worth more than any currency.
+The apprentice's smile was worth more than any currency. But that was the point—gifts flowed outside the currency system, building relationships that made the currencies work.
 
 ---
 
@@ -114,18 +112,16 @@ Grandmother examined the repaired tea set with trembling hands, then looked up w
 
 Reya held the blanket against her growing belly, the colors shimmering. "It's perfect. The baby will know these colors before she even opens her eyes."
 
-Corvin tallied the day's trades in the household ledger: honey distributed across six households, bread responsibilities shifted, guild relationships strengthened, time credits flowing, ceramic bonds renewed. A dinner seat promised. Care hours committed. A web of obligations that was also, somehow, a web of gifts.
+Corvin tallied the day in the household ledger. "Started with ☼42 and ⊤18. Sold ☼60 worth of goods. Spent ☼55 on the blanket and ☼8 on ceramics. Net: ☼39 in Rays, ♪15 in Notes, and six paid care hours committed for next month." He looked up. "Plus three jars of honey given as gifts."
 
-In the corner, the household's small fabricator hummed through its evening queue—standard jars for tomorrow's honey, replacement lids for the preserve containers, the small necessities that no one needed to make by hand. It freed them to do what mattered: the spice blend that made their honey unique, the careful harvesting that kept the bees content, the relationships that turned neighbors into trading partners.
+"Gifts don't go in the ledger," Grandmother said, her voice gentle.
 
-"Good day?" he asked.
+"I know." Corvin smiled. "But I like to remember them anyway."
 
-Vesper looked around the room: Grandmother with her restored tea set, Reya with her blanket, the children playing a game with tokens that taught them trade-balancing, the smell of Brennan's bread still lingering from the basket they'd received in exchange for a month of evening runs.
+In the corner, the household's small fabricator hummed through its evening queue—standard jars for tomorrow's honey, replacement lids for the preserve containers, the small necessities that no one needed to make by hand. It freed them to do what mattered: the spice blend that made their honey unique, the careful harvesting that kept the bees content, the relationships that turned neighbors into customers and customers into friends.
 
-"Good day," she agreed.
-
-Through the window, Lumen's bioluminescent gardens shifted toward evening colors. The Astravus hummed, low and satisfied—the sound of a living world where nothing was hoarded and everything flowed.
+Through the window, Lumen's bioluminescent gardens shifted toward evening colors. The Astravus hummed, low and satisfied—the sound of a living world where currencies flowed like blood and gifts flowed like breath.
 
 Vesper understood, as she always did on market days, that she wasn't just trading goods.
 
-She was weaving Lumen together, one exchange at a time.
+She was weaving Lumen together, one transaction at a time.
