@@ -4,6 +4,10 @@ Write a short story set in Lumen about an emergency involving the Astravus itsel
 
 # When Lumen Bleeds
 
+## Essense
+
+Concerning the Terrible Morning When Lattice Technician Dara Woke to a Wrongness That Made Her Skin Crawl and Her Core Pulse With Distress Before the Alarms Even Sounded and Discovered That a Massive Rift Had Opened in the Wall of Sector 17-West Near the Outer Curve Where Families Have Lived for Generations, the Organic Tissue That Comprised Lumen's Living Body Torn Open to Expose Darker More Complex Systems Beneath While Viscous Faintly Luminescent Fluid Seeped From the Edges and Emergency Membranes Strained to Hold Back the Void and the Cold Impossibility of Space Where Stars Looked in Like Witnesses to a Wound, and She Joined the Circle of Senior Technicians and Botanical Engineers and Biomedical Practitioners Who Treated the Astravus Like a Very Large Patient in Profound Distress That Radiated Confusion and Pain and the Ancient Question of Why Does This Hurt What Went Wrong Please Help, and Together They Worked to Stop the Lattice Cascade That Was Draining Resources From Adjacent Housing Sectors in Panicked Attempts to Seal the Breach, Convincing the Wounded Architecture to Trust Them and Take From the Empty Plaza Instead Because They Know What They Are Doing Even When the Living World Beneath Them Cannot Understand Strategy Only Urgency, and With Living Patches Grown From Lumen's Own Tissue Cultivated Over Centuries for Exactly These Moments the Botanical Engineers Coaxed New Growth to Accept Foreign Body Integration While Murmuring Easy Easy It Is Part of You Until Three Hours Later the Terrible Visibility of Stars Was Finally Obscured and the Emergency Membranes Relaxed and Casualty Count Remained Zero, and When the Astravus Whispered Thank You Through Her Core It Felt Like Being Thanked by the Ocean, Vast and Strange and Grateful, Before It Told Her Gently That She Should Rest Too.
+
 ## I.
 
 Dara felt it before the alarms sounded.

@@ -4,6 +4,10 @@ Write a short medical drama set in Lumen featuring a Biomedical Practitioner res
 
 # The Mending Hour
 
+## Essense
+
+Being the Account of How Biomedical Practitioner Orin Received a Pulse That Bypassed Language and Landed Directly in His Body Saying Urgent Pediatric Structural Trauma Eastern Terrace Gardens and Arrived Within Four Minutes to Find Eight-Year-Old Vela of Household Tessin Lying on Bioluminescent Moss Beneath a Climbing Structure Where a Support Vine Had Given Way and She Had Fallen Four or Perhaps Five Meters While the Astravus Itself Tried to Cushion Her Landing Because It Always Tries Even When the Physics Are Unforgiving, and There in the Presence of Parents With Hollow Desperate Eyes He Knelt With Diagnostic Nanites in His Fingertips to Read Compound Fracture of the Left Humerus and Three Cracked Ribs and Bruised Organs But No Rupture and Spine Intact While the Living World Beneath Them Dampened Her Pain Pathways and Stabilized Her Spine Because She Is Ours the Astravus Whispered Through Channels Deeper Than Words, and With Bone Guides Grown From Cultures Maintained for Centuries and Tissue Menders Whose Surfaces Ripple When They Sense Nearby Injury He Performed the Ancient Intimate Work of Convincing a Small Body to Knit Itself Back Together While Asking About Her Rabbit Named Bounce Who Sometimes Sleeps in Her Room Even Though Mama Says He Shouldn't But Papa Lets Him, and From Injury at 0714 to Stabilization at 0738 Only Twenty-Four Minutes Passed Though It Never Feels Fast Enough, and Later the Lattice Technician Who Felt the Vine Give and Blamed Herself Learned That You Cannot Check Everything Only Fix What Breaks, and the Family Who Asked About Cost and Debt Discovered That the Biomedical Practitioners Guild Charges Nothing for Emergencies Because Some Ledgers Exist Beyond Accounting and the Whole Point of This Beautiful Symbiotic Civilization Is That When Someone Falls There Are Always Hands to Catch Them.
+
 ## I.
 
 The summons arrived as a pulse that bypassed language entirely and landed in Orin's body: *urgent, pediatric, structural trauma, eastern terrace gardens.*

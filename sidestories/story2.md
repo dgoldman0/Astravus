@@ -4,6 +4,10 @@ Write a side story set in Lumen during the arrival of a visiting Astravus bringi
 
 # The Arrival Market
 
+## Essense
+
+Wherein the Deep Harmonic Unfamiliar Resonance of a Wanderer Class Astravus Named Kestrel Approaching From the Outer Reach Carrying Void-Grown Crystals and Spice Blends From Gardens That Have Not Traded in Three Years Transforms the Central Plaza Into a Magnificent Chaos of Temporary Stalls Draped in Bioluminescent Banners That Shift Colors in Foreign Patterns While Vesper of Household Corvin Navigates the Layered Currency System of Sparks and Bonds and Rays and Guild Scrip With Fourteen Jars of Spiced Honey That Suddenly Become More Valuable Than She Ever Imagined Because the Arrival Market Inverts Scarcity and Abundance Until Common Goods Become Precious to Visitors and Rare Goods Become Accessible to Residents, and She Must Choose Between the Blue-Green Blanket Woven for Reya's Coming Baby and the Tea Set Repair for Grandmother Who Is Leaving Soon and a Small Bundle of Night-Blooming Jasmine Seeds From the Crimson Garden's Heritage Strain Maintained in Pure Form for Two Hundred Years, the Kind of Seeds That Will Not Bloom for Decades But Might Still Carry the Scent of How the Beginning Smelled Before Genetic Drift Changed Everything, and Through This Impossible Choice She Discovers That Lumen's Socioeconomic System Creates Abundance Through Circulation Rather Than Accumulation, That Gift and Trade Flow Like Water Finding Its Level, That the Weavers' Guild Will Wait One More Week Because Archives Three Hundred Years Old Can Afford Patience, and That Sometimes the Most Important Things Are the Ones We Cannot Afford Until the Whole Community Conspires to Make Them Possible Anyway.
+
 ## I.
 
 Vesper woke to the resonance.

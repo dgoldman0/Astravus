@@ -4,6 +4,10 @@ Write a side story set in Lumen featuring a lattice technician doing maintenance
 
 # The Lattice Work
 
+## Essense
+
+In Which the Morning's First Light Finds Worn Hands Pressed Against Breathing Walls Where Bioluminescent Pathways Dim Between Sleep and Waking, and the Lattice Technician Who Has Spent Nine Years Learning to Hear What Architecture Whispers When It Carries Too Much Weight Discovers That Redirecting Nutrient Flow Through Overloaded Support Clusters and Coaxing Eastern Networks to Share Their Burdens With Underutilized Western Pathways Is Less Like Engineering and More Like Teaching the Living City to Remember How to Rest, While a Chestnut-Haired Girl with Eyes Too Bright for Dawn and a Black Cat Who Moves Like Living Ink Walks Through Corridors That Hum Wrong and Somehow Feels the Undertones That Others Dismiss as Imagination, and Later at the Tree of Echoes Where Grief Accumulates in Memory-Rich Strata the Technician Must Coax Sharp Edges of Loss to Soften Into Background Hum Rather Than Constant Ache Because a Community That Rarely Loses Anyone Never Learns the Grammar of Letting Go, and As Festival Lanterns Rise Carrying Wishes Too Fragile for Words While Music Layers Through Crowds and the Astravus Itself Pulses in Rhythm With Celebration, She Understands That This Is the Work—Simply Noticing Strain Before It Becomes Fracture, Making Room for Sorrow Without Letting It Calcify, Ensuring That When People Move Forward the Living World Moves With Them, Because Someone Must Keep Vigil in the Quiet Hours When Everyone Else Sleeps and the Corridors Develop New Hesitations and the Whole Beautiful Symbiotic Architecture Needs Hands That Know How to Listen.
+
 ## I.
 
 The bioluminescent pathways were doing that thing again—the slow dimming that wasn't quite sleep, not quite waking. Tamsin pressed her palm against the corridor wall and felt it shift beneath her touch, adjusting temperature by half a degree.
