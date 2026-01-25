@@ -284,7 +284,7 @@ Thane's expression shifted into something that looked like relief and sadness mi
 
 "What are you?" Maeven asked.
 
-"Travelers. Inheritors of a long history. Descendants of a species that began on a world called Earth and spread across the stars." Thane's voice carried weight. "You asked if we were kind. I cannot promise kindness. But we remember loneliness, and we remember wondering, and we chose to answer your curiosity because once, long ago, we had no one to answer ours."
+"Travelers. Inheritors of a long history. Descendants of a species that began on a world called Earth and spread across the stars." Thane's voice carried weight. "You asked if we were kind. I can promise kindness. I cannot promise that we will be nice if the response to our existence is unkind. Still, we remember loneliness, and we remember wondering, and we chose to answer your curiosity because once, long ago, we had no one to answer ours."
 
 Keth felt tears on her face and didn't care. "Will you tell us? About Earth? About what you became?"
 
