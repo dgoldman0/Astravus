@@ -326,8 +326,6 @@ Outside, the sun rose over Verath. Somewhere above, too distant to see but impos
 
 The unknown had arrived.
 
-And it was waiting for an answer.
-
 ---
 
 *End of Part One*
